@@ -1,0 +1,7322 @@
+ricercatore	count
+beguinot francesco	11
+lucio santoro	11
+ambrosio luigi	9
+buttazzo giuseppe mario	8
+tacchetti carlo	8
+fusco nicola	8
+giorgino francesco	8
+d'urso guido	7
+nitsch lucio	7
+cirino giuseppe	7
+sesti giorgio	7
+pardi ruggero	7
+barletta antonio	7
+alifano pietro	7
+pucci pietro	6
+pozzi gianni	6
+dal maso gianni	6
+lunardon guglielmo	6
+cama alessandro	6
+salvatore domenico	6
+deiana salvatore andrea	6
+de giovanni francesco	6
+pontecorvi alfredo	6
+villone fabio	6
+gargano antonio	6
+saglio giuseppe	6
+trischitta vincenzo	6
+sannia giovanni	6
+pennacchio francesco	6
+korchmaros gabor	6
+caputi achille	6
+fenzi gianfranco	6
+damante giuseppe	6
+annunziato lucio	6
+fiorucci stefano	6
+geppetti pierangelo	6
+manca oronzio	6
+masi carla	6
+giannella mario	6
+rossi guido	6
+miele gennaro	6
+pane fabrizio	6
+ferone vincenzo	6
+visca paolo	6
+barberis elisabetta	6
+avvedimento vittorio enrico	6
+marino gennaro	6
+de pascale stefania	6
+taglialatela maurizio	6
+ciarlo pietro	5
+gessa kurotschka vanna	5
+bonatti stefano	5
+melacini paola	5
+giuseppe vita	5
+riccio andrea	5
+gazzola filippo	5
+grieco paolo	5
+zurzolo chiara	5
+de vendittis emmanuele	5
+ciriolo maria rosa	5
+fiori pier luigi	5
+teti roberto	5
+greco giovanni	5
+tringali corrado	5
+ciminiello patrizia	5
+serra cassano francesco	5
+lauro renato	5
+landolfo raffaele	5
+maiorana carmelo	5
+roggero pier paolo	5
+scrimin paolo maria	5
+betocchi sandro	5
+consoli agostino	5
+pitacco ermanno	5
+savare' giuseppe	5
+bagetta giacinto	5
+marciano elio	5
+violante antonio	5
+braides andrea	5
+di lorenzo emilia	5
+rossini gian paolo	5
+bruno domenico	5
+marone gianni	5
+racioppi luigi	5
+de arcangelis lucilla	5
+di fiore pier paolo	5
+mercede	5
+pintaudi rosario	5
+melluso leone	5
+ballabio andrea	5
+ghigo ezio	5
+fusco girard luigi	5
+rao rosa	5
+cianchi andrea	5
+mariggio' maria addolorata	5
+lungarella giuseppe	5
+bruno maurizio	5
+di martino lino	5
+vecchio giancarlo	5
+berejiani zourab	5
+conticelli sandro	5
+bernardini maria	5
+berrino liberato	5
+ludovico antonio domenico	5
+federici massimo	5
+guerrini luisa francesca	5
+gionfriddo mario	5
+gandolfi claudio	5
+ricci vittorio	5
+messeri gabriella	5
+parodi silvio	5
+iolascon achille	5
+izzo paola	5
+de franceschi lucia	5
+poli giuseppe	5
+trimarco bruno	5
+casolo carlo	5
+davide pareyson	5
+scozzafava andrea	5
+xodo luigi	5
+di lauro roberto	5
+lombardi gaetano	5
+zarrilli raffaele	5
+cappellini maria domenica	5
+gembillo giuseppe	5
+orecchia ferruccio	5
+marcellini paolo	5
+acquaviva angela maria	5
+comoglio paolo	5
+lucia ovidia morandi	5
+pedone carlo	5
+pinto aldo	5
+bartolucci simonetta	5
+mensitieri giuseppe	5
+ritieni alberto	5
+ferrari anna	5
+andria generoso	5
+de rosa gaetano	5
+mancini giuseppe	5
+calignano antonio	5
+melchiorre carlo	5
+cacciatore giuseppe	5
+pagano marco	5
+manca raimondo	5
+dianzani irma	5
+d'agostino bruno	5
+belfiore antonino	5
+campanella chiara	5
+di girolamo costanzo	5
+migliorati graziella	4
+bonora loriano	4
+boero paolo	4
+agodi maria carmela	4
+pinto ferdinando	4
+gasparrini carlo	4
+maurizio taglialatela	4
+salvadori neri	4
+viscuso renata	4
+salatino piero	4
+betta giovanni	4
+stecchini mara lucia	4
+stoppini monica	4
+pernice pasquale	4
+pettorino roberto	4
+strazzullo pasquale	4
+lee charmaine anne	4
+suppa silvio	4
+spano pier franco	4
+mattei massimo	4
+sozzani silvano	4
+di sciuva marco	4
+sornicola rosanna	4
+scarpa carlo	4
+di natale paola	4
+russo domenico	4
+vichi maurizio	4
+caroli anna maria	4
+barbieri paola	4
+pilla fabio	4
+olivotto massimo	4
+sorrentino raffaella	4
+defilippi paola	4
+valentina lopresto	4
+de rosa claudio	4
+fiorentini giovanni	4
+vernieri paolo	4
+de blasi nicola	4
+gualtieri fulvio	4
+sacerdote laura lea	4
+scarano rolando	4
+gianfreda liliana	4
+aldo quattrone	4
+serpico sebastiano	4
+maffettone pier luca	4
+costabile lilia	4
+campiani giuseppe	4
+agostini carlo	4
+rosati luciano	4
+nuzzo enrico	4
+russo diego francesco b.	4
+ruoppolo margherita	4
+romeo giovanni	4
+pirozzi francesco	4
+carmelo rodolico	4
+rega nadia	4
+colazza stefano	4
+colao annamaria	4
+saccocci andrea	4
+duncan mcfarlane	4
+macchia paolo emidio	4
+chieffi lorenzo	4
+viglino paolo	4
+verde rosanna	4
+mele michele	4
+martina riccardo	4
+giordana barbara cloe	4
+di nocera pierpaolo	4
+malara nicolina antonia	4
+riccardi gabriele	4
+arcari paolo	4
+graziani filippo	4
+buonavoglia canio	4
+tortora paolo	4
+nacci vito	4
+maltomini franco	4
+carfagna cosimo	4
+kenichi soga	4
+roberto cippola	4
+riccio raffaele	4
+sitia roberto	4
+gargiulo giuseppe	4
+lord robert mair	4
+masi paolo	4
+lachin giosue'	4
+angelo schenone	4
+luca padua	4
+chiarellotto bruno	4
+tubaro aurelia	4
+previtera lucio	4
+russo stefano	4
+degli uberti ettore	4
+lo muzio lorenzo	4
+fragnito gigliola	4
+marinelli luciana	4
+polara giovanni	4
+guerra gaetano	4
+pironti alfredo	4
+enzo ricci	4
+castoria gabriella	4
+romano nunzio	4
+ramunno luigi	4
+gotti maurizio	4
+quinto ileana	4
+pumo domenico	4
+borgese dominica	4
+magliano taliercio marina	4
+pedrini claudio	4
+pinchera aldo	4
+barattolo filippo	4
+pavone vincenzo	4
+vinti carlo	4
+calise mauro	4
+baccarani michele	4
+tepedino adele	4
+cubellis maria vittoria	4
+de angelis violetta	4
+pastore lucio	4
+nobile amelia giuseppina	4
+polito catello	4
+paolucci gino	4
+covello aldo	4
+campbell middleton	4
+cammarata giuliano	4
+poggi giovanni	4
+cuzzocrea salvatore	4
+nobile enrico	4
+gigliotti gianna	4
+romano daniela maura maria	4
+naso vincenzo	4
+nappi carmine	4
+ambrosio giuseppe	4
+cozzolino salvatore	4
+gaddoni silvia	4
+stassi giorgio	4
+moroni flavio	4
+ying jin	4
+monno michele	4
+albanese raffaele	4
+piccolo alessandro	4
+bucci ovidio mario	4
+giacomelli giampaolo	4
+cortesi maria luisa	4
+gabriele siciliano	4
+spinelli paolo	4
+mayol luciano	4
+bastianini guido	4
+mainiero fabrizio	4
+di minno giovanni	4
+de micheli carlo	4
+borrelli francesco	4
+francesco beguinot	4
+francavilla felice	4
+fornero elsa maria	4
+menegazzo federico	4
+lorito matteo	4
+antonio di muzio	4
+maurizio moggio	4
+bertolucci valeria	4
+lanni antonia	4
+broglia ricardo americo	4
+mazzocchi giuseppe	4
+martina roberto	4
+fidecaro francesco	4
+ianaro angela	4
+guida saverio	4
+fermeglia maurizio	4
+grego stefano	4
+siciliano aldo	4
+de prisco antonio	4
+ghinelli dina	4
+albinati alberto	4
+santini alessandro	4
+faella ciro	4
+de placido sabino	4
+barbieri giancarlo	4
+agostinelli enzo	4
+tafuri francesco	4
+d'apuzzo massimo	4
+balletta francesco	4
+d'ischia marco	4
+longo francesca	4
+di martino gabriella	4
+faina giorgio	4
+barale giuliano massimo	4
+pivonello rosario	4
+zappia vincenzo	4
+amoretti francesco	4
+lavecchia antonio	4
+bruni carmelo bruno	4
+rossella ginevra tupler	4
+piccialli gennaro	4
+serpieri roberto	4
+jappelli tullio	4
+scudiero michele	4
+zambrano nicola	4
+iovane giuseppe	4
+cuomo massimo	4
+ferrario matilde	4
+ialenti armando	4
+vitolo giovanni	4
+savastano silvia	4
+co' giampaolo	4
+guardi' tommaso	4
+violini lorenza	4
+nicola silvana	4
+chiesa sergio	4
+santoro vittorio	4
+cotroneo girolamo	4
+villacci domenico	4
+battaglia donatella	4
+goglia fernando	4
+laforgia domenico	4
+corrado angelini	4
+gismondi angela	4
+valbonesi paola	4
+scala giuseppe	4
+giordano silvia	4
+buja giuseppe	4
+zagaglia norma	4
+pappalardo giuseppe	4
+rispoli marilena	4
+mazzolani federico massimo	4
+biffo stefano	4
+de martino attilio	4
+troncone riccardo	4
+tortora roberto	4
+bertero mario	4
+tamburrini guglielmo	4
+de palma giovanni domenico	4
+basolo fulvio	4
+strollo antonio giuseppe maria	4
+ashwin seshia	4
+de marco gabriella	3
+chiti fabrizio	3
+russo gennaro	3
+chiarugi paola	3
+bin ferdinando	3
+colicchi enza	3
+ceccarelli michele	3
+la mantia girolama	3
+d'agostino salvatore	3
+d'alessio giuseppe	3
+frusciante luigi	3
+trabace luigia	3
+rengo franco	3
+briganti ernesto	3
+quattrone aldo	3
+grieco michele	3
+cavallini giorgio	3
+civetta lucia	3
+fagiolo marcello	3
+de placido giuseppe	3
+savettieri giovanni	3
+ricci fulvio	3
+vitiello giuseppe	3
+ubertini francesco	3
+de pascale espedito	3
+pignata claudio	3
+de michele giuseppe	3
+monti luigi	3
+girardello luciano	3
+piccolo antonio	3
+giovannini massimo	3
+marin marcello	3
+carucci alessandra	3
+pulci doria guelfo	3
+grassi michele	3
+rizzo silvia	3
+meola carlo	3
+ponz de leon pisani maurizio	3
+poma andrea adolfo maria consolata	3
+govoni stefano	3
+carotenuto alfonso	3
+corazza gino roberto	3
+fogli gianluigi	3
+quarati piero	3
+wanke enzo	3
+formisano silvestro	3
+battistelli luigi	3
+fiorillo giuliana	3
+fiorentini simona	3
+gobbetti marco	3
+pucci giuseppe	3
+ronsisvalle giuseppe	3
+cambi franco	3
+perrone roberto	3
+bartolone claudio	3
+valentini gabriele	3
+nicolais luigi	3
+weber hans	3
+piga andrea	3
+coghe aldo sebastiano	3
+barresi antonello	3
+peracchi franco	3
+gilardi gianfranco	3
+rotoli bruno	3
+federico massimo	3
+vitti paolo	3
+cerri guido	3
+d'andria francesco	3
+tognotti leonardo	3
+santucci rosario	3
+pimpini ferdinando	3
+chianese lina	3
+cringoli giuseppe	3
+ferrari giancarlo	3
+marcial echenique	3
+migliaccio antimo	3
+leonardi rosalia maria	3
+evangelisti allori paola	3
+de virgiliis stefano	3
+cerri augusto	3
+ferrante antonio	3
+rossi renzo	3
+dardanoni valentino	3
+franzetti silvio	3
+mallamace francesco	3
+faravelli tiziano	3
+pennisi carlo	3
+tempia filippo	3
+gian maria fabrizi	3
+giannini mauro	3
+candeloro domenico	3
+giuliana galluzzi	3
+viparelli valeria	3
+giacomelli roberto	3
+pronzato maria adelaide	3
+d'agostino vincenzo	3
+scaramuzzino francesco	3
+ghersi aurelio	3
+crescenzi orlando	3
+antonetti claudia	3
+siciliano roberta	3
+belli daniela	3
+dell'olmo paolo	3
+ranzi eliseo maria	3
+cecchi franco	3
+perotti maria elisa	3
+zoli carlo	3
+palmieri vincenzo ostilio	3
+panu rino	3
+franco gemignani	3
+gelli giacinto	3
+corsini giovanni	3
+la spina antonio	3
+pagano enrico	3
+paduano luigi	3
+pacini ettore	3
+pace emanuele	3
+di francesco dario	3
+centi beatrice	3
+esposito giovanni	3
+leonardi antonio	3
+orefice mario	3
+gasparri carlo	3
+lando fabio	3
+cucchiara salvatore	3
+centanni marco	3
+marinari umberto maria	3
+lenarda maurizio	3
+calogero francesco	3
+costantini flavio	3
+gorini giovanni	3
+cursi maria floriana	3
+mancinelli anna maria	3
+de giorgio roberto	3
+rossi paolo	3
+gambino silvio	3
+siniscalchi agata	3
+la mantia francesco paolo	3
+bernardi giorgio	3
+pietrobon daniela	3
+gianotti gian franco	3
+cristofolini giovanni	3
+baldini antonio	3
+primofiore giampaolo	3
+arico' nicola	3
+miccio michele	3
+mosca manuela	3
+paolisso giuseppe	3
+celano gaetano vitale	3
+caglioti francesco	3
+colombo claudio massimo	3
+fusco domenico	3
+gasbarrini antonio	3
+sacco margherita	3
+fugassa emilia	3
+giustina andrea	3
+mondola paolo	3
+maccarini giancarlo	3
+gianfranco sebastio	3
+benadusi luciano	3
+savino maria	3
+wolf ugo	3
+catania andrea emilio	3
+vita finzi paola valeria	3
+lanzo antonio domenico	3
+di stasio liliana	3
+buonocore vincenzo	3
+lucarelli francesco	3
+muzi marielisa	3
+postiglione loredana	3
+chieco bianchi luigi	3
+talevi riccardo	3
+meschini anna	3
+appendino giovanni battista	3
+savoia marco	3
+ajith kumar narayanan parlikad	3
+provenzano giuseppe antonio	3
+menis roberto	3
+memo maurizio	3
+formisano pietro	3
+scala felice	3
+falcone giuseppe	3
+iori ivo	3
+brighenti furio	3
+caruso sebastiano	3
+picarelli luciano	3
+grimaldi domenico	3
+mautone maria	3
+turco maria	3
+masullo mariorosario	3
+di natale michele	3
+cambini carlo	3
+mercurio riccardo	3
+di stefano anna	3
+di toro massimo	3
+ranzani guglielmina	3
+di vaio claudio	3
+mitchell turker	3
+bardati fernando	3
+lauria francesco	3
+ferrara nicola	3
+di massa giuseppe	3
+bruno ottorino	3
+aghemo chiara	3
+bianchetti alma	3
+pitruzzella giovanni	3
+de felice maurilio	3
+pagnini maria paola	3
+alfani anna	3
+langella alessio	3
+migliaccio mariano	3
+costanzo francesco saverio	3
+spina annamaria	3
+sciomachen anna franca	3
+stacey gauny	3
+pilone mirella	3
+metelli claudia	3
+schoof renatus johannes	3
+rizzi nicola luigi	3
+mancini marco	3
+ciocia maria antonia	3
+florio salvatore	3
+da settimo passetti federico	3
+borino guido	3
+russo vincenzo	3
+casini alessandro	3
+fistetti francesco	3
+bonadies francesco	3
+pietropaolo concetta	3
+verra alessandro	3
+pasculli domenica	3
+menichetti ezio	3
+venuta salvatore	3
+solaro roberto	3
+eleuteri paolo	3
+cimino filiberto	3
+mazzoleni stefano	3
+stefan scholtes	3
+luciani sisto	3
+de angelis maria	3
+bianco maria luisa	3
+barone fabrizio	3
+murli almerico	3
+caruso tiziano	3
+ciofi degli atti claudio	3
+spina luigi	3
+staiano annamaria	3
+patella domenico	3
+picozzi maria grazia	3
+leaci antonio	3
+staibano stefania	3
+busetto luigi	3
+lanzetta rosa	3
+perotto silvia	3
+romani francesco	3
+masiero antonio	3
+landi carmine	3
+filippone giovanni	3
+contegiacomo alma	3
+bertazzoni umberto	3
+perniola mario	3
+paroncini massimo	3
+del monte alfredo	3
+todescan franco	3
+kazepov yuri albert kyrill	3
+martini claudia	3
+jon crowcroft	3
+elisei rossella	3
+monaco roberto	3
+rinaudo giuseppina	3
+sismondi piero	3
+isetta sandra	3
+bernelli zazzera franco	3
+brugiavini agar	3
+iozzi alberto	3
+conto' francesco	3
+riitano mariagiovanna	3
+coletta massimiliano	3
+treleani daniele	3
+tartaglia piero	3
+ghelardini carla	3
+julian mark allwood	3
+devoto alberto	3
+pempinelli flora	3
+guidoni paolo	3
+guido stefano	3
+boffi sigfrido	3
+pavone michele	3
+belgiorno vincenzo	3
+de angelis francesco	3
+grizzuti nino	3
+feliciello antonio	3
+brunone bruno	3
+stefani massimo	3
+marchetti paolo	3
+greco antonio	3
+marchetti mario	3
+esposito franca	3
+ricciardi luigi maria	3
+bruno claudio	3
+facchetti fabio	3
+fattorusso ernesto	3
+filla alessandro	3
+coniglio antonio	3
+de seta cesare	3
+tomarelli franco	3
+auricchio salvatore	3
+gatto barbara	3
+de rosa sergio	3
+abbruzzese saccardi alberto	3
+mandara alberto	3
+de lucia paolo	3
+de luca nicola	3
+van geemen lambertus nicolaas	3
+breglia luisa	3
+brasili livio	3
+ferrero giovanni battista	3
+davi' giuseppe	3
+gasperi giuliano	3
+faedo lucia	3
+carbone emilio	3
+sforza antonio	3
+fuggi amodio	3
+tanganelli paolo	3
+persico giovanni	3
+cassinese antonio	3
+acierno domenico	3
+finelli roberto	3
+baratta alessandro	3
+d'auria riccardo	3
+lupoli giovanni	3
+anzivino giuseppina	3
+pittaluga ferruccio	3
+morra vincenzo	3
+colacurci nicola	3
+cassinelli giovanni	3
+armando alessandro	3
+lucchini andrea	3
+fera vincenzo	3
+d'errico marco	3
+quesada pierina maria	3
+arcangeli annarosa	3
+loreni fabrizio	3
+genovese arturo	3
+fedi maurizio	3
+sinopoli gera minucci nicola	3
+paolillo livio	3
+abbamonte orazio	3
+gambardella carmine	3
+vescovini graziella	3
+de simone vincenzo	3
+tateo francesco	3
+fabbris luigi	3
+panunzi fausto	3
+errico maria emanuela	3
+d'angelo edoardo	3
+pizzigallo matteo	3
+servillo luigi	3
+bertolini luca	3
+cuomo vincenzo	3
+isastia cimino vittorio	3
+gugliermetti franco	3
+falabella patrizia	3
+d'errico francesco paolo	3
+bella angelo	3
+lazzerini lucia	3
+calcagno anna elisa	3
+pardolesi roberto	3
+sautebin lidia	3
+bonisoli arrigo	3
+paganoni luigi	3
+serino giorgio	3
+de bernard marina	3
+de angeli stefano	3
+fagnano massimo	3
+borghi luciana	3
+garzone giuliana elena	3
+ferrone vincenzo	3
+silvestri romano	3
+di jeso bruno	3
+pagani massimo	3
+feoli enrico	3
+fanelli corrado	3
+pisent gualtiero	3
+comegna vincenzo	3
+de minico giovanna	3
+birolo leila	3
+settis salvatore	3
+coltorti massimo	3
+ortolani fabio	3
+de rosa mario	3
+tuccillo raffaele	3
+alessio gian carlo	3
+mingione terenzio roberto	3
+terribile fabio	3
+binda luigia	3
+picone mariantonietta	3
+barozzi giovanni sebastiano	3
+orsina luigi	3
+cortese giuseppina	3
+corsini piergiulio	3
+iurilli antonio	3
+nuti camillo	3
+mola francesco	3
+casadio rita	3
+michelini marisa	3
+bonfante paola	3
+luongo gennaro	3
+magnani agnese	3
+opocher arrigo	3
+salvatore marco	3
+ruggiero giuseppina	3
+carputo domenico	3
+d'ursi anna maria	3
+giancarlo parenti	3
+andreoni vincenzina	3
+dallai romano	3
+bongiorno benedetto	3
+panico carlo	3
+zannetti marco	3
+mazzanti michele	3
+zaccaria anna	3
+paolo arcari	3
+gianfranco grossi	3
+lonardo pietro	3
+digilio maria cristina	3
+voghera maria	3
+moresi mauro	3
+weber guglielmo	3
+saladino vincenzo	3
+d'andrea emma	3
+cagliostro rosa maria	3
+sacchi raffaele	3
+modica carlo	3
+grimoldi alberto	3
+fattorusso caterina	3
+milone luigi	3
+sabbatini massimo	3
+mineo rosa maria	3
+civera tiziana	3
+miani franca	3
+russo annamaria	3
+calamita giuseppe	3
+memoli bruno	3
+civardi marisa	3
+d'ambra luigi	3
+russo paolo	3
+crispolti enrico	3
+ruffo francesco	3
+attaianese ciro	3
+de stefano alessandro	3
+germana' giovanni	3
+martini mina	3
+bonatti piero andrea	3
+ruggiero pacifico	3
+cuomo rosario	3
+rigon riccardo	3
+santoro cecilia	3
+santoro massimo	3
+triggiani massimo	3
+valerio paolo	3
+paul soler	3
+barbagallo salvatore	3
+valente carlo	3
+acerbi emilio daniele g.	3
+rizzarelli enrico	3
+marchi marco	3
+cecilia mascolo	3
+capuano annalisa	3
+rossi francesco	3
+manes fausto	3
+rionero salvatore	3
+de capua claudio roberto maria	3
+majone mauro	3
+ruggeri tommaso antonio	3
+baldini artemio enzo	3
+pasti paolo	3
+scandurra roberto	3
+pagano ugo	3
+bevilacqua generoso	3
+pesci angela	3
+cassone alberto	3
+ianieri adriana	3
+manfredi gaetano	3
+passeri leonsevero	3
+auricchio ferdinando	3
+zazzerini antonio	3
+virzo amalia	3
+lucio nitsch	3
+costantino umberto	3
+corso gaetano	3
+carle flavia	3
+cantillo giuseppe	3
+lizzi fedele	3
+cotecchia federica	3
+d'aloia antonio	3
+d'antonio massimo	3
+romeo raffaello	3
+iaccarino guido	3
+ledda fabrizio	3
+giovannelli adriano	3
+spadafora giuseppe	3
+amaturo enrica	3
+lauro natale	3
+capasso francesco	3
+tecilla paolo	3
+romano giovanni	3
+sico luigi	3
+d'aponte tullio	3
+vinogradov alexandre m.	3
+lecce leonardo	3
+ventre giorgio	3
+bigi adriana	3
+lanza diego giovanni	3
+cordera renzo	3
+ricci giuseppe	3
+lavia patrizia	3
+petralia giuseppe	3
+losasso mario rosario	3
+cantone gaetana	3
+canfora luciano	3
+ugenti valerio	3
+indolfi ciro	3
+amy kronenberg	3
+mele paolo	3
+piccarolo stefano	3
+cantarella maria	3
+luciano raimondo	3
+mazzarella giuseppe	3
+alberico wanda maria	3
+falivene maria rosaria	3
+del re attilio amerigo	3
+balbi simona	3
+dmytro grygoryev	3
+corcella aldo	3
+golino paolo	3
+meola giovanni	3
+zajczyk francesca	3
+pastrone dario giuseppe	3
+formiconi andreas robert	3
+clausi benedetto	3
+bonomo raffaele pietro	3
+randaccio lucio	3
+gabrielli armando	3
+ramis gianguido	3
+rossi vittorio	3
+dimitri patrizio	3
+bonora gian maria	3
+careri maria	3
+tucciarelli tullio	3
+gallo monica	3
+chittolini giorgio	3
+conte alberto	3
+dello russo antonio	3
+chiariotti lorenzo	3
+crecchio carmine	3
+martinelli pasquale	3
+arvind h patel	3
+rasulo giacomo	3
+di santo roberto	3
+d'alessio antonio	3
+sborgi franco	3
+caputo paolo	3
+ranci ortigosa costanzo	3
+viscomi antonio	3
+rubba paolo osvaldo	3
+vittadini giorgio	3
+sansone carlo	3
+roperto franco peppino	3
+buono pasqualina	3
+magagnini pier luigi	3
+iorio gabriele	3
+gliozzi alessandra	3
+marletta giovanni	3
+bruzzone lorenzo	3
+trimarchi francesco	3
+magistrale francesco	3
+sabia liliana	3
+marinelli valerio	3
+gusella vittorio	3
+russo saverio	3
+cecchetti violetta	3
+lombardi giorgio	2
+zappacosta serafino	2
+bruni francesco	2
+gaiani marco	2
+lo faro giovanni	2
+forzatti pio	2
+forti gianni	2
+limonta patrizia	2
+libonati massimo	2
+leone antonietta	2
+ferone diego	2
+fantasia ugo	2
+senatore francesco	2
+fais silvana	2
+brancaccio mara	2
+zannini mariastella	2
+selvafolta ornella	2
+bonetti stefano	2
+davino mario	2
+tagliafico luca antonio	2
+d'erme maria	2
+ambesi impiombato francesco saverio	2
+blasi francesco	2
+urciuoli gianfranco	2
+polimeno antonino	2
+umeton cesare paolo	2
+bianco giovanni	2
+poglayen giovanni	2
+corradi anna	2
+dragoni ivan giuseppe	2
+conte ubaldo	2
+cutrignelli monica isabella	2
+scarpelli giuseppe	2
+bernieri andrea	2
+trovalusci patrizia	2
+benvenuti elena	2
+ceccon paolo	2
+pisaneschi andrea	2
+pirrotta antonina	2
+casali carlo	2
+carboni ezio	2
+treccani gian paolo	2
+tortorella vincenzo	2
+bazzini luciana	2
+ingenito aniello	2
+battini stefano	2
+battilani paola	2
+basosi riccardo	2
+scotti di uccio umberto	2
+barresi gaetano	2
+bozza silvia	2
+barone vincenzo	2
+boni laurita	2
+iannetti giorgio	2
+iametti stefania	2
+lo casto salvatore francesco	2
+blasi cesare	2
+berti matteo	2
+balducci renato	2
+baldoni roberto	2
+piattelli adriano	2
+barone guido	2
+piacentini silvia	2
+pezzinga giuseppe	2
+pettorino massimo	2
+baccarelli enzo	2
+titomanlio giuseppe	2
+rutigliano flora angela	2
+avesani rino	2
+astori bruno	2
+granata riccarda	2
+accardo alberto francesco	2
+alma alberto	2
+giuffre' rosario	2
+giuditta antonio	2
+andriollo mauro	2
+zanon paolo	2
+persechino angelo	2
+perrotta silverio	2
+giorleo giuseppe	2
+perrotta giuseppe	2
+perrelli raffaele	2
+gilibert giorgio	2
+salamini francesco	2
+vegni lucio	2
+vegni guido	2
+monateri pier giuseppe	2
+sabbatino pasquale	2
+giannola adriano	2
+velotti francesca romana	2
+tironi gino	2
+tesi romano	2
+adinolfi matteo	2
+adamo francesco	2
+ricchetti giustino	2
+serio mario	2
+parenti giancarlo	2
+scarpa aldo	2
+zorzetti nevio	2
+zignani flavio	2
+zavaroni ivana	2
+papini anna maria	2
+sambo paolo	2
+zanini ermanno	2
+russo guido	2
+rota renato	2
+matilde valeria ursini	2
+zagari adriana	2
+ronchi antonella ellena	2
+rindi salvo	2
+gazzaniga andrea	2
+romanelli maria novella	2
+vitturi andrea	2
+vistoli angelo	2
+garro giuseppina	2
+vigorito carlo	2
+garozzo domenico	2
+ramponi giampietro	2
+poggi carlo	2
+gangemi virginia	2
+veronesi fabio	2
+pacciarelli marco	2
+vaccaro vittorio giorgio	2
+squadrito francesco	2
+porcellini antonio	2
+gambardella dora	2
+varrone stelio	2
+pagnini ugo	2
+marcialis maria teresa	2
+valoti massimo	2
+nunziante luciano	2
+smulevich giulietta	2
+galfetti luciano	2
+nuzzo luigi	2
+galeotti tommaso	2
+tuosto loretta	2
+stella francesco vincenzo	2
+nicotra francesco	2
+plebani alessandro	2
+tucci fabrizio	2
+collivignarelli carlo	2
+fruttero roberta	2
+tonelli enrico	2
+tondi emanuele	2
+tolino achille	2
+silvestri francesco	2
+nicodano giovanna	2
+maria furia	2
+cirelli caterina anna	2
+naldini antonella	2
+silingardi vittorio	2
+tarzia giorgio	2
+tarchi rolando	2
+muraca alessandro	2
+taccari egisto	2
+franco cristiana	2
+pierelli francesco	2
+strassi silvia	2
+morlicchio enrica	2
+fornengo nicolao	2
+guidi laura	2
+greco luigi	2
+piazzolla pasquale	2
+fontana vincenzo	2
+goti andrea	2
+sgambato alessandro	2
+gori enrico	2
+godoli ezio	2
+pettinelli rosanna	2
+somma vincenzo	2
+sebastio gianfranco	2
+montecucco cesare	2
+peruzzini maurizio	2
+fumo marina	2
+fucci laura	2
+fiorini isabella	2
+pieraccini massimiliano	2
+simoni manuela	2
+fiorentino mauro	2
+scaramuzza gabriele	2
+dolce mauro	2
+docci mario	2
+serra giovanni	2
+dente mario	2
+dardo mauro	2
+sergio cocozza	2
+montagna romualdo	2
+ferraro giuseppe	2
+ferraris stefano	2
+piano mortari giovanni battista	2
+conti fabio	2
+sciuto stefano	2
+mongelli giovanni	2
+molinaro pasquale	2
+sarti giulio cesare	2
+scattola merio	2
+scarsini marco	2
+calabro' antonino salvatore	2
+scalise sergio	2
+carlo pietro trevisan	2
+sbordone carlo	2
+cao umberto	2
+capozziello salvatore	2
+bozza fabio	2
+merlini giampaolo	2
+santi patrizia	2
+capodaglio gianfranco	2
+farinaro eduardo	2
+farina benedetta	2
+salvatore francesco	2
+vassalli di dachenhausen talitha	2
+salandin paolo	2
+panebianco antonio	2
+sacchi stefano	2
+panariello gaetano	2
+falsone giovanni	2
+russo riccardo	2
+rusciano mario	2
+zotti igor	2
+zollo aldo	2
+ruggiero fabio	2
+zeni luigi	2
+falcinelli mario	2
+vosa carlo	2
+fadda anna maria	2
+rotoli giacomo	2
+turco elda	2
+faccenna claudio	2
+lomonaco luciano amito	2
+sola marco	2
+seri marco	2
+rossi federica	2
+esposito gennaro	2
+ronconi franco	2
+ricca ezio	2
+padovano gabriella	2
+rinaldi gloria	2
+papa rocco	2
+pani mario	2
+rigano carmelo	2
+nuti lucia	2
+masoero francesco	2
+mascheretti paolo	2
+ricci giuliana	2
+riccardi carlo	2
+moio luigi	2
+marzullo liberato	2
+manzi elio	2
+recca antonino	2
+lai adolfo	2
+oliviero salvatore	2
+rao anna maria	2
+marrucci giuseppe	2
+bulgarelli alessandra	2
+funaro ada	2
+fiori aldo	2
+quondam amedeo	2
+elmi carlo	2
+elia paola	2
+puxeddu efisio	2
+punzi leonardo	2
+di maio caterina	2
+canu paolo	2
+parisi daniela fernanda	2
+marfella raffaele	2
+nicolella maurizio	2
+di carlo valerio	2
+pozzi amilcare	2
+benzi luca	2
+lo gullo maria assunta	2
+delmonte rodolfo	2
+muzzillo francesca	2
+del sole rodolfo	2
+musumarra giuseppe	2
+del pizzo andrea	2
+marchese leonardo	2
+gagliardi marta paola francesca	2
+mantovani roberto	2
+leone ugo	2
+del bagno ileana	2
+spadolini maria benedetta	2
+bianchi d'urso fulvio	2
+dini gino	2
+pitzurra lucia	2
+bini luca	2
+bertinetto pier marco	2
+pitrone nicola	2
+pitea demetrio	2
+nobile cosimo francesco	2
+modesti alessandra	2
+battezzati pier maria	2
+minervini vincenzo	2
+de novellis vito	2
+piro gabriella	2
+migliaresi claudio	2
+de martino luisa	2
+nigrelli fausto carmelo	2
+bartelletti raffaello	2
+benvenuto giovanni battista	2
+signorini maria gabriella	2
+picozzi silvia	2
+piccoli renata	2
+de lillo silvana	2
+de lillo antonio	2
+de gennaro bruno	2
+peruzzi andrea	2
+armenise mario nicola	2
+perrino cinzia	2
+lucarelli alberto	2
+pepe francesco	2
+gavagnincapoggiani margherita	2
+giangaspero annunziata	2
+sciarrone antonella maria	2
+pece salvatore	2
+mathieu alessandro	2
+matarrese sabatina	2
+lombardi angelina	2
+dabrowski ludwik	2
+menziani maria cristina	2
+albano leoni federico	2
+polzonetti giovanni	2
+pietrosanto antonio	2
+pietropaolo rosario	2
+zatelli maria chiara	2
+palazzo sergio	2
+pagotto uberto	2
+gennari mara maddalena	2
+pagano stefano	2
+cutolo antonello	2
+cubadda gianluca	2
+ottaviani enzo	2
+lattuada marcello	2
+lasorella giacomo	2
+onida giovanni	2
+vagliasindi federico	2
+lapadula giovanni	2
+noe' salvatore	2
+turco maria caterina	2
+ninno domenico	2
+marchetti leonardo	2
+galli enrica albertina	2
+neviani erasmo	2
+mantovani giovanna	2
+corsini emanuela	2
+gaetano nicola vattemi	2
+mancini anna maria	2
+temussi piero andrea	2
+coppola raffaele	2
+musacchio aldo	2
+mascolo nicola domenico	2
+ippolito rosolino	2
+inzerillo michele	2
+morrone amelia	2
+maffezzoli alfonso	2
+morini augusto	2
+ianniello carmine	2
+collova' roberto	2
+monno giuseppe	2
+monica dentice	2
+monduzzi maura	2
+albertano patrizia beatrice	2
+tagliaferri vincenzo	2
+strolin paolo emilio	2
+longeri maria lina	2
+modena claudio	2
+paganini gianenrico	2
+lollini pier luigi	2
+minucci sergio	2
+ciaramella paolo	2
+miano pasquale	2
+miano giovanni	2
+mezzetti carlo	2
+gomez monterrey isabel maria	2
+gresleri giuliano	2
+gremigni vittorio	2
+netti paolo antonio	2
+granelli fabrizio	2
+mazzacane aldo	2
+gonnella giuseppe	2
+de santis enrico pietro luigi	2
+landriscina matteo	2
+mannucci pier mannuccio	2
+monteleone giovanni	2
+giunchedi luciano	2
+lamberti francesca	2
+montagnani stefania	2
+marzoli andrea	2
+monestiroli antonio	2
+martelli sante	2
+cennamo giovanni	2
+cenedese antonio	2
+maritato luigi	2
+marini alfredo	2
+cecchi antonella	2
+lacarbonara walter	2
+cazzato vincenzo	2
+giovanni antonini	2
+marchi luciano	2
+giorgino riccardo	2
+marcello elena	2
+la fianza giovanna	2
+manno maurizio	2
+caterina missero	2
+serapioni raul paolo	2
+giannetti filippo	2
+jennifer schooling	2
+malerba donato	2
+malavasi fabio	2
+sello guido giovanni	2
+maffia michele	2
+giancola concetta	2
+sechi giovanni maria	2
+carrino agostino	2
+lucini valeria	2
+carpita maurizio	2
+londero renata	2
+locati massimo	2
+lo cascio elio	2
+innamorati stefano	2
+cardaci giuseppe	2
+melillo rosa marina	2
+genuardi maurizio	2
+caputo francesco	2
+lidia sautebin	2
+li calzi marco	2
+lesma giordano	2
+gelsomino antonio	2
+gelmi maria luisa	2
+leonardi renzo	2
+cantu' francesca	2
+lembo giuseppe	2
+lazzari valter	2
+laviano angela	2
+imbasciati antonio	2
+laura palmucci	2
+iannace alessandro	2
+della cananea giacinto	2
+mastroianni roberto	2
+gabrielli filippo	2
+ronchetti fiamma clelia virginia	2
+furaha rwatambuga	2
+la greca paolo	2
+martinelli vincenzo	2
+fubini alessandro	2
+frixione marcello	2
+calore antonello	2
+maccheroni fabio angelo	2
+franchini claudio	2
+lucrezi francesco maria	2
+caldarelli adele	2
+cafiso salvatore	2
+isidori andrea	2
+cafaggi fabrizio	2
+buondonno andrea	2
+ian p. callard	2
+bruscoli stefano	2
+francesconi oscar	2
+crovetto gianni matteo	2
+brunetti gennaro	2
+guidetti laura	2
+bronzini stefano	2
+guarino fausto	2
+brigidi patrizia	2
+giuliano tomelleri	2
+greggi stefano	2
+rubattu speranza donatella	2
+branduardi paola	2
+grasso silvana	2
+copani agata graziella	2
+braca alessandra	2
+giordano simonetta	2
+rastogi rakesh kumar	2
+giunti armando	2
+bordignon emilio	2
+filippelli amelia	2
+giuffre' maria	2
+bonometto silvio	2
+ragusa carlo stefano	2
+giavazzi francesco	2
+giova stefania	2
+ferranti pasquale	2
+colorni vitale alberto	2
+giordano ennio	2
+manferlotti stefano	2
+bignardi gaetano	2
+giagnoni gabriella	2
+bifulco giuseppe	2
+fabrocini adelchi	2
+bianchi rossella	2
+gerbi vincenzo	2
+genchi claudio	2
+gemme gianluca	2
+gazerro marialuisa	2
+bettini maurizio	2
+gaudenzi paolo	2
+bertoletti paolo	2
+gargan luciano	2
+gardossi lucia	2
+elefante raffaele	2
+benedetto chiara	2
+benedetti ettore	2
+fuiano giorgio	2
+lazzarini maria letizia	2
+freni giuseppe	2
+frediani piero	2
+presciuttini silvano	2
+cerase francesco paolo	2
+formato andrea	2
+fogher corrado	2
+bazzanella carla	2
+battistoni paolo	2
+fiocca roberto	2
+finetti icilio	2
+limongelli vittorio	2
+bargagli roberto	2
+di matteo massimo	2
+ferrari sergio	2
+barbucci rolando	2
+limongelli giuseppe	2
+baldini vincenzo	2
+di iorio giuseppe	2
+baccigalupi aldo	2
+fafone viviana	2
+azzolina ornella	2
+fortunato bernardo	2
+augusti giuliano	2
+mohammed zein elabidin elshafie	2
+liantonio antonella	2
+menegazzi marta vittoria	2
+armenio vincenzo	2
+di bernardo mario	2
+fiorentino antonio	2
+antonio randazzo	2
+durante cosimo	2
+piergiovanni luciano	2
+laudiero ferdinando	2
+doglioni carlo	2
+keiling brigitte evelin	2
+di paola mario	2
+andreani ernesto	2
+ando' sebastiano	2
+di leo antonio	2
+filetti sebastiano	2
+amirante roberta	2
+ferrigni ferruccio	2
+cocuzza clementina elvezia anna	2
+alparone luciano	2
+de sensi giovanna	2
+fattorusso roberto	2
+cappelletti piergiulio	2
+izzo angelo antonio	2
+davoli roberta	2
+de palma raffaele	2
+perrone capano carla	2
+de martinis carlo	2
+achille iolascon	2
+de lorenzo renata	2
+faraonio raffaella	2
+abbate giancarlo	2
+de girolamo paolo	2
+d'amore matteo	2
+zoppoli lorenzo	2
+curto giuseppe	2
+curioni andrea	2
+de giovanni lucio	2
+de candia antonio	2
+crocco lorenzo	2
+zanotti valerio	2
+costanzo paola	2
+del basso de caro marialaura	2
+conti giuseppe	2
+conte giuseppe	2
+consoli simona	2
+dante della terza	2
+esposito katherine	2
+pavel nicolae viorel	2
+martin stephen blackwell	2
+zanella corrado	2
+zampella angela	2
+cocozza sergio	2
+coccia eugenio	2
+micocci gioacchino antonio	2
+dondoni alessandro	2
+cirillo plinio	2
+papparella serenella	2
+doglioni francesco	2
+borzacchiello giuseppe	2
+viviani gaspare	2
+cigola michela	2
+diliberto oliviero	2
+bifulco gennaro nicola	2
+cutugno francesco	2
+di luggo antonella	2
+di giovanni pietro	2
+giannetto salvatore	2
+cermola flavio	2
+beltrami carlo alberto	2
+vianello angelo	2
+cossalter vittore	2
+coruzzi gabriella	2
+cella federico	2
+celetti angela	2
+orlandini giuseppina	2
+corniello alfonso	2
+gianfaldoni daniela	2
+castelli fabio	2
+denitto anna lucia	2
+casciati fabio	2
+casamento aldo	2
+vaira berardino	2
+casagli nicola	2
+giampaglia giuseppe	2
+carta maurizio	2
+della casa roberto	2
+delfine sebastiano	2
+oriani giovannangelo	2
+colajanni michele	2
+olivito renato sante	2
+de zanche vittorio	2
+capasso renato	2
+ciminale vincenzo	2
+traverso orazio	2
+de mattia domenico	2
+calloni enrico	2
+de martino armando	2
+calabro' viola	2
+cesareni giovanni	2
+torella daniele	2
+toraldo gerardo	2
+bucci giovanni	2
+bruzzone dario	2
+napolitano francesco	2
+tiziana mongini	2
+centamore ernesto	2
+de luca alessandro	2
+tiberio roberto	2
+botta patrizia	2
+botta maurizio	2
+bordini valter	2
+de divitiis oreste	2
+caudarella renata	2
+bonardi glauco	2
+michelotti ambrosina	2
+medaglia pier gianni	2
+catauro michelina	2
+bocchi stefano	2
+massimiliano filosto	2
+castorani antonio	2
+talenti giorgio	2
+biliotti mauro	2
+auriemma renata simona	2
+bicchi antonio	2
+bianchi angelo	2
+castaldo giuseppe	2
+castaldo clotilde	2
+bertoli enrico	2
+cassella pasquale	2
+storelli franco	2
+graziano maria gabriella	2
+stefano bonatti	2
+stammati sergio	2
+faniello concetta maria	2
+bellin alberto	2
+spanghero mauro	2
+casciaro raffaele	2
+casartelli morena	2
+sorrentino rosa	2
+carsana antonella	2
+basile liliana	2
+fioretto antonietta	2
+margaglione maurizio	2
+barone antonio	2
+da empoli domenico	2
+d'antonio giuseppe	2
+simonotti marco	2
+simone raffaele	2
+simeone michele	2
+d'andrea francesco	2
+baldari cosima	2
+siciliano bruno	2
+sessarego mario	2
+marchisio pier carlo	2
+serpico claudio	2
+baculo liliana	2
+baculo adriana	2
+andrisano angela maria	2
+alfonso giovanni carlo	2
+critelli salvatore	2
+arvat emanuela	2
+brucato valerio maria bartolo	2
+caponio francesco	2
+caponetti eugenio	2
+scarpa maurizio	2
+andreoli carlo	2
+capineri cristina	2
+amirante paolo	2
+amata giuseppe	2
+costanza bonadonna	2
+santucci gianni	2
+alberti nicola	2
+santini luciano	2
+aiello rosario	2
+macci loris giuseppe	2
+campana giampaolo	2
+zurli loriano	2
+camaschella clara	2
+zollo massimo	2
+zoina astolfo	2
+salvatore paola	2
+zara vincenzo	2
+zanotti marta	2
+salvatore luigi	2
+zanon daniela	2
+corigliano alberto	2
+cordasco giancarlo	2
+corazza alessandra	2
+volcic aljosa	2
+vito pasquale	2
+calderazzo fausto	2
+sacchetti lucia	2
+continillo gaetano	2
+ventura luigi	2
+macchi cassia cesare	2
+ruberti giovina	2
+ruberti daniela	2
+giacomelli giorgio maria	2
+beck peccoz paolo luigi maria	2
+bevilacqua mario carlo alberto	2
+trucco angela	2
+trovato paolo	2
+triolo enrico	2
+triassi maria	2
+tremoli elena	2
+rossetti simona	2
+clementi francesca	2
+rosati floriana	2
+testa antonio	2
+tell gianluca	2
+romagnoli paolo	2
+rodriguez guido	2
+de sarro giovambattista	2
+di blasio gabriella	2
+stampi serena	2
+spinella aldo	2
+specchia vito	2
+di blasio benedetto	2
+sorge valeria	2
+soldati laura	2
+bozzaro salvatore	2
+bozzano francesca	2
+bosetto marinella	2
+relini annalisa	2
+bortolussi marino	2
+torrisi maria rosaria	2
+rana gian luigi	2
+severi carola	2
+sette claudio	2
+sestieri aldo	2
+bondavalli andrea	2
+bonavita vincenzo	2
+scita giorgio	2
+chiariello massimo	2
+delle donne roberto	2
+blandina patrizio	2
+scala antonio	2
+quadrelli paolo	2
+pupolin silvano	2
+maddalena pasqualino maria	2
+tassone pierfrancesco	2
+cherchi antonietta	2
+cesarano arcangelo	2
+cellerino riccardo	2
+salmaso luigi	2
+sala giuseppe	2
+bettoni giancarlo	2
+porciani ilaria	2
+betri maria luisa	2
+abignente di frassello enrico	2
+russo tommaso	2
+pompoli roberto	2
+bertinelli franco	2
+russo filippo	2
+hribal marta letizia	2
+cattabeni flaminio	2
+rubino pietro	2
+pispisa basilio	2
+rovatti mauro	2
+rossi daniela	2
+rossano fabio	2
+de luca tamajo raffaele	2
+roperto sante	2
+pintacuda paolo	2
+de martino giuseppe	2
+rizzo roberto	2
+rinaldi laura	2
+casertano giovanni	2
+belgioioso giulia	2
+recami erasmo	2
+carpinteri alberto	2
+de marinis giovanni	2
+pezzullo angelo	2
+punzi antonio	2
+pruneri fabio	2
+pettinato guido	2
+battista pasquale	2
+vicari luciano rosario maria	2
+persiani franco	2
+perrotti nicola	2
+de gennaro maurizio	2
+perillo eugenio	2
+guaragnella pasquale	2
+perego patrizia	2
+penna antonella	2
+spinolo giorgio mario	2
+barbieri giuseppe	2
+capuano alessandra	2
+pierini marco	2
+baldissera andrea	2
+paterniti irene	2
+pianta silvia	2
+capriglione teresa	2
+pasquali renato	2
+cannizzaro lucilla	2
+perfetto aldo	2
+cannavo' salvatore	2
+dalmasso gianfranco	2
+peluso andrea	2
+parente eugenio	2
+papini emanuele	2
+sciuti russi vittorio	2
+pascale maria	2
+sciarretta sebastiano	2
+paola di natale	2
+panunzi achille	2
+paone rosario	2
+campisi giuseppina	2
+palumbo mauro	2
+palombo carlo	2
+andreucci michele	2
+andreozzi roberto	2
+andenna giancarlo	2
+osler ruggero	2
+palombini lucio	2
+cusimano gioacchino	2
+amoroso salvatore	2
+ammendola rosario	2
+paciello andrea	2
+neri giovanni	2
+nathalie juge	2
+ambrosoli roberto	2
+orabona ciriana	2
+naldini luigi	2
+muto giovanni	2
+onorato michele	2
+alison gail smith	2
+nicolodi fiamma	2
+nicolo' rizzuto	2
+alfonsi giancarlo	2
+moro giuseppe	2
+alberto auricchio	2
+moracci marco	2
+negri antonello	2
+monti giorgio	2
+bussolino federico	2
+gialanella giancarlo	2
+nardone gerardo	2
+moioli angelo	2
+moccia sergio	2
+miranda elena	2
+nardi serenella	2
+ajello anna maria	2
+mulone giuseppe	2
+acocella giuseppe	2
+abbate gianfranco	2
+mensuali anna	2
+morelli micaela	2
+melone nicola	2
+bresadola fabrizio	2
+salerno mariacarolina	2
+mechelli luca	2
+montano aniello	2
+brancolini claudio	2
+mattia sergio	2
+zanetto giuseppe	2
+massimo zollo	2
+masella luigi	2
+catalano luciano andrea	2
+martella vito	2
+molinelli piera	2
+zacchello franco	2
+zaccarin susanna	2
+marino teresa	2
+zaccaria roberto	2
+di fiore maria maddalena	2
+weisz alessandro	2
+vittoria alfredo	2
+russo ruggeri carmela	2
+vitaliani renato	2
+bonifacio eleonora	2
+canonica giorgio walter	2
+miccoli saverio	2
+caglioti daniela luigia	2
+marcato carla	2
+mezzetti enrica	2
+mangone fabio	2
+mandelli emma	2
+colantuoni vittorio	2
+viggiani gennaro	2
+vigano' riccardo	2
+vetere benedetto	2
+magli adriano	2
+frezzotti maria luce	2
+maffi alberto	2
+maestro mario	2
+macchia bruno	2
+cocolin luca simone	2
+boccelli raffaella	2
+boccadamo giuliana	2
+varcamonti mario	2
+valletti tommaso	2
+valenza antonino	2
+lerda alberto	2
+lentini fabio	2
+francesca carlomagno	2
+ugliano maurizio	2
+lancia amedeo	2
+kuljanic elso	2
+bertaccini assunta	2
+tron gian cesare	2
+ciccocioppo rachele	2
+ivana trapani	2
+iuvone teresa	2
+irace gaetano	2
+marrone antonio	2
+marino giovanni	2
+bencardino filippo	2
+hirsch emilio	2
+righetti pier giorgio	2
+gusman adolfo	2
+guida ermanno	2
+marconi umberto	2
+torrini maurizio	2
+marchese cinzia	2
+glielmo luigi	2
+bazzanella liliana	2
+favali maria augusta	2
+mangoni alfonso	2
+manganaro paolo	2
+mandelli franco	2
+gasco alberto	2
+baschirotto andrea	2
+fasulo maria palmira	2
+gallati mario	2
+cernigliaro aurelio	2
+cavagnini francesco	2
+fusco alfredo	2
+frisso giulia	2
+bariani paolo francesco	2
+maione sabatino	2
+donini lorenzo maria	2
+maglio giovanni	2
+fontana marco	2
+luzza francesco	2
+castellano maurizio	2
+finelli palma	2
+castellani leonardo	2
+feo francesco	2
+starita antonina	2
+carlomagno giovanni	2
+di marcotullio lucia	2
+carapezza francesco	2
+eugeni franco	2
+spano' antonella	2
+leonardi andrea	2
+errico angela	2
+lenzini luciano	2
+spagnuolo matteo	2
+ellia filippo	2
+spagnolo filippo	2
+calcaterra domenico	2
+andreuccetti piero	2
+andreone antonello	2
+lanteri antonio	2
+pinna lorenzo alberto	2
+cainelli gianfranco	2
+dini vittorio	2
+cacciola santa olga	2
+simmaco maurizio	2
+ambrosino giuseppe	2
+di cosmo anna	2
+pignari sergio amedeo	2
+dettin monica	2
+del re enrico	2
+defina andrea	2
+bottazzi gianfranco	2
+de vivo paola	2
+semerani luciano	2
+apollonio fabrizio ivan	2
+della salda leonardo	2
+piccinelli gian maria	2
+danieli bruno	2
+sciarelli sergio	2
+d'asdia piero	2
+insolia antonio	2
+improta gennaro	2
+della ragione fulvio	2
+illiano gennaro	2
+cuozzo errico	2
+iervolino iunio	2
+iachello enrico	2
+bestetti giuseppina	2
+beringhelli tiziana	2
+benerecetti massimo	2
+coppola luigi	2
+verrotti di pianella arturo	2
+guidicini paolo	2
+consoli alfio	2
+bellenchi giancarlo	2
+comi giuseppe	2
+guella graziano	2
+colombo lucia	2
+savarese catello	2
+ciulli enrico	2
+taglialatela scafati orazio	2
+grella giuseppe	2
+chiovato luca	2
+chiosi emilio	2
+chiosi elvira	2
+santucci roberto	2
+centro sandro	2
+graziani grazia	2
+de stefano francesco	2
+ceglie andrea	2
+cavalca lucia	2
+salvemini biagio	2
+catassi carlo	2
+cataldi mauro	2
+mastrullo rita maria antonietta	2
+salvatore venuta	2
+carrino luigi	2
+carini franca	2
+sagnotti augusto	2
+gobetto roberto	2
+saccone giuseppe	2
+parrilli michelangelo	2
+capezzuto pio	2
+giuseppe scarpa	2
+palumbo matteo angelo	2
+roviello antonio	2
+vecchione carmine	2
+aiello maria antonietta	2
+balestrino giuseppe	2
+calenda guido	2
+balducci alessandro	2
+zucconi guido vittorio	2
+giordano enrica	2
+vannacci giovanni	2
+roggero costanza	2
+giannetta elisa	2
+bucci cecilia	2
+brusasco vito	2
+aversa maria chiara	2
+dentice d'accadia massimo	2
+asso pier francesco	2
+valentini alessio	2
+bottero maria	2
+gentili roberto	2
+borri claudio	2
+borella paola	2
+turrini francesco michelangelo	2
+generoso andria	2
+boeri stefano	2
+gasparini paolo	2
+bocchi renato	2
+danese roberto mario	2
+bisegna paolo	2
+bigoni davide	2
+tuccari francesco	2
+antongiovanni mauro	2
+tridente giuseppe	2
+antonelli antonella	2
+ramazzotti luigi	2
+berni rodolfo	2
+montagna maria teresa	2
+galliano monica	2
+galati pasquale	2
+putignano angelo	2
+miano teodoro massimo	2
+barni ermanno	2
+gaetani silvana	2
+tortora giampaolo	2
+bandelli gino	2
+baldoni maria	2
+torrieri vincenzo	2
+angela berardinelli	2
+fugazzola laura	2
+torelli francesco	2
+frigo gianmario	2
+ascione luigi	2
+meliga valter roberto	2
+portoghesi paolo	2
+franco brunella	2
+franchini marco	2
+arena umberto	2
+arca marcello	2
+arca marcella	2
+antonio abate	2
+forster barbara	2
+formisano luigi	2
+poggesi loredana	2
+pizziolo giorgio	2
+amenta pietro	2
+fischer lorenzo	2
+firrao giuseppe	2
+purrello francesco salvatore	2
+terracini susanna	2
+altucci carlo	2
+ferraris monica	2
+tralli antonio michele	2
+ferrari giacomo	2
+zullo fulvio	2
+zerbi maria chiara	2
+zuddas paola	2
+coti zelati vittorio	2
+corti enrico alfonso	2
+zaninotto giovanni	2
+faucci riccardo	2
+piccolo domenico	2
+calogero raffaele adolfo	2
+fantacci romano	2
+vitali david	2
+vitale mario	2
+mastroberti francesco	2
+viola erasmo	2
+sturniolo giacomo	2
+strozza salvatore	2
+coniglione francesco	2
+stefano previtali	2
+vajro pietro	2
+vacca angelo	2
+perrone vincenzo	2
+volpicelli gennaro	2
+caizzi ruggiero vincenzo	2
+ercolini danilo	2
+mattarella bernardo giorgio	2
+tanzi franco	2
+redaelli alberto cesare luigi	2
+viglietto giuseppe	2
+taddei carlo	2
+cirvilleri gabriella	2
+paoletti alfonso	2
+manfredi maria teresa	2
+palumbo giuseppe	2
+simone lucia	2
+siena franca	2
+ventura alessandro	2
+di rosa massimo	2
+somaini francesco	2
+soldani simonetta	2
+di lieto andrea	2
+ossicini stefano	2
+sacchi paola	2
+sacca' luigi	2
+oriente pasquale	2
+russo teresa	2
+varanini gianmaria	2
+nuzzolo agostino	2
+valeria costantino	2
+novelli giuseppe	2
+malandrini alessandro	2
+napolitano marco	2
+musti anna maria	2
+romano luigi	2
+romano bruno	2
+de mauro tullio	2
+rinaldi zila	2
+prosdocimi gianquinto giorgio	2
+rengo sandro	2
+schivardi fabiano	2
+de luca antonio	2
+de leone renato	2
+ramenghi ugo	2
+schiraldi alberto	2
+raia valeria	2
+racchi marco	2
+pujia arturo	2
+scazzosi lionella	2
+lozzia giuseppe carlo	2
+scarlato vincenzo	2
+scariot valentina	2
+d'urso domenico	2
+d'orazio franco	2
+polese nello	2
+d'elia giuseppe	2
+trivellato filippo	2
+mondelli rosanna	2
+d'angelo matteo	2
+monaco ugo luigi	2
+picone delia	2
+piazza laura	2
+roncarolo maria grazia	2
+d'agata antonio	2
+molinaro antonio	2
+d'achille paolo	2
+pessia mauro	2
+cacciaguerra giorgio	2
+pepe stefano	2
+corazziari enrico stefano	2
+crosta giovanni	2
+pavan andrea	2
+parente luca	2
+pardini rita	2
+bonanno giambattista	2
+cozzani valerio	2
+tresso elena maria	2
+cosenza edoardo	2
+pacini furio	2
+santini antonello	2
+corleto antonio	2
+osti giorgio	2
+menna marialuisa	2
+bonacina maria paola	2
+impellizzeri giuseppe	2
+not tarcisio	2
+contaldo franco	2
+nisoli mauro	2
+nesi attilio	2
+mazzucchi andrea	2
+colonna alfredo	2
+santacesaria elio	2
+natali carlo	2
+colletta teresa	2
+romano maria fiammetta	2
+colella carmine	2
+mazzarella lelio	2
+berni canani roberto	2
+tonacchera massimo	2
+salleo sebastiano	2
+cimino giuseppe	2
+gravagnuolo benedetto	2
+matthiae giorgio	2
+monari paola	2
+cicala gianluca	2
+quaglietta chiaranda' fabrizio	2
+misale mario	2
+matera francesco	2
+ciacci carolina	2
+chimenti sergio	2
+mastandrea paolo	2
+chierchia luigi	2
+melis andrea	2
+meli rosaria	2
+chiara platella	2
+rinaldi baccelli guido	2
+martino enio	2
+amato mariana rosaria a.	2
+cerutti antonio	2
+castellano mariantonietta	2
+aghini lombardi fabrizio	2
+marotta giovanna	2
+cennamo michela	2
+marfia sonia	2
+riva marco andrea	2
+tamburino vincenzo	2
+manca davide	2
+la rotonda maria immacolata	2
+maraviglia bruno	2
+habluetzel annette caroline	2
+maffei luigi	2
+petkov serguey todorov	2
+squillacioti paolo	2
+luise flavia	2
+luigi maiuri	2
+cantarella giulio erberto	2
+lucci rejana	2
+lisi luciana	2
+reduzzi francesca	2
+manaresi mirella	2
+antonelli alessandro	2
+rebora alessandro	2
+fracasso maria enrica	2
+ranieri annamaria	2
+paul bernard heffernan	2
+ramella francesco	2
+magenes giovanni	2
+caputo domenico	2
+caprio vincenzo	2
+ragozzino antonio	2
+ferro giuseppe andrea	2
+marino taussig de bodonia bruno	2
+capello roberta	2
+capecchi danilo	2
+lustrino michele	2
+canavero flavio	2
+giodice sabbatelli venanzia	2
+iannelli pio	2
+raccanelli renata	2
+lovisolo claudio	2
+marotti de sciarra francesco	2
+agabiti rosei enrico	2
+lorenzo marrucci	2
+pagani maria ambrogina	2
+zappavigna vincenzo	2
+butini stefania	2
+lombardo alberto	2
+y liu	1
+gonçalo da mota laranjeira torres leão	1
+pellegrini-giampietro domenico edoardo	1
+solda' giulia maria emilia antonietta	1
+saponaro sabrina francesca gabriella	1
+inghilleri di villadauro paolo maria	1
+del vecchio pompea giuseppina grazia	1
+procida mirabelli di lauro antonino	1
+d'emmanuele di villa bianca roberta	1
+prosperi valenti rodino' simonetta	1
+prinetti alessandro ennio giuseppe	1
+juanita alejand gutierrez valencia	1
+alaibac mauro salvatore alessandro	1
+ventura gregorini luigia costanza	1
+pascale guidotti magnani giovanni	1
+mezzanotte valeria federica maria	1
+albanese giuseppa maria gabriella	1
+ziller jacques philippe emmanuel	1
+mollona edoardo vincenzo eugenio	1
+marina manuela ventura rodrigues	1
+lupia palmieri elvidio napoleone	1
+griffo salvatore giuseppe romano	1
+giliberti marco alessandro luigi	1
+farci patrizia alessandra chiara	1
+bongiovanni giovanni luigi carlo	1
+valente ilaria pamela simonetta	1
+trujillo perez isabel ascension	1
+tortarolo edoardo elio flaminio	1
+palici di suni elisabetta maria	1
+napoli rodolfo maria alessandro	1
+meneguzzo marco giuseppe sergio	1
+mailyn adriana gonzales herrera	1
+luda di cortemiglia maria paola	1
+gosso guido giuseppe maggiorino	1
+edoardo elio flaminio tortarolo	1
+di renzo gianfranco maria luigi	1
+carbonetti vendittelli cristina	1
+canzoniero lorella maria teresa	1
+marini bettolo marconi umberto	1
+marcotrigiano giuseppe onofrio	1
+diaspro alberto giovanni mario	1
+di prisco claudio giulio mario	1
+de luca tupputi schinosa luigi	1
+claudi de saint mihiel claudio	1
+cicogna mozzoni mario emanuele	1
+carvalho monteiro ricardo nuno	1
+tenchini maria luisa giuditta	1
+siracusa andrea alfredo maria	1
+sigismund sara lucia giustina	1
+scamuzzi sergio bernardino s.	1
+polverino de laureto patrizia	1
+patricia richiardi momigliano	1
+mita damiano gustavo giovanni	1
+micale giorgio domenico maria	1
+menichini anna maria cristina	1
+giovannozzi sermanni giovanni	1
+di trana adriana carmen lucia	1
+d'ippolito francesco eriberto	1
+ciribini angelo luigi camillo	1
+carandente giarrusso patrizia	1
+ballarin denti antonio angelo	1
+tufano d'arienzo maria luisa	1
+suffritti giuseppe baldovino	1
+signorotto giovanni vittorio	1
+sellari franceschini stefano	1
+sebastiani giovanni vittorio	1
+rossi nicolino cesare franco	1
+principato giovanni battista	1
+passarelli di napoli antonia	1
+pallottino giovanni vittorio	1
+möseneder frajria pierluigi	1
+manuel mateus webba da silva	1
+legnante vincenzo alessandro	1
+lania andrea gerardo antonio	1
+janin rivolin yoccoz umberto	1
+iezzi domenica fioredistella	1
+guazzoni paolo maria filippo	1
+garzanti eduardo aldo franco	1
+finocchiaro giusella dolores	1
+di benedetto maria gabriella	1
+del nobile matteo alessandro	1
+corine frischknecht peigneux	1
+chatgilialoglu chryssostomos	1
+cavicchia scalamonti antonio	1
+buccafurri francesco antonio	1
+bartolucci giovanni battista	1
+barone carmela maria assunta	1
+asperti stefano pietro luigi	1
+ajmone marsan marco giuseppe	1
+tartaglia polcini antonella	1
+scorza barcellona francesco	1
+pettoello mantovani massimo	1
+parpinello giuseppina paola	1
+moresco michele ennio maria	1
+masetti calderoni anna rosa	1
+martelli giuseppe biagio g.	1
+landi degl'innocenti egidio	1
+laforgia andrea ivo antonio	1
+giordano lisania salvatrice	1
+galimberti maurizio stefano	1
+de matteis maria antonietta	1
+cicconardi salvatore pietro	1
+cavallotti carlo alessandro	1
+cabiddu salvatore angelo a.	1
+biancardo salvatore antonio	1
+belliggiano angelo domenico	1
+andreucci vittorio emanuele	1
+villante francesco lorenzo	1
+tino guglielmo maria lucio	1
+sebillo monica maria lucia	1
+rink sugar marta elisabeth	1
+ragusa di chiara salvatore	1
+pelagalli gaetano vincenzo	1
+mariniello lina ferdinanda	1
+mancini francesco federico	1
+magnano di san lio gaetano	1
+magnano di san lio eugenio	1
+lombardo giuseppe marcello	1
+limongelli francesco mario	1
+kilstrup-nielsen charlotte	1
+jean pierre armand zigrand	1
+illingworth elizabeth anne	1
+guido clemente di san luca	1
+guazzoni giorgio ferruccio	1
+giordano emanuele domenico	1
+gambacorti passerini carlo	1
+franco repellini ferruccio	1
+de ponte francesco saverio	1
+de maria marchiano ruggero	1
+de blasi francesco saverio	1
+de benedetti pier giuseppe	1
+d'armiento francesco paolo	1
+colombo luigi pietro maria	1
+clemente di san luca guido	1
+ciardi dupre' maria grazia	1
+cenci goga beniamino terzo	1
+capogrossi colognesi luigi	1
+capodanno davide francesco	1
+benedetto giovanni antonio	1
+belisario maria antonietta	1
+baldari massimo gaetano u.	1
+tarantino angelo marcello	1
+susan andrea bernal lopez	1
+stefanini giulio giuseppe	1
+spedicato emilio giuseppe	1
+spagnuolo vigorita tullio	1
+spagnuolo vigorita renata	1
+soldovieri maria virginia	1
+sgritta giovanni battista	1
+santucci maria alessandra	1
+sanpaolesi de falena luca	1
+salpietro damiano carmelo	1
+ridolfi giovanni battista	1
+ramello giovanni battista	1
+pontecorvo concetta maria	1
+piscopo amalia rosa maria	1
+pertosa giovanni battista	1
+pasca di magliano roberto	1
+parenti-castelli giovanna	1
+orientale caputo giustina	1
+notarangelo luigi daniele	1
+nicholas john baragwanath	1
+montemiglio linda celeste	1
+mazzocchia carlo vittorio	1
+mastroianni claudio maria	1
+massidda sandro salvatore	1
+masserini massimo ernesto	1
+mascilli migliorini luigi	1
+mario mario amado montero	1
+mariani costantini renato	1
+maria chiara scappaticcio	1
+malagoli togliatti marisa	1
+maire vigueur jean claude	1
+guerzoni maria elisabetta	1
+gruttadauria michelangelo	1
+giuliani marcella michela	1
+ferlito sebastiano felice	1
+federici augusto bramante	1
+farina antonietta rosella	1
+di tommaso antonino oscar	1
+di marco giuseppe antonio	1
+di iacovo francesco paolo	1
+delfino domenico vittorio	1
+degl'innocenti alessandro	1
+debernardi cesare lorenzo	1
+de martino maria cristina	1
+de gaudio angelo raffaele	1
+de ceglia francesco paolo	1
+de agostini maria daniela	1
+crivelli visconti ignazio	1
+crisafulli carmelo orazio	1
+chiariello andrea gaetano	1
+casiraghi ernestina maria	1
+caridi andrea domenico m.	1
+bruzzoniti maria concetta	1
+brath armando luigi maria	1
+bertuccelli anna vittoria	1
+bentivegna giuseppe santo	1
+barbanti brodano giuseppe	1
+andreoni alessandra maria	1
+speciale giuseppe angelo	1
+sergio henrique cavalaro	1
+schirosi fernando enrico	1
+sangiuolo federica carla	1
+rolle luca giorgio carlo	1
+rodono' umberto giuseppe	1
+ribichini flavio luciano	1
+ramella gigliardi franco	1
+pulitzer finali giovanni	1
+puca annibale alessandro	1
+pignataro bruno giuseppe	1
+piccone stella simonetta	1
+petrucci ferruccio carlo	1
+pessolano maria raffaela	1
+pescatore tullio secondo	1
+perrone filardi pasquale	1
+perini folesani giovanna	1
+pasta renato piero maria	1
+ottolenghi andrea davide	1
+occhiocupo nicola cesare	1
+nicolas dominique miché	1
+mussinelli elena germana	1
+montecucco carlomaurizio	1
+materazzi annibale luigi	1
+martinotti guido alberto	1
+lucia dominguez barragan	1
+la bruna anna maria rita	1
+guarracino mario rosario	1
+guadagno francesco maria	1
+gribaudi maria gabriella	1
+gianfrotta piero alfredo	1
+geddo lehmann alessandra	1
+francesca paola tropeano	1
+fichera carmelo riccardo	1
+ferrero fortunati iliana	1
+fatigante lucia raffaela	1
+fabbri giovanni battista	1
+durante domenico alberto	1
+dintcheva nadka tzankova	1
+di giandomenico felicita	1
+del grosso andrea enrico	1
+degl'innocenti donatella	1
+dal belin peruffo angelo	1
+d'esposito maria rosaria	1
+d'angelo edgardo giacomo	1
+d'addadifagagna fabrizio	1
+cugola gianpaolo saverio	1
+costabile francesco aldo	1
+conti bizzarro ferruccio	1
+cattaneo vietti riccardo	1
+castelli dezza francesco	1
+carroccio sabrina carola	1
+caputo barucchi vincenzo	1
+camporeale giovannangelo	1
+bogdan jozef matuszewski	1
+beolchini giovanni carlo	1
+barbieri maria maddalena	1
+barbiellini amidei guido	1
+andreazzoli massimiliano	1
+amelino camelia giovanni	1
+ambrosini maria vittoria	1
+albanese giuliana renata	1
+zeno zencovich vincenzo	1
+zavattini giulio cesare	1
+zaccarello michelangelo	1
+viviani giorgio luciano	1
+ventre aldo giuseppe s.	1
+tripodi marie francoise	1
+tranquilli andrea luigi	1
+tagliaferri pierosandro	1
+sinisi antonio agostino	1
+santoro claudio ventura	1
+rotiroti domenicantonio	1
+rossi giovanni battista	1
+rossi ferrini pierluigi	1
+ricci giovanni giuseppe	1
+regazzoni luca giovanni	1
+petrillo antonio felice	1
+pennisi mariano alberto	1
+pavlotski igor pavlovic	1
+pasquinucci nella maria	1
+ortona ornella giustina	1
+norsa aldo vittorio ugo	1
+nacamulli raoul claudio	1
+musso stefano francesco	1
+miguel legaria cisneros	1
+mignogna michele davide	1
+mazzarello paolo angelo	1
+mattace raso giuseppina	1
+massimiliano fabbricino	1
+mariateresa giustiniano	1
+maria vittoria cubellis	1
+marano salvatore angelo	1
+maradei francescaromana	1
+mantegna rosario nunzio	1
+mainini giancarlo luigi	1
+lo piero angela roberta	1
+lisini giovan gualberto	1
+lima antonietta iolanda	1
+leoni giovanni giuseppe	1
+lando' rebaudengo laura	1
+kirilova kirova tatiana	1
+jonathan richard bridle	1
+impicciatore mariannina	1
+grimaldi carlo nazareno	1
+grasselli osvaldo maria	1
+glorioso nicola filippo	1
+gianfausto dell'antonio	1
+gaeta giovanni battista	1
+frosini tommaso edoardo	1
+federico maria petrucci	1
+fargnoli maria concetta	1
+famigli bergamini paolo	1
+fabbricino massimiliano	1
+dovetto francesca maria	1
+dikranjan dikran nichan	1
+de santo natale gaspare	1
+de santo luca salvatore	1
+de rossi giovanni maria	1
+de angelis maria grazia	1
+d'errico marcello mario	1
+d'antuono luigi filippo	1
+compagno concetta maria	1
+colucci silvia concetta	1
+cocconcelli pier sandro	1
+carlomagno maria stella	1
+borghese nunzio alberto	1
+belloli angelo giovanni	1
+bellezza simone attilio	1
+bargossi giuseppe maria	1
+balestrieri maria luisa	1
+andy alexis vidal-yunge	1
+andrew joseph tanentzap	1
+amabile giuseppe amadio	1
+altomare cosimo damiano	1
+alessandra ragusa maria	1
+zanetti massimo angelo	1
+wakefield matthew john	1
+vizziello grazia maria	1
+veracini carlo alberto	1
+v krishna k chatterjee	1
+tranchida peter quinto	1
+spampinato santi mario	1
+spagna musso salvatore	1
+smaldone luigi antonio	1
+simile maria maddalena	1
+sciacchitano salvatore	1
+sancini giulio alfredo	1
+salvatore cappozziello	1
+romano rosario aniello	1
+roccheri maria carmela	1
+ricciardelli francesco	1
+renata simona auriemma	1
+pulcinelli fabio maria	1
+priori silvia giuliana	1
+prinetto paolo ernesto	1
+polo simona laura anna	1
+perriccioli alessandra	1
+pecchinenda gianfranco	1
+passani maria beatrice	1
+parenti marco domenico	1
+pallavicini piersandro	1
+palladino danilo mauro	1
+oreglia d'isola aimaro	1
+oihane gallo fernandez	1
+nunziante cesaro adele	1
+norata giuseppe danilo	1
+nicolai maria adalgisa	1
+nicola brunetti-pierri	1
+musumeci rosaria ester	1
+muciaccia teresa maria	1
+monopoli vito giuseppe	1
+mondelli mario umberto	1
+molinari claudio mario	1
+missale maria cristina	1
+mengaldo pier vincenzo	1
+mastellone maria laura	1
+massi pavan alessandro	1
+maria rosaria galdiero	1
+manzo carlo alessandro	1
+manfredi mario tommaso	1
+malacrida anna rodolfa	1
+magnani lauro giovanni	1
+maggi adriana caterina	1
+lucarelli maria teresa	1
+lozza giovanni gustavo	1
+lora katherine heisler	1
+lombardo pierfrancesco	1
+loli piccolomini elena	1
+lenzi francesca romana	1
+laura maritza cardenas	1
+labella alida giuseppa	1
+la francesca salvatore	1
+iaccarino silvia maria	1
+haworth duncan matthew	1
+giovambattista capasso	1
+ghisotti daniela erica	1
+gherlone felice enrico	1
+garonna antonio pietro	1
+galdiero maria rosaria	1
+gabriel molina terriza	1
+frieri giuseppe angelo	1
+francesco belardinelli	1
+fontana giovanni luigi	1
+festa demetrio carmine	1
+ferrante maria carmela	1
+ferraccioli gianfranco	1
+fanciulli pietro paolo	1
+della ragione floriana	1
+de toni alberto felice	1
+de eguileor magda anna	1
+de cristofaro raimondo	1
+crasta francesca maria	1
+collavini simone maria	1
+clement maria giovanna	1
+cito giuseppe pasquale	1
+chiaradonna ferdinando	1
+cavaletti guido angelo	1
+casciola carlo massimo	1
+carroll michael robert	1
+caracciolo angelamaria	1
+capecchi pier leopoldo	1
+capasso giovambattista	1
+buttazzo giorgio carlo	1
+brunetti pierri nicola	1
+brescia morra vincenzo	1
+bellachioma gianfranco	1
+beccaro gabriele loris	1
+bardelli pier giovanni	1
+baldoni marco giovanni	1
+astolfi andrea massimo	1
+arecchi fortunato tito	1
+alacevich franca maria	1
+zocchi elena vittoria	1
+zanetti gianfrancesco	1
+viola magni maria pia	1
+vanoli giuseppe peter	1
+valleri marisa argene	1
+trovarelli alessandro	1
+tomasini enrico primo	1
+tartaglia anna teresa	1
+stramaglia sebastiano	1
+stracciari gian luigi	1
+stanghellini vincenzo	1
+soraru' gian domenico	1
+silvestrini gabriella	1
+schiattarella roberta	1
+scatozza lucia amalia	1
+scamardella francesca	1
+scalabrelli giancarlo	1
+saisi antonella elide	1
+saint-blancat chantal	1
+russo krauss dionisia	1
+ruffini maria letizia	1
+ronald wayne anderson	1
+romano spica vincenzo	1
+robert charles hancke	1
+rizzo mario valentino	1
+reschiglian pierluigi	1
+raino' antonio cosimo	1
+raffaella de franchis	1
+prodi giovanni andrea	1
+pozzi mucelli roberto	1
+pogliani enrico maria	1
+piemontese antonietta	1
+piano emanuele felice	1
+peverelli erika maria	1
+persichetti francesca	1
+pelleriti provvidenza	1
+pallotta maria teresa	1
+pagani carlo domenico	1
+nocini pier francesco	1
+nicoli maria cristina	1
+nicholas john wareham	1
+negro matteo giovanni	1
+moggi pignone alberto	1
+messia maria cristina	1
+mazzucchelli maurizio	1
+mazzola mario rosario	1
+matthew justin dejong	1
+martucciello giuseppe	1
+martellotta francesco	1
+marini maria adelaide	1
+margagliotta antonino	1
+manganaro ermenegilda	1
+mancinelli alessandro	1
+maffione angela bruna	1
+lucy millicent turner	1
+luciano alberto maria	1
+leone nicola giuliano	1
+jason joseph robinson	1
+guiso luigi cesare g.	1
+grasso domenico maria	1
+grassi felice roberto	1
+grainne el mountassir	1
+giovagnoli alessandra	1
+giorgio franceschetti	1
+giansiracusa giuseppe	1
+ghiringhelli gianluca	1
+gasparini maria laura	1
+frega natale giuseppe	1
+frega giuseppecorrado	1
+franceschetti giorgio	1
+fortunelli alessandro	1
+fiorillo ada patrizia	1
+ferrario davide luigi	1
+ferrari massimo carlo	1
+ferrara liberato aldo	1
+fausto domenicantonio	1
+evangelista gianpaolo	1
+eileen ruth s. torres	1
+dolci iannini susanna	1
+diotallevi pier paolo	1
+di lonardo gianfranco	1
+di baldassarre angela	1
+della corte francesco	1
+de tommasi nunziatina	1
+de matteis gianfranco	1
+de giorgi maria luisa	1
+de francesco antonino	1
+de faveri dante marco	1
+david anthony randell	1
+dalle zotte antonella	1
+da re maria gabriella	1
+d'auria maria valeria	1
+d'aquino massimiliano	1
+crescitelli silvestro	1
+cosseddu angelo mario	1
+corrado maria umberta	1
+conte francesca laura	1
+commendatore pasquale	1
+cennamo gerardo maria	1
+cattaneo marco natale	1
+catania maria rosaria	1
+caroli casavola hilde	1
+canova maria giordana	1
+cannistraro salvatore	1
+calogero aldo eugenio	1
+cali' quaglia michele	1
+bobbio roberto andrea	1
+blangiardo gian carlo	1
+birindelli anna maria	1
+biasucci luigi marzio	1
+bianco armandodoriano	1
+bernardini paolo luca	1
+bellavista alessandro	1
+bartolini carlo maria	1
+baraldi pier giovanni	1
+aronica giuseppe tito	1
+arcidiacono salvatore	1
+andrew james ferguson	1
+anastasios georgoulas	1
+alessandrini giovanni	1
+zoë ann ella waller	1
+william h. friedland	1
+weigel thomas stefan	1
+visentini margherita	1
+tramontano donatella	1
+tortorella francesco	1
+torquati biancamaria	1
+thomas jacques dorey	1
+tarantino alessandro	1
+tarantello gabriella	1
+tagliaventi gabriele	1
+stephen paul mcgrath	1
+stefano de virgiliis	1
+stabile tony alfredo	1
+sortino maria angela	1
+solombrino francesco	1
+scorziello antonella	1
+sciancalepore marina	1
+scaccianoce gianluca	1
+santucci fabio maria	1
+santangelo gabriella	1
+salerno mariarosaria	1
+russo matteo antonio	1
+russo maria vittoria	1
+ruocco maria rosaria	1
+rossignani maria pia	1
+rossi prodi fabrizio	1
+rabuazzo agata maria	1
+queirolo palmas luca	1
+putzu ignazio efisio	1
+provenzale antonello	1
+preterossi geminello	1
+pittaluga anna maria	1
+piola caselli fausto	1
+pignatti pier franco	1
+philipp m. schlüter	1
+petruccioli maurizio	1
+pescatore alessandra	1
+pelagalli alessandra	1
+pavone luigi michele	1
+pauri marco giuseppe	1
+passarelli francesca	1
+pasqualone antonella	1
+palumbo maria grazia	1
+pagliarini antonella	1
+paglianti alessandro	1
+ottavio alfred croze	1
+orlandini elisabetta	1
+navarra gianni maria	1
+montessoro pier luca	1
+mininni mariavaleria	1
+marzocchella antonio	1
+martarelli giancarlo	1
+mariagrazia bruzzone	1
+malesani piergiorgio	1
+maggi giorgio pietro	1
+mafrici mirella vera	1
+luca riccardo arrigo	1
+lo piccolo francesco	1
+leone biagio eugenio	1
+lavitrano marialuisa	1
+lavezzi andrea mario	1
+kuepferling michaela	1
+kallikourdis marinos	1
+julia anna stegemann	1
+jeremy lloyd o'brien	1
+jeremy graham carter	1
+indelicato salvatore	1
+hidekazu kurebayashi	1
+guglielmini giovanni	1
+guarnieri gianfranco	1
+gualtieri alessandro	1
+grandaliano giuseppe	1
+giuseppina andreotti	1
+giunta fausto biagio	1
+giuffrida anna maria	1
+giorgio nevio casari	1
+gilardi gianni maria	1
+giaveri maria teresa	1
+giannotti alessandra	1
+ghiara maria rosaria	1
+gessa carlo emanuele	1
+gangemi michelangelo	1
+gallo giorgio angelo	1
+galetta diana urania	1
+gadermaier christoph	1
+frigione mariaenrica	1
+fre' pietro giuseppe	1
+francavilla ruggiero	1
+fortina maria grazia	1
+fornaro maria sotera	1
+fonte maria caterina	1
+fisichella salvatore	1
+fiorentino gabriella	1
+faggiano antongiulio	1
+fabbricino gabriella	1
+elena iñarra garcia	1
+domina gianniantonio	1
+di simone maria rosa	1
+di gironimo giuseppe	1
+di federico vittorio	1
+di crescenzo antonio	1
+delvecchio francesco	1
+della valle giovanni	1
+della torre giuseppe	1
+della ricca giuseppe	1
+dell'isola francesco	1
+del prete gianfranco	1
+del giudice giuseppe	1
+de pasquale patrizia	1
+de matteis raffaella	1
+de martiis gabriella	1
+de leonardis massimo	1
+de laurentis martina	1
+de filippis vincenzo	1
+de curtis ivanmatteo	1
+de angelis antonella	1
+daniela montesarchio	1
+d'ippolito carmelita	1
+d'armiento massimino	1
+d'alessandro massimo	1
+d'alessandro leandro	1
+d'alessandro antonio	1
+cucciniello raffaele	1
+cozzolino annunziata	1
+cotticelli francesco	1
+copertino vitantonio	1
+contestabile antonio	1
+condorelli gianluigi	1
+colombo asher daniel	1
+cogorno luisa chiara	1
+ciccarese salvatrice	1
+christopher thornton	1
+chiesi antonio maria	1
+cerutti franco mario	1
+castagliuolo ignazio	1
+casari giorgio nevio	1
+carpanelli francesco	1
+carly joanne stevens	1
+cardarelli francesco	1
+capusso maria grazia	1
+capobianco giampiero	1
+cacciatore francesco	1
+brancaleone vincenzo	1
+bianco piero attilio	1
+bevilacqua carmelina	1
+bernardini francesca	1
+belfanti carlo marco	1
+baroni marco giorgio	1
+barone luciano maria	1
+barocelli elisabetta	1
+barbonetti arcangelo	1
+barberi maria stella	1
+barbagallo francesco	1
+barbagallo annamaria	1
+bagnoli paolo emilio	1
+badaracco gianfranco	1
+arcidiacono caterina	1
+antonina internicola	1
+antonella monticelli	1
+annunziata francesco	1
+andrea fuentes anaya	1
+amalia cecilia bruni	1
+alessandro spallicci	1
+albertini mariangela	1
+agostoni maria luisa	1
+zazzeroni francesca	1
+vermiglio francesco	1
+vercelli alessandro	1
+valluzzi maria rosa	1
+umanironchi achille	1
+tuttolomondo teresa	1
+totti cecilia maria	1
+torregrossa michele	1
+tomassetti isabella	1
+tomasino rosa maria	1
+tina giuseppe marco	1
+terranova francesco	1
+terracciano daniela	1
+tassorelli cristina	1
+tarantini francesca	1
+taramelli donatella	1
+tagliaferri teodoro	1
+tacchi enrico maria	1
+sylvain charbonnier	1
+sudhir chella rajan	1
+strisciuglio pietro	1
+strippoli pierluigi	1
+striccoli marinella	1
+stornaiuolo daniela	1
+stefanucci gianluca	1
+stefanini simonetta	1
+sorrentino ludovico	1
+sirangelo beniamino	1
+simonelli francesca	1
+simoncini francesca	1
+silvestrelli sergio	1
+silvana del vecchio	1
+siciliano salvatore	1
+siciliano rosa anna	1
+scianatico giovanna	1
+scapellato raffaele	1
+santantonio massimo	1
+santagostino angela	1
+santagata gabriella	1
+sammartino gilberto	1
+salvioli gianfranco	1
+salvatore cozzolino	1
+safwat shakir hanna	1
+saccorotti gilberto	1
+sacchi arturo livio	1
+rubinacci guglielmo	1
+rotoli bianca maria	1
+rossi piero ostilio	1
+rosa marina melillo	1
+rizzo santi agatino	1
+rispoli gioia maria	1
+rimoli maria grazia	1
+riccobono francesco	1
+ricciardi gualtiero	1
+ricci sindoni paola	1
+rappelli alessandro	1
+rapacciuolo antonio	1
+rampello sebastiano	1
+raimund bleischwitz	1
+quartarone giuseppe	1
+quaggiotti vittorio	1
+quadrifoglio franco	1
+puleio maria teresa	1
+provetti alessandro	1
+provenzano vincenzo	1
+proto pisani andrea	1
+postigliola alberto	1
+polverino francesco	1
+pierre andre degond	1
+pierdicca nazzareno	1
+petrucciani stefano	1
+petrucciani alberto	1
+petraccone vittorio	1
+perticone francesco	1
+persiani anna maria	1
+percy h. tannenbaum	1
+pellegrino giuseppe	1
+pelizzoni francesca	1
+pecce maria rosaria	1
+paternoster michele	1
+paoletti alessandro	1
+panico mariarosaria	1
+pani giovambattista	1
+pambianchi gilberto	1
+paltrinieri roberta	1
+nunziata concettina	1
+nikolai windbichler	1
+nicolella cristiano	1
+muscogiuri giovanna	1
+mora maria giovanna	1
+moncelli maria rosa	1
+monaco maria flavia	1
+momigliano patricia	1
+miloso mariarosaria	1
+migliorini maurizia	1
+migliaccio federica	1
+melchiorre virgilio	1
+mazzette antonietta	1
+mauriello gianluigi	1
+masoero marco carlo	1
+martuscelli ranieri	1
+martelli sebastiano	1
+maria pia sperandeo	1
+maria chiara maiuri	1
+marcialis gian luca	1
+marchionni niccolo'	1
+marchese anna maria	1
+marchelli rosangela	1
+mannocchi francesco	1
+manitto paolo mario	1
+magnani gianantonio	1
+maggi pietro natale	1
+macciotta giampaolo	1
+macchione francesco	1
+luigia sara di maio	1
+lucchetti gabriella	1
+lo schiavo fiorella	1
+lo monaco francesco	1
+licciardello orazio	1
+liberatore domenico	1
+lezzi adriano maria	1
+leonini luisa maria	1
+lauricella giuseppe	1
+lambertini lamberto	1
+labate luca umberto	1
+john howard bassett	1
+jessica gambardella	1
+ingrassia salvatore	1
+infascelli federico	1
+iannizzotto antonio	1
+guglielmino eugenio	1
+guazzelli francesca	1
+guarracino federico	1
+gottarelli giovanni	1
+girlanda mariangela	1
+giovanni abbruzzese	1
+giovagnoli agostino	1
+giannoccaro giacomo	1
+gianni paolo angelo	1
+giannattasio pietro	1
+giannattasio matteo	1
+gianelli alessandra	1
+garofoli gioacchino	1
+gambarotta agostino	1
+gambardella antonio	1
+gambacorta giuseppe	1
+gagliardi francesco	1
+gabriele b. clemens	1
+fraternali fernando	1
+francesco salvatore	1
+francesco carapezza	1
+francalanci lorella	1
+fraldi massimiliano	1
+formisano salvatore	1
+fontanini gabriella	1
+florian p. schiestl	1
+fioretti alessandro	1
+fiorentini vincenzo	1
+fiore pierfrancesco	1
+fioravante vincenzo	1
+filippetti fiorenzo	1
+ferretti alessandro	1
+federico d'agostino	1
+facchinetti roberta	1
+esposito costantino	1
+ernst elisa germana	1
+eric edward keaveny	1
+enrico maria surace	1
+donzelli gian paolo	1
+domenichini lorenzo	1
+di sabatino antonio	1
+di natale francesco	1
+di giacomo gabriele	1
+di costanzo alfonso	1
+di cairano giovanni	1
+di benedetto renato	1
+di bello vitantonio	1
+della valle massimo	1
+della corte gaetano	1
+del corso antonella	1
+defilippis domenico	1
+de tommasi domenico	1
+de simone francesco	1
+de giacomo giuseppe	1
+de franchis roberto	1
+de felice alfonsina	1
+de falco antonietta	1
+de falco alessandro	1
+de bellis annamaria	1
+d'ambrosio vincenzo	1
+d'acquisto leonardo	1
+crisostomi emanuele	1
+criscuolo ugo mario	1
+crisci gino mirocle	1
+costantino gabriele	1
+costagliola pilario	1
+cosentino salvatore	1
+corinaldesi valeria	1
+corbellini gilberto	1
+convertito vincenzo	1
+continella giovanni	1
+condorelli gerolama	1
+colombini ferruccio	1
+coletti giulianella	1
+colangelo francesco	1
+cocco tiziana maria	1
+cipollone francesco	1
+cifone maria grazia	1
+chirico maria luisa	1
+chiodi giulio maria	1
+chidichimo giuseppe	1
+chiarello francesco	1
+chiara russo krauss	1
+chiappini giampaolo	1
+chiappetta giovanna	1
+chiacchio francesco	1
+cerasuolo salvatore	1
+cattanei elisabetta	1
+cataudella vittorio	1
+cassaniti salvatore	1
+carlucci margherita	1
+cariota ferrara pia	1
+cardinali gianluigi	1
+carbonera donatella	1
+cannizzaro vincenzo	1
+campanella vincenzo	1
+calabrese francesco	1
+buonomano annamaria	1
+bosellini francesca	1
+bonsignore giovanni	1
+bonini carlo cesare	1
+bonicalzi francesca	1
+biolatti bartolomeo	1
+bellincampi daniela	1
+bellastella antonio	1
+bechelloni giovanni	1
+battistutta roberto	1
+battimelli giovanni	1
+battaglia francesco	1
+bassi pierfrancesco	1
+barbarino giancarlo	1
+barbagallo federica	1
+banfi antonio mario	1
+bacchetta gianluigi	1
+azzaro ettore maria	1
+ayroldi emira maria	1
+augugliaro vincenzo	1
+antony peter galton	1
+antonio vinciguerra	1
+antonacci francesca	1
+anna chiara de luca	1
+angelini alessandro	1
+angeletti gabriella	1
+amirante giuseppina	1
+alessandrini pietro	1
+alastair s garfield	1
+agostiniani luciano	1
+agabbio mario carlo	1
+affabris elisabetta	1
+zattoni alessandro	1
+zannetti antonella	1
+zandonini riccardo	1
+zanchetta giovanni	1
+zanatta anna laura	1
+zamparelli valeria	1
+volpe maria grazia	1
+vogliazzo maurizio	1
+violante francesco	1
+vincenzini massimo	1
+vezzosi elisabetta	1
+vettoretto luciano	1
+vescovini riccardo	1
+vergara alessandro	1
+verdolotti letizia	1
+veneziano vincenzo	1
+vecchione raffaela	1
+vassanelli stefano	1
+valenzise mariella	1
+usiello alessandro	1
+turchetti giuseppe	1
+tufarelli vincenzo	1
+troncone giancarlo	1
+trombini giancarlo	1
+trisciuoglio marco	1
+trimarco valentina	1
+triggiani giuseppe	1
+trifiletti rossana	1
+trevisani marcello	1
+trapasso francesco	1
+trapani vita maria	1
+tranfaglia antonio	1
+tornincasa stefano	1
+tomelleri giuliano	1
+toffoletti antonio	1
+tizzani alessandro	1
+tistarelli massimo	1
+thomas j. sharpton	1
+testa albertomaria	1
+terranova antonino	1
+tecce mario felice	1
+tarsitano agostino	1
+tarantino giovanni	1
+tagliacozzo arturo	1
+stefano bernasconi	1
+stefanile cristina	1
+squillante massimo	1
+squillace antonino	1
+spoto belindagilda	1
+spalluto giampiero	1
+spagnuolo giovanni	1
+sorrentino roberto	1
+soressi gian piero	1
+solimeno salvatore	1
+smaltino francesco	1
+siniscalchi silvia	1
+sinigaglia corrado	1
+simonelli giuliano	1
+simon john hiscock	1
+silvestrini marina	1
+sicca cinzia maria	1
+sfondrini giuseppe	1
+servidei serenella	1
+semeraro francesco	1
+seidenari stefania	1
+sebastiani roberto	1
+sciortino giuseppe	1
+schrefler bernhard	1
+schiavi costantino	1
+schiaffonati viola	1
+schettino vincenzo	1
+scarselli giuliano	1
+scaramella roberto	1
+scapparone eugenio	1
+savona ernesto ugo	1
+sassatelli roberta	1
+sartorio gianluigi	1
+sartori gianfranco	1
+sarra pier giacomo	1
+santocchia attilio	1
+santinelli alfredo	1
+santeusanio fausto	1
+sangermano gerardo	1
+salvini alessandro	1
+salvatore solimeno	1
+salvatore giuliana	1
+salomoni antonella	1
+saia onofrio bruno	1
+saccardo francesco	1
+rupert jacob myers	1
+rozzi renato luigi	1
+ricchetti evaristo	1
+renon pietro mario	1
+reda mario antonio	1
+recchia alessandra	1
+raimondi salvatore	1
+ragozini giancarlo	1
+puzzarini cristina	1
+pugliese francesco	1
+properzi pierluigi	1
+ponzini giansilvio	1
+pollastro stefania	1
+polissi alessandra	1
+pistocchi rossella	1
+pisello anna laura	1
+pinto paolo emilio	1
+pinnelli antonella	1
+pinna pietro luigi	1
+pignatello rosario	1
+pignataro giuseppe	1
+pieragostini elisa	1
+piacentino antonio	1
+petrungaro stefano	1
+petroncelli elvira	1
+peragine vitorocco	1
+pennacchio carmela	1
+pellegrini manuela	1
+pellacani giuseppe	1
+pedrazzani roberta	1
+pavolini emmanuele	1
+patrone fioravante	1
+pastorelli stefano	1
+pastore baldassare	1
+parigi bruno maria	1
+parascandola palma	1
+pappalardo umberto	1
+palmisano giuseppe	1
+palmieri gianmaria	1
+palmieri gabriella	1
+palmieri francesco	1
+palareti gualtiero	1
+pagliarini giorgio	1
+pagano gian franco	1
+nurizzo costantino	1
+nuno eduardo pinto	1
+nocentini giuseppe	1
+nardone alessandro	1
+napolitano gennaro	1
+mugelli alessandro	1
+morbiducci umberto	1
+monti maria chiara	1
+montella guglielmo	1
+mongelli francesco	1
+molinari henriette	1
+mistretta antonino	1
+milton c. cummings	1
+michele ceccarelli	1
+messina antonietta	1
+merigliano stefano	1
+menichetti stefano	1
+melchiorri claudio	1
+mazzocca francesco	1
+mattiazzo giuliana	1
+matteotti giuseppe	1
+massimo d' antonio	1
+massimino carrella	1
+massimilla edoardo	1
+massimiliano berti	1
+martirani giuliana	1
+martinotti stefano	1
+martelli francesco	1
+mariotti francesca	1
+marino pace adelmo	1
+mariggio' stefania	1
+maria alice donati	1
+marconi alessandro	1
+marchionna aurelio	1
+maravalle maurizio	1
+manfrida giampaolo	1
+manfredini stefano	1
+mancini ferdinando	1
+malcolm a.s. moore	1
+malangone pasquale	1
+majowiecki massimo	1
+maffezzoni claudio	1
+maddaloni giuseppe	1
+mackay andrew reay	1
+lucchin margherita	1
+lucacchini antonio	1
+lopresto valentina	1
+longhese maria pia	1
+lombardo francesco	1
+lombardi raffaella	1
+lignola gian piero	1
+levantesi caterina	1
+lercari bartolomeo	1
+lazzarino giuseppe	1
+lanciotti agostino	1
+lancellotta renato	1
+lai carlo giovanni	1
+lagomarsino sergio	1
+lafiandra domenico	1
+kramer laura helen	1
+klaus lindpaintner	1
+james peter talbot	1
+ioppolo anna maria	1
+innocenti fabrizio	1
+incoronato alberto	1
+incarnato loredana	1
+immordino giovanni	1
+hart david maurice	1
+guerrera francesco	1
+guccione salvatore	1
+guadagnini alberto	1
+groppo elena clara	1
+gringoli francesco	1
+gregor koblmüller	1
+grasso alfio dario	1
+gomez paloma luigi	1
+gliozzi ferdinando	1
+giuseppe ciambrone	1
+girolama la mantia	1
+giovanna biscontin	1
+giona massimiliano	1
+ginelli elisabetta	1
+gigliotti giovanni	1
+giarrusso antonino	1
+giannini antonella	1
+gianfrilli daniele	1
+giachetti riccardo	1
+gerhard abstreiter	1
+gasperini maurizio	1
+gasparetto michele	1
+garofalo francesco	1
+gambolati giuseppe	1
+gamba paolo ettore	1
+galvagno signorino	1
+galizzi alessandro	1
+galbiati cristiano	1
+gaini sergio maria	1
+fuggetta maria pia	1
+frisullo salvatore	1
+francesco bellucci	1
+fornasari gabriele	1
+fornaro gianfranco	1
+formisani brunello	1
+fiormonte domenico	1
+fiona mary gribble	1
+finocchio giovanni	1
+fimiani mariapaola	1
+filippetti alessio	1
+ferretti francesco	1
+ferraraccio franca	1
+fasano giancarmine	1
+farsetti antonella	1
+farro antimo luigi	1
+farinella vincenzo	1
+familiari giuseppe	1
+falcioni giancarlo	1
+faioni elena maria	1
+esposito gabriella	1
+emiliani francesca	1
+elisabete a. silva	1
+eckert ester maria	1
+donato giovannelli	1
+domenico salvatore	1
+dispenza celidonio	1
+dimitra lamprinaki	1
+di martino catello	1
+di giacomo adriano	1
+di gennaro giacomo	1
+di febbraro angela	1
+di credico germano	1
+di blasio gabriele	1
+denicolo' vincenzo	1
+delprete cristiana	1
+del punta riccardo	1
+del guerra alberto	1
+del giudice teresa	1
+de stefano valerio	1
+de sarlo francesco	1
+de lucchi ottorino	1
+de luca anna irene	1
+de lorenzo claudia	1
+de lellis giovanni	1
+de divitiis enrico	1
+de divitiis bianca	1
+de bortoli michele	1
+de angelis umberto	1
+davoli pietromaria	1
+david m. jacobwitz	1
+david brian dunger	1
+damiani gianfranco	1
+dallapiccola bruno	1
+dal canton antonio	1
+d'alessio raffaele	1
+d'alessandro lucio	1
+cusumano vitaliano	1
+cusi daniele maria	1
+curtotti donatella	1
+crescenzi vittorio	1
+cravotto giancarlo	1
+costabile giovanni	1
+cossali gianpietro	1
+cosentino domenico	1
+consoli gian paolo	1
+conforti benedetto	1
+conciauro giuseppe	1
+compagno cristiana	1
+coluccia salvatore	1
+colombatti alfonso	1
+collini elisabetta	1
+colavita giampaolo	1
+cipriani francesco	1
+cilardo alessandro	1
+cicchella domenico	1
+ciccarelli michele	1
+cianflone eleonora	1
+ciafaloni marcello	1
+christian julliard	1
+chiurazzi maurizio	1
+chiavazzo eliodoro	1
+chiaretti giuliana	1
+chiacchio pasquale	1
+cherubini stefania	1
+celentano giovanni	1
+ceccarini giovanni	1
+cavallaro calogero	1
+caterina gabriella	1
+castrucci giovanni	1
+castoria raffaello	1
+castellano sabrina	1
+castellani alberto	1
+castagnaro massimo	1
+casnati alessandro	1
+carotenuto claudia	1
+carotenuto alberto	1
+carocci alessandro	1
+carmine d'agostino	1
+carcaterra gaetano	1
+carbonara giovanni	1
+caravaggi giovanni	1
+capranico giovanni	1
+capparelli rosanna	1
+capobianco massimo	1
+capannelli gustavo	1
+cannavo alessandro	1
+candela anna maria	1
+cancrini gabriella	1
+camposeo salvatore	1
+camerlingo rosanna	1
+calvi giulia maria	1
+calvi gian michele	1
+calomino francesco	1
+calo' maria stella	1
+calderone vincenzo	1
+calabresi giovanni	1
+caccavale fabrizio	1
+busnardo benedetto	1
+bucci mariarosaria	1
+bruno dallapiccola	1
+briguglio antonino	1
+brandi maria luisa	1
+bottino alessandro	1
+bottaro alessandro	1
+bonvecchio claudio	1
+boni maria rosaria	1
+bonfiglioli sandra	1
+bonfante antonello	1
+bonadiman costanza	1
+bochicchio brigida	1
+bianchi clementina	1
+bianca de divitiis	1
+bertuccio giuseppe	1
+berti massimiliano	1
+bernardini daniele	1
+beretta gian paolo	1
+berardi maria rita	1
+bendini alessandra	1
+bellucci francesco	1
+becchi carlo maria	1
+basenghi francesco	1
+barucci clementina	1
+bartoletti roberta	1
+bartoletti massimo	1
+barrera giuseppina	1
+barlattani alberto	1
+barbero alessandro	1
+barbanera marcello	1
+bandelloni martino	1
+bacarella antonino	1
+astarita antonello	1
+arienzo alessandro	1
+aquilanti vincenzo	1
+antonucci vincenza	1
+antonio vidal-puig	1
+antonio feliciello	1
+annabella fantozzi	1
+ann margaret sharp	1
+angrisani leopoldo	1
+angrilli francesco	1
+andriello vincenzo	1
+andrew hacket pain	1
+andrenucci mariano	1
+andreassi gabriele	1
+amoruso annacinzia	1
+ambrosini maurizio	1
+amarelli francesco	1
+alvaro amigo ramos	1
+alfredo berardelli	1
+alessandri claudio	1
+aimaretti gianluca	1
+adrian immenhauser	1
+abbruzzese michele	1
+zuppetta agostino	1
+zotti carla maria	1
+zicari alessandra	1
+zarrilli federica	1
+zannetti giuseppe	1
+zanchetti giorgio	1
+voltattorni carla	1
+vittorio bellotti	1
+vitale rosa maria	1
+virginius siksnys	1
+vipiana francesca	1
+villani francesco	1
+verticale giacomo	1
+venneri mary anna	1
+veniali francesco	1
+veglio' francesco	1
+vegeto elisabetta	1
+vedovelli massimo	1
+vecchio graziella	1
+vasiliki kalatzis	1
+varricchio ettore	1
+vanore margherita	1
+vanini gian carlo	1
+valsecchi valeria	1
+vallicelli andrea	1
+vallascas rinaldo	1
+valerio vladimiro	1
+valentino daniela	1
+vaccaro salvatore	1
+ulrici alessandro	1
+tulumello alberto	1
+trifiro' gianluca	1
+trezzi gian luigi	1
+trevisan giovanna	1
+travelli cristina	1
+travali salvatore	1
+tortorici edoardo	1
+tornambe' antonio	1
+tonelli francesco	1
+tomirotti massimo	1
+tiribelli claudio	1
+thomas r. kurfess	1
+tessitore luciana	1
+termini donatella	1
+teresa jane brown	1
+taliercio alberto	1
+talarico giovanni	1
+takeyuki nagasawa	1
+taddeucci adriano	1
+taccaliti augusto	1
+tabanelli tommaso	1
+tabacco raffaella	1
+surrenti calogero	1
+stephen o'rahilly	1
+stefanizzi pietro	1
+stefanelli cesare	1
+stanzione massimo	1
+stampacchia paolo	1
+sricchia fiorella	1
+squillante marisa	1
+sprovieri rodolfo	1
+spinelli leonardo	1
+spinelli giovanni	1
+speranza giovanna	1
+sottile francesco	1
+sorrentino fiodor	1
+soncini gabriella	1
+siliquini roberta	1
+servillo giuseppe	1
+segale alessandro	1
+sebastiani adolfo	1
+scozzafava romano	1
+sciunzi berardino	1
+sciortino alfonso	1
+sciorio salvatore	1
+sciaudone antonio	1
+schneider claudio	1
+schettino trifone	1
+schettini gennaro	1
+scazzieri roberto	1
+scardozzi mirella	1
+scardovelli ruben	1
+scarafoni alessio	1
+scalese giancarlo	1
+scaglione antonio	1
+sbrana alessandro	1
+sarghini fabrizio	1
+santoni francesco	1
+santarpia luciano	1
+santaniello mauro	1
+sangalli maurizio	1
+salvini francesco	1
+salvato benedetto	1
+salerno francesca	1
+sala massimiliano	1
+sabattini lorenzo	1
+sabatini giuseppe	1
+ruggiero vittorio	1
+rostirolla pietro	1
+rosellini daniele	1
+romagnoli stefano	1
+roberta marchetti	1
+rizzo maria piera	1
+rispoli francesco	1
+rinaldi christian	1
+riffaldi riccardo	1
+riccobono roberto	1
+riccardo troncone	1
+reverberi massimo	1
+rettaroli rosella	1
+resmini pierpaolo	1
+renata de lorenzo	1
+rebora gianfranco	1
+realfonzo roberto	1
+ranucci salvatore	1
+rampi maria anita	1
+raiconi giancarlo	1
+raffaella lamagna	1
+raffaele giordano	1
+raffaele de palma	1
+quistelli antonio	1
+querzoli patrizia	1
+pulvirenti andrea	1
+pulcini gianpaolo	1
+pugliese giuseppe	1
+puglia anna maria	1
+puggioni giuseppe	1
+proverbio edoardo	1
+procolo lucignano	1
+primiero giuseppe	1
+pricoco salvatore	1
+previati maurizio	1
+pranzini giovanni	1
+portella giuseppe	1
+pomarici ulderico	1
+polesello gianugo	1
+poe brent takashi	1
+pistolesi massimo	1
+piselli fortunata	1
+piscitelli teresa	1
+piscione federico	1
+pironti gabriella	1
+pinnaro' maurizio	1
+pinatel eva maria	1
+pigozzi marinella	1
+pietrobelli mario	1
+piergigli valeria	1
+piccolo salvatore	1
+picciolini enrico	1
+petrosino daniele	1
+petronzio roberto	1
+petrillo giovanna	1
+petrella giuseppe	1
+petrecca giovanni	1
+peter tonev popov	1
+perulli adalberto	1
+peretti gabriella	1
+pennisi salvatore	1
+pencarelli tonino	1
+pellegrino arturo	1
+pellegrini silvia	1
+pelizzi giancarlo	1
+peccerillo angelo	1
+patania francesco	1
+pasquale palmieri	1
+parmaliana adolfo	1
+parlangeli oronzo	1
+papini pier luigi	1
+palumbo francesco	1
+palmieri pasquale	1
+pallone francesco	1
+palleschi claudio	1
+palermo francesco	1
+pagnoncelli lucio	1
+pagliaroli giulia	1
+pacifico severina	1
+pacifici emanuele	1
+orsi enrico maria	1
+orlandini stefano	1
+orlacchio antonio	1
+oliviero maurizio	1
+oderda giuseppina	1
+novarini almerico	1
+nocentini massimo	1
+nicosia simonetta	1
+nicosia salvatore	1
+nicolini giovanna	1
+nicoletti rosario	1
+neresini federico	1
+natale lucia anna	1
+nardulli giuseppe	1
+musella fortunato	1
+muratore giuseppe	1
+mozzarelli andrea	1
+morgan jacqueline	1
+moretti gabriella	1
+morelli giancarlo	1
+morbiducci renata	1
+morace aldo maria	1
+montrucchio luigi	1
+montrasio lorella	1
+montanini roberto	1
+montanaro lorenzo	1
+montanari armando	1
+montagna pasquale	1
+mollica francesco	1
+molinari raffaele	1
+miranda salvatore	1
+minutolo patrizia	1
+mingrone geltrude	1
+mingozzi aristide	1
+migliorato renato	1
+merighi adalberto	1
+melati maria rita	1
+meacci elisabetta	1
+mcclintock aglaia	1
+mazzullo giuseppe	1
+mazzetto fabrizio	1
+mazzanti giovanni	1
+matteucci ruggero	1
+mattana antonella	1
+matarese giuseppe	1
+massarotti nicola	1
+massardo aristide	1
+masoero mariarosa	1
+marucchini cesare	1
+martinez marcello	1
+martinelli flavia	1
+mariotti goffredo	1
+margari francesco	1
+marcomini antonio	1
+marchetti stefano	1
+marchetti roberta	1
+marchetti barbara	1
+marchetti antonio	1
+manzocchi stefano	1
+mangiacapra fabio	1
+mangani francesco	1
+manfredi manfredo	1
+mancuso francesco	1
+mamone gianfranco	1
+mammana cristiana	1
+malorgio fernando	1
+maiorana antonino	1
+maggiore giuseppe	1
+maggioni vincenzo	1
+magazzu' giuseppe	1
+maffei margherita	1
+maffei gian luigi	1
+machetti fabrizio	1
+lupetti antonella	1
+luparello claudio	1
+luchi maria laura	1
+lovati maria rosa	1
+losurdo francesco	1
+lorenzini giacomo	1
+longhetto arnaldo	1
+lomonaco fabrizio	1
+lombardi pasquale	1
+locoratolo sergio	1
+lo coco francesco	1
+licandro emanuela	1
+leonelli cristina	1
+legnaioli stefano	1
+lechi giovanmaria	1
+lazzaroni massimo	1
+lazzarini lorenzo	1
+lazzari francesco	1
+lavorgna giovanni	1
+larson par gunnar	1
+larobina domenico	1
+lanzafame rosario	1
+lanciotti rosalba	1
+lampariello paolo	1
+lamberti annalisa	1
+laforgia vincenza	1
+la tegola antonio	1
+l. miguel martins	1
+klaus lindpainter	1
+kenny jose' maria	1
+john lloyd provis	1
+j.a. helayel-neto	1
+infussi francesco	1
+imbriani gianluca	1
+illario maddalena	1
+iannelli gabriele	1
+iannelli domenico	1
+iadonisi giuseppe	1
+iaconis francesco	1
+iacobelli stefano	1
+guaschino secondo	1
+guarino giancarlo	1
+guarini salvatore	1
+gualtieri roberto	1
+groppetti antonio	1
+grgurina ingeborg	1
+gregorio pasquale	1
+grassini maurizio	1
+grandinetti lucio	1
+giustolisi orazio	1
+giuseppe matarese	1
+giuseppe marrucci	1
+giuseppe ercolano	1
+giulietti massimo	1
+giuliano domenico	1
+giuliana pallotta	1
+giuffrè vincenzo	1
+giuditta caliendo	1
+giudicianni paola	1
+giordano girolamo	1
+gioffre' vincenzo	1
+giaquinta gaetano	1
+gianfrani carmela	1
+gianfagna antonio	1
+giancarlo vecchio	1
+giampaolo merlini	1
+giampaolo ciriaco	1
+giacomo lamporesi	1
+gerla giangiacomo	1
+genazzani armando	1
+gazzola giancarlo	1
+gatti maria paola	1
+gattesco natalino	1
+gasparrini bianca	1
+garofalo emanuela	1
+garibotto giacomo	1
+gagliardi lorenzo	1
+gabriella pinzari	1
+fumagalli lorenzo	1
+fraziano giovanni	1
+franciosi gennaro	1
+franchina tindara	1
+franch mariangela	1
+francesca scafuto	1
+fraccarollo luigi	1
+fontana francesco	1
+fogliano vincenzo	1
+floreani annarosa	1
+fittipaldi arturo	1
+fiorotto virgilio	1
+fiorani donatella	1
+filippone edgardo	1
+filippelli walter	1
+fichera francesco	1
+fiandaca giovanni	1
+ferrari pier alda	1
+fazioli francesca	1
+fausto anna maria	1
+faretra francesco	1
+fagnoni raffaella	1
+faggiano beatrice	1
+facchinetti fabio	1
+facchi alessandra	1
+fabrizi giancarlo	1
+esposito giuseppe	1
+emiliano giardina	1
+duffy karl joseph	1
+dondarini rolando	1
+donadio francesco	1
+dolcetti giuliano	1
+di tommaso angelo	1
+di stefano pietro	1
+di salvo settimio	1
+di rosa francesca	1
+di prisco bartolo	1
+di pietra roberto	1
+di pasquale elisa	1
+di napoli claudia	1
+di marzo vincenzo	1
+di maro salvatore	1
+di maio francesco	1
+di ludovico marco	1
+di iorgi natascia	1
+di giulio roberto	1
+di girolamo rocco	1
+di fiore giuliana	1
+di donato alberto	1
+di daniele nicola	1
+di carlo raffaele	1
+derenzini massimo	1
+dente bruno oscar	1
+demarchi beatrice	1
+delitala giuseppe	1
+del vecchio luigi	1
+del prato stefano	1
+dejana elisabetta	1
+deiana anna maria	1
+decastri maurizio	1
+de vivo giancarlo	1
+de vita gabriella	1
+de stefano nicola	1
+de simone alfonso	1
+de sarro angelina	1
+de santis roberto	1
+de rosa salvatore	1
+de ponti fabrizio	1
+de napoli lorenzo	1
+de lucia maurizio	1
+de iorio isabella	1
+de filippis paolo	1
+de falco domenico	1
+de cicco vincenzo	1
+de blasi giuseppe	1
+damiani francesco	1
+dambrosio michele	1
+dalbono francesca	1
+d'urso alessandro	1
+d'orazio loredana	1
+d'inzeo guglielmo	1
+d'avella domenico	1
+d'andrea vincenzo	1
+d'andrea giovanna	1
+d'andrea antonino	1
+d'ambrosio chiara	1
+d'agostino nicola	1
+d'agostini giulio	1
+crotti elena sara	1
+cristina mazzilli	1
+crimella casimiro	1
+costi maria paola	1
+costanzo pasquale	1
+cortese michelina	1
+cortella giovanni	1
+corbi graziamaria	1
+coppola salvatore	1
+contursi patrizia	1
+consiglio eduardo	1
+concetta giancola	1
+colligiani arturo	1
+colelli giancarlo	1
+colaneri patrizio	1
+cobianchi roberto	1
+clementi maurizio	1
+claus lämmerzahl	1
+cirilli simonetta	1
+cipollone roberto	1
+cianciaruso bruno	1
+ciaccia adalberto	1
+ciacci margherita	1
+chieffi gabriella	1
+chiaia bernardino	1
+cerbai elisabetta	1
+cerasola giovanni	1
+celozzi salvatore	1
+cavallini alberto	1
+cavallero daniela	1
+cavalleri ornella	1
+cavallaro gennara	1
+cavaliere valeria	1
+cattaneo patrizia	1
+catellani giorgio	1
+catalano stefania	1
+castriciano maria	1
+castellucci mario	1
+castellino pietro	1
+cassata francesco	1
+cassader maurizio	1
+carpinteri andrea	1
+carnevale daniela	1
+carlotti giovanni	1
+carlone pierpaolo	1
+carli sardi laura	1
+carinci francesco	1
+caredda salvatore	1
+cardilli riccardo	1
+cardellini marina	1
+cardarelli andrea	1
+carandente orazio	1
+cappellaro enrico	1
+cappabianca paolo	1
+capozzoli alfonso	1
+caporali riccardo	1
+capaccioli sergio	1
+cantarelli fausto	1
+cannone francesco	1
+caniglia giovanni	1
+canavari maurizio	1
+campione giuseppe	1
+camodeca giuseppe	1
+camilloni giorgio	1
+calzolari giorgio	1
+calligaro alberto	1
+caliendo giuseppe	1
+calcerano filippo	1
+calboli gualtiero	1
+calabro' raffaele	1
+cafferata roberto	1
+caddemi salvatore	1
+cacopardi saverio	1
+cacchione stefano	1
+businelli daniela	1
+buonocore aniello	1
+bubboloni daniela	1
+brunelli agostino	1
+brevetti gregorio	1
+bresadola silvano	1
+brancaleoni fabio	1
+braitenberg carla	1
+bradley eckelmann	1
+bracchi francesco	1
+bosellini alfonso	1
+bonora pier luigi	1
+boncinelli sergio	1
+bonaccorsi andrea	1
+bollati valentina	1
+bolgherini silvia	1
+blandizzi corrado	1
+blaiotta giuseppe	1
+bistagnino enrica	1
+bisogni salvatore	1
+biondi bernadette	1
+bigioggero biagio	1
+bevilacqua giulio	1
+bertozzi gabriele	1
+bertolino antonia	1
+bertolazzi enrico	1
+bernasconi sergio	1
+bernardini renato	1
+bernardini davide	1
+berardi francesco	1
+bentoglio alberto	1
+benigno francesco	1
+bencivelli valter	1
+benaiteau michele	1
+bellotti vittorio	1
+bellone simonetta	1
+bellone salvatore	1
+belletti beatrice	1
+belgrano emanuele	1
+becciu gianfranco	1
+battistoni andrea	1
+battiston roberto	1
+barzaghi riccardo	1
+barsacchi daniela	1
+barretta raffaele	1
+bariffi francesco	1
+barcellona pietro	1
+barbieri riccardo	1
+baptist gabriella	1
+baiano antonietta	1
+bacchi baldassare	1
+baccarani claudio	1
+babudri francesco	1
+azzari margherita	1
+aversano riccardo	1
+auricchio alberto	1
+attanasio massimo	1
+atsushi tachikawa	1
+assereto giovanni	1
+argentino michele	1
+arbizzani eugenio	1
+aniello francesco	1
+andrew n. sessler	1
+andreozzi assunta	1
+anastasio aniello	1
+amoruso salvatore	1
+aminti pier luigi	1
+amendolagine vito	1
+ambrosone alfredo	1
+alvaro calzadilla	1
+altomare emanuele	1
+alfonso de simone	1
+alfinito fiorella	1
+alessandro fraldi	1
+albertin gabriele	1
+alaimo anna maria	1
+adriana galderisi	1
+acquati francesco	1
+achilli vladimiro	1
+accardo antonella	1
+zuffardi orsetta	1
+zollino marcella	1
+zilletti lucilla	1
+zavarise giorgio	1
+zanetto gabriele	1
+zaccagnini carlo	1
+wolfgang lechner	1
+viterbo emanuele	1
+vitale annamaria	1
+vitagliano luigi	1
+vincenti umberto	1
+villante umberto	1
+vesperini giulio	1
+verzichelli luca	1
+ventura ulderico	1
+vassura gabriele	1
+vassallo eugenio	1
+van der borg jan	1
+valdinoci enrico	1
+urbanelli sandra	1
+ungaro francesca	1
+ulrich heimhofer	1
+ubertini filippo	1
+turchetta sandro	1
+trovato giovanni	1
+trombini claudio	1
+troisi salvatore	1
+trigiante donato	1
+trevisan camillo	1
+totaro francesco	1
+toscano vincenzo	1
+toscano giuseppe	1
+torre alessandro	1
+tonielli alberto	1
+tonelli natascia	1
+tomasso giuseppe	1
+tognetti valerio	1
+tocchini gerardo	1
+tisato francesco	1
+tigrino vittorio	1
+terlizzi antonio	1
+tedeschi rodolfo	1
+tarabusi valerio	1
+tantucci claudio	1
+tamburrano guido	1
+tabarroni andrea	1
+szego alessandra	1
+strazzullo maria	1
+strappa giuseppe	1
+straccia umberto	1
+stocchi vilberto	1
+stella salvatore	1
+stefani stefania	1
+staudacher carlo	1
+stancati claudia	1
+spinelli letizia	1
+spinelli giorgio	1
+speranza rubattu	1
+spatari giovanna	1
+sparvoli roberta	1
+spadoni gilberto	1
+spadaro giuseppe	1
+sottili agostino	1
+sorrentino elena	1
+soppelsa ottavio	1
+solinas vincenzo	1
+sindona giovanni	1
+simoni francesco	1
+simone cristiano	1
+simeone vincenzo	1
+silvestri andrea	1
+sighieri claudio	1
+sgarrella franca	1
+sestito marcello	1
+serazzi giuseppe	1
+sebastien biasse	1
+sebastian garcia	1
+seassaro alberto	1
+scicutella mario	1
+schiraldi chiara	1
+schinelli sergio	1
+schifani giorgio	1
+scavone cristina	1
+scarponi luciano	1
+scaraggi michele	1
+scambia giovanni	1
+scalesse tommaso	1
+scalera domenico	1
+sburlati roberta	1
+sbardella emilia	1
+savioli giuseppe	1
+sauvagnat julien	1
+sartorelli paola	1
+sanvitto daniele	1
+santamato enrico	1
+sangiorgi franco	1
+sandulli michele	1
+salzano giovanni	1
+salvatori franco	1
+salciarini diana	1
+ryan david bayes	1
+ruocco gianpaolo	1
+ruggiero valeria	1
+ruffo gianfranco	1
+rouphael youssef	1
+rossi pier paolo	1
+rossi luca carlo	1
+rossi aldo loris	1
+rondoni lamberto	1
+ronchetti simona	1
+roncalli massimo	1
+romby giuseppina	1
+rodono' giuseppe	1
+rocchesso davide	1
+robin bloomfield	1
+roberti giuseppe	1
+rizzoli vittorio	1
+rizzo gianfranco	1
+rizzarelli maria	1
+rivosecchi guido	1
+riccardi claudia	1
+riccaboni angelo	1
+ribatti domenico	1
+regazzi domenico	1
+ravenna marcella	1
+rapisarda andrea	1
+randazzo antonio	1
+rampichini carla	1
+racinaro roberto	1
+querzoli giorgio	1
+purrello roberto	1
+puliti aldamaria	1
+puglisi giovanni	1
+pugliese antonio	1
+prosposito paolo	1
+prosperi santino	1
+primicerio mario	1
+pratesi riccardo	1
+porcheddu andrea	1
+polimeno lorenzo	1
+pizzolo giovanni	1
+pisanu salvatore	1
+pirozzi domenico	1
+piperno marcello	1
+pillati marilena	1
+piga maria lucia	1
+pievani dietelmo	1
+pietra francesco	1
+pieretti antonio	1
+piemonti lorenzo	1
+piccolo raffaele	1
+pianese domenico	1
+philip treleaven	1
+pezzino antonino	1
+petruzzi roberto	1
+petrini vincenzo	1
+petraglia felice	1
+pero maria elena	1
+peretti vincenzo	1
+pennisi antonino	1
+pellizer giorgio	1
+patitucci stella	1
+pastore giovanna	1
+pasquali daniela	1
+pasquale striano	1
+pasqua gabriella	1
+parotto giuliana	1
+paolucci claudio	1
+panzeca teotista	1
+panza elisabetta	1
+panico salvatore	1
+palmieri camillo	1
+pagnini giuseppe	1
+padovani claudia	1
+pacella filomena	1
+ossola francesco	1
+orsini francesco	1
+orlandi giovanni	1
+olivucci massimo	1
+olivieri gennaro	1
+oliveto giuseppe	1
+novellino ettore	1
+nasuti francesco	1
+nardelli carmela	1
+muraro raffaella	1
+murano antonella	1
+mummolo giovanni	1
+mule' giuseppina	1
+morterra claudio	1
+morrone stefania	1
+morrone giovanni	1
+morbidelli lucio	1
+morandi giuseppe	1
+montorsi arianna	1
+montomoli chiara	1
+montefusco laura	1
+montanari tomaso	1
+montanari angela	1
+montaleone carlo	1
+mollica vincenzo	1
+mirabella nicola	1
+miotti francesca	1
+minuto francesco	1
+minervini enrico	1
+milanesi luciano	1
+mignini fiorenzo	1
+miceli francesco	1
+mencarelli fabio	1
+meldolesi jacopo	1
+mazzone pasquale	1
+mazzini stefania	1
+mayrhofer marina	1
+mauro alessandro	1
+mattogno claudia	1
+matthias eschrig	1
+matildi giuseppe	1
+materazzi serena	1
+matassino donato	1
+massucco stefano	1
+maría-paz reyes	1
+martone raffaele	1
+martinelli fabio	1
+martin alan bees	1
+martelli filippo	1
+marrucci lorenzo	1
+marocco marcello	1
+mark lewis evans	1
+mariotti stefano	1
+mariani leonardo	1
+marcucci edoardo	1
+marchetta manlio	1
+marchesoni mario	1
+marchesi michele	1
+marano salvatore	1
+mangione stefano	1
+mangia gianluigi	1
+manetti fabrizio	1
+mandich giuliana	1
+mancuso marcello	1
+mancini marcello	1
+mancini giovanna	1
+malucelli giulio	1
+malpei francesca	1
+mallardo massimo	1
+malavasi lorenzo	1
+maisano riccardo	1
+maiorano eugenio	1
+maione francesco	1
+magliulo gennaro	1
+maffucci antonio	1
+maffei francesca	1
+maccarrone mauro	1
+lunetta giuseppe	1
+lucisano antonia	1
+loverro giuseppe	1
+loschi anna rita	1
+loreto francesco	1
+lorenza magliano	1
+lombardo umberto	1
+lombardi assunta	1
+leone alessandro	1
+leonardi letizia	1
+lazzarin adriano	1
+laudani raffaele	1
+lattanzi roberta	1
+latella giovanni	1
+lanzotti antonio	1
+lambiase alfredo	1
+lamberti gaetano	1
+lamberti alberto	1
+la scala massimo	1
+la rocca michele	1
+la rana giovanni	1
+la puma leonardo	1
+la mendola lidia	1
+la marca antonio	1
+la barbera paolo	1
+kristin kasschau	1
+julian l griffin	1
+julia mary black	1
+jonathan storkey	1
+jasonni vincenzo	1
+jacqueline glass	1
+iuculano gaetano	1
+isabella allegri	1
+ippolito antonio	1
+inferrera cosimo	1
+indrieri alessia	1
+incerti giovanni	1
+ignesti giuseppe	1
+iacobini claudio	1
+honorati onorato	1
+hennemann ingrid	1
+haardt francesco	1
+gustav schachter	1
+guglieri giorgio	1
+guerriero giulia	1
+guerrieri emilio	1
+guerra francesco	1
+guercini stefano	1
+gristina roberto	1
+grimaldi antonio	1
+graziosi giorgio	1
+granata giuseppe	1
+gramegna fabiana	1
+golemme giovanni	1
+gloria gabrielli	1
+giovannini paolo	1
+giovanni defazio	1
+giorgio de ritis	1
+giorgianni santi	1
+gigliotti silvia	1
+giglietto nicola	1
+giasanti alberto	1
+giardino roberto	1
+giannone antonio	1
+giannetto enrico	1
+giannetti flavia	1
+giannaccini gino	1
+gialanella lucio	1
+giacomin alberto	1
+giaccone valerio	1
+ghislandi victor	1
+ghirardato paolo	1
+gerhard giebisch	1
+gerevini alfonso	1
+george lesieutre	1
+gentilli luciana	1
+gentile giuseppe	1
+gentile fabrizio	1
+gemignani franco	1
+gaudino giovanni	1
+gasperi maurizio	1
+garnero gabriele	1
+garippa giovanni	1
+garibaldi pietro	1
+gargiulo carmela	1
+gandolfini mauro	1
+gandin valentina	1
+gamberini andrea	1
+gambarova pietro	1
+gambarotta luigi	1
+gambaccini mauro	1
+gallo alessandra	1
+gallese vittorio	1
+galia alessandro	1
+galasso vincenzo	1
+gadducci angiolo	1
+gabriele bartolo	1
+gabbani giuliano	1
+fumagalli chiara	1
+frosini riccardo	1
+frosini giovanna	1
+frontera filippo	1
+frattari antonio	1
+fraticelli vanna	1
+françois lukaya	1
+françois kervyn	1
+franzetti andrea	1
+franzese adriana	1
+francesco miceli	1
+francesco marulo	1
+francesco franco	1
+foscolo pier ugo	1
+forcellati linda	1
+fodale salvatore	1
+focardi riccardo	1
+florian fiorella	1
+flora alessandro	1
+flavia cavaliere	1
+fiorucci adriano	1
+fiorilli massimo	1
+fiani margherita	1
+ferrero giovanni	1
+ferrario roberta	1
+ferrarin alfredo	1
+ferrari rosa pia	1
+ferrante claudio	1
+ferorelli savina	1
+ferlisi settimio	1
+ferlazzo adriana	1
+ferappi marcello	1
+fedrizzi lorenzo	1
+federico stefano	1
+federico eduardo	1
+febbrajo alberto	1
+faviana pinuccia	1
+fasulo salvatore	1
+fantin francesco	1
+fantechi barbara	1
+fanghella pietro	1
+fanali salvatore	1
+falsone maurizio	1
+falconi maurizio	1
+facchini alberto	1
+ettore benedetti	1
+esposito roberto	1
+emanuelli monica	1
+elizabeth graham	1
+durante fabrizio	1
+dringoli massimo	1
+donsi' francesco	1
+donofrio gaetano	1
+domenico mancino	1
+digilio giuseppe	1
+di serio martino	1
+di paola rosanna	1
+di paola manuele	1
+di nocera silvio	1
+di nicola andrea	1
+di matteo marisa	1
+di mario umberto	1
+di maio giuseppe	1
+di lena giovanni	1
+di fiore luciano	1
+di dalmazi guido	1
+devivo benedetto	1
+desideri augusto	1
+demuro gianmario	1
+dellaglio franco	1
+del sal giannino	1
+del bue maurizio	1
+del borghi marco	1
+del bo' cristian	1
+degano pierpaolo	1
+de stefani diego	1
+de socio luciano	1
+de rossi filippo	1
+de rossi antonio	1
+de rosa marcello	1
+de rosa giuseppe	1
+de renzi roberto	1
+de poli giovanni	1
+de nitto achille	1
+de menna luciano	1
+de marsico maria	1
+de marco carmela	1
+de marchi andrea	1
+de luca giuseppe	1
+de lotto barbara	1
+de angelis paolo	1
+de ambrosis anna	1
+daponte pasquale	1
+daniela schuster	1
+daniela esposito	1
+daniel rittschof	1
+dalla rosa marco	1
+dalla marta anna	1
+dall'o' giuliano	1
+daliento santolo	1
+dabbene fabrizio	1
+d'orazio valeria	1
+d'onofrio giulio	1
+d'istria michela	1
+d'antuono emilia	1
+d'aniello biagio	1
+d'andrea dimitri	1
+d'alfonso sandra	1
+d'adamio luciano	1
+d'acunto luciana	1
+cucciniello ciro	1
+crosta pierluigi	1
+cristiani eloisa	1
+cristallo sergio	1
+cristaldi flavia	1
+crescentini luca	1
+crescenti uberto	1
+cremonesi fausto	1
+cotrufo maurizio	1
+costanzo antonio	1
+costagliola ciro	1
+cosconati sandro	1
+corsani gabriele	1
+corradini danilo	1
+cornoldi adriano	1
+corneo gianmarco	1
+corduas marcella	1
+cordone angelina	1
+coppola emanuela	1
+contorbia franco	1
+condorelli mario	1
+comoretto davide	1
+comiti francesco	1
+colotta vittoria	1
+colonna vincenza	1
+colonna pasquale	1
+colonna giovanni	1
+colella giuseppe	1
+cocchieri renata	1
+citterio attilio	1
+cirillo giovanni	1
+cirelli giuseppe	1
+ciotta gianluigi	1
+cinelli maurizio	1
+cignarelli mauro	1
+ciaravino giulio	1
+christina davies	1
+christian jansen	1
+chirone riccardo	1
+chimenti claudio	1
+chiesa giancarlo	1
+chiavassa andrea	1
+chiarugi massimo	1
+chiarugi alberto	1
+chiarini alberto	1
+chiandotto bruno	1
+chiacchella rita	1
+charlotte trippi	1
+cestone giacinta	1
+cesareo vincenzo	1
+cerulli raffaele	1
+ceroni francesca	1
+ceraudo giuseppe	1
+ceradini filippo	1
+ceccarelli marco	1
+caviglia daniele	1
+cavarra eleonora	1
+cavallotti carlo	1
+cavaliere renata	1
+catelani giorgio	1
+castello rinaldo	1
+castagneto marco	1
+cassiani giorgio	1
+casmirri silvana	1
+casella vittorio	1
+cascini leonardo	1
+casavola valeria	1
+caruso francesco	1
+carosio federico	1
+carmelo giordano	1
+carimi francesco	1
+cardigno rosella	1
+carbone giuseppe	1
+caramella davide	1
+caraglia michele	1
+capriati michele	1
+cappello tiziana	1
+capasso raffaele	1
+caorsi salvatore	1
+cantore giuseppe	1
+cantoni virginio	1
+canti gianfranco	1
+canonico roberto	1
+candito pasquale	1
+cancelli claudio	1
+canavero alfredo	1
+campisi patrizio	1
+campieri massimo	1
+campanella luigi	1
+campagna lorenzo	1
+cammarano fulvio	1
+camillo gubitosi	1
+calzarossa maria	1
+calza bini paolo	1
+calvo sebastiano	1
+calise francesco	1
+calderini chiara	1
+calderara simone	1
+bulotta stefania	1
+bruschi fabrizio	1
+brunori gianluca	1
+brugnoli alberto	1
+bresadola andrea	1
+breglio giovanni	1
+branchesi marica	1
+brancato rosario	1
+bracale marcello	1
+bozzolan saverio	1
+bovolin patrizia	1
+boscia francesca	1
+borsani giuseppe	1
+borreani giorgio	1
+borgia guglielmo	1
+bordegoni monica	1
+bonomi francesco	1
+bonifazi corrado	1
+bonanno gabriele	1
+boari gianfranco	1
+blanchini franco	1
+bizzarri ranieri	1
+bitto alessandra	1
+bitelli gabriele	1
+bistagnino luigi	1
+biglia nicoletta	1
+bifulco raffaele	1
+bifulco maurizio	1
+bianconi daniele	1
+bianchin alberta	1
+bianchi giuseppe	1
+bevilacqua fabio	1
+betterle corrado	1
+berta gian luigi	1
+bernabei roberto	1
+beone gian maria	1
+benedetti andrea	1
+benassai edoardo	1
+bemporad alberto	1
+bellucci arianna	1
+bellizzi gennaro	1
+bellia francesco	1
+bellanca adriana	1
+bellabarba marco	1
+beghi alessandro	1
+bazzoli maurizio	1
+bazzocchi chiara	1
+bartolozzi carlo	1
+barrese vincenzo	1
+barreca antonina	1
+bardelli alberto	1
+barcaccia gianni	1
+barbera giuseppe	1
+barbato emanuele	1
+barbara giovanni	1
+balzani marcello	1
+baldi gian carlo	1
+baldi elisabetta	1
+ausanio giovanni	1
+atzeni francesco	1
+attanasio monica	1
+asprone domenico	1
+ascione fabrizio	1
+artioli gilberto	1
+arrigoni giorgio	1
+aportone anselmo	1
+apicella antonio	1
+antonio leonardi	1
+antonielli livio	1
+anne kiremidjian	1
+annalisa pastore	1
+angelo selicorni	1
+andreas koeberle	1
+amoresano angela	1
+amoresano amedeo	1
+ambrosio gennaro	1
+altruda fiorella	1
+altieri leonardo	1
+alonge francesco	1
+allocca vincenzo	1
+allocca annalisa	1
+allegra giuseppe	1
+alessandro mauro	1
+alessandro filla	1
+alejandra tejedo	1
+albertini emidio	1
+alberti giovanni	1
+airoldi giuseppe	1
+aiello francesco	1
+adriana oliviero	1
+adinolfi lorenzo	1
+abignente angelo	1
+abbattista guido	1
+zucchi riccardo	1
+zoppini giacomo	1
+zoccoli antonio	1
+zocchi graziano	1
+zecchin roberto	1
+zarone fernando	1
+zanoli raffaele	1
+zannoni claudio	1
+zaninelli dario	1
+zanghi' claudio	1
+zanforlin luigi	1
+zanfardino anna	1
+zanetti alberto	1
+zampieri sandro	1
+zambelli adolfo	1
+wilma mantovani	1
+vultaggio mario	1
+vulpiani angelo	1
+volterra andrea	1
+volpini rosaria	1
+volpi cristiana	1
+vizzani antonio	1
+vitelli roberto	1
+vitale giovanni	1
+visco annamaria	1
+violi francesco	1
+violante pietro	1
+vingiani simona	1
+vincenzo cimini	1
+villoresi paolo	1
+villone massimo	1
+villa benedetto	1
+viglino micaela	1
+vidari giovanni	1
+vetrani antonio	1
+verdone roberto	1
+verdoliva luisa	1
+verde francesco	1
+venanzi mariano	1
+vegnente angela	1
+varvaro gaspare	1
+valgimigli luca	1
+valente claudio	1
+valensise paolo	1
+valcovich edino	1
+vadursi michele	1
+ursino giovanni	1
+urbini giordano	1
+ulrich stimming	1
+uggeri giovanni	1
+turri francesca	1
+tucci salvatore	1
+troiano onofrio	1
+trimarco angelo	1
+trevisi erminio	1
+trevisan andrea	1
+trentin rosanna	1
+traverso pietro	1
+trampus antonio	1
+tramontano enzo	1
+toscano attilio	1
+toscano antonio	1
+tortora gennaro	1
+tornadore noemi	1
+toniolo claudio	1
+tom misselbrook	1
+tina gianquitto	1
+tiecco marcello	1
+tesei beniamino	1
+terzolo massimo	1
+termini settimo	1
+teresa domenech	1
+tedeschi enrico	1
+tebaldi claudio	1
+tavella luciana	1
+tartarini paolo	1
+tarsitani carlo	1
+tarella corrado	1
+tarallo roberta	1
+tanini annalisa	1
+tambelli renata	1
+taddei maurizio	1
+tabaton massimo	1
+surico giuseppe	1
+surace giuseppe	1
+stuppia liborio	1
+storti fabrizio	1
+stipa pierluigi	1
+stame nicoletta	1
+squeglia flavia	1
+spaletta giulia	1
+spadea giuseppe	1
+soverini simona	1
+sorice maurizio	1
+sorella antonio	1
+soldati roberto	1
+soldati alfredo	1
+solaro giuseppe	1
+sodano pasquale	1
+sobrero alberto	1
+simeone antonio	1
+serraino andrea	1
+senatore adolfo	1
+seganti lucilla	1
+scotton michele	1
+scienza attilio	1
+scibilia nunzio	1
+sciascia andrea	1
+sciarra silvana	1
+schipani sandro	1
+schiavello aldo	1
+scarpati oriana	1
+scaglia antonio	1
+saviano massimo	1
+savaglio sandra	1
+sartoris silvia	1
+sartor giovanni	1
+saraceno chiara	1
+santini valeria	1
+santi pierluigi	1
+sante' pasquale	1
+santagata marco	1
+sangalli davide	1
+sancilio cosimo	1
+samperi filippo	1
+salvigni sandro	1
+salvatore perna	1
+salvatore elena	1
+salvadori piero	1
+salgaro silvino	1
+saccone antonio	1
+sacco michelina	1
+russo valentina	1
+russo francesco	1
+ruggieri marina	1
+ruchi choudhary	1
+rovetta stefano	1
+rotonda tatiana	1
+rotili marcello	1
+rossi piercarlo	1
+rossi francesca	1
+rossi arcangelo	1
+rosmini roberto	1
+rose giuseppina	1
+romito patrizia	1
+romeo francesco	1
+romanelli fabio	1
+roberto eleopra	1
+rizzuto nicolo'	1
+rizzelli giunio	1
+rinaldi ernesto	1
+ricciardi mario	1
+ricci fiammetta	1
+riccardi andrea	1
+regoli domenico	1
+rapagna' sergio	1
+randaccio paolo	1
+rametta gaetano	1
+ramasco roberto	1
+ragazzi stefano	1
+raffaelli carla	1
+raffaele napoli	1
+r.m. latanision	1
+quilici lorenzo	1
+quaranta manlio	1
+quaglioni diego	1
+quaglia fabiana	1
+proietti silvia	1
+primi antonella	1
+pozzo francesca	1
+potena agostino	1
+postorino paolo	1
+porto francesco	1
+porcelli marina	1
+porceddu enrico	1
+ponzone alberto	1
+pon cynthia lui	1
+poli alessandro	1
+poggesi corrado	1
+pizzigoni bruno	1
+piva alessandro	1
+pirovano donato	1
+pirone raffaele	1
+piperno alberto	1
+pinto innocenzo	1
+pinna francesco	1
+pinelli antonio	1
+pifferi michele	1
+pieroni osvaldo	1
+piccione emilio	1
+piccinini marco	1
+piccini daniele	1
+piazzi giuliano	1
+piazza maurizio	1
+piantelli mauro	1
+pezzuti eugenio	1
+pezzolo luciano	1
+peruzzi lorenzo	1
+pertici roberto	1
+perlini stefano	1
+perini giovanni	1
+peri alessandro	1
+perassi claudia	1
+peluso giuseppe	1
+pelusi giuseppe	1
+pellicano marco	1
+peccati lorenzo	1
+peano cristiana	1
+pazzagli adolfo	1
+pattono daniele	1
+patera vincenzo	1
+passaglia paolo	1
+pasquino nicola	1
+pascal richomme	1
+parronchi paola	1
+parolini silvia	1
+parisi domenico	1
+parenti rosalba	1
+parente mariano	1
+pappone gerardo	1
+paparo domenico	1
+paolucci marina	1
+paolo gasparini	1
+paola de candia	1
+pansini michele	1
+pannarale luigi	1
+panetta daniele	1
+panella carmela	1
+pandola luciano	1
+palumbo rosario	1
+palumbo roberto	1
+palomba daniela	1
+palermo massimo	1
+palchetti paolo	1
+palazzo gerardo	1
+padovani tullio	1
+pace alessandro	1
+orsina giovanni	1
+orlandi antonio	1
+oppo anna maria	1
+onofri marcello	1
+olivero giorgio	1
+nuccio patrizio	1
+nicolich marino	1
+nicoletti mauro	1
+nicolas juillet	1
+nicolas d'oreye	1
+nazzi francesco	1
+navazio lorella	1
+nativi cristina	1
+nano gian mario	1
+musacchio gemma	1
+movia giancarlo	1
+motta giancarlo	1
+morroni fabiana	1
+morisco carmine	1
+morini fiorenza	1
+morelli sabrina	1
+morana giuseppe	1
+montuori nunzia	1
+montaldo nicola	1
+montagna matteo	1
+mollica adriano	1
+mirone vincenzo	1
+minniti claudia	1
+mincione enrico	1
+milazzo alberto	1
+milazzo adriano	1
+milano leopoldo	1
+milani giuliano	1
+migheli quirico	1
+michele tinazzi	1
+michele cricrì	1
+michela procesi	1
+micari fabrizio	1
+micalizzi paolo	1
+messina antonia	1
+merola marcello	1
+merola leonardo	1
+merlini teodoro	1
+merlini stefano	1
+mercolini laura	1
+menniti daniele	1
+menegotto marco	1
+menditto enrica	1
+memoli vincenzo	1
+mecozzi antonio	1
+mazzucchi carlo	1
+mazzoli stefano	1
+mazzocca nicola	1
+mazzarino marco	1
+matthew winning	1
+matrone carmela	1
+massimo zeviani	1
+massafra angelo	1
+masina isabella	1
+masetti daniele	1
+marzari roberto	1
+marubini ettore	1
+martorano luigi	1
+martino gaetano	1
+martini luciano	1
+martini alberto	1
+martano manuela	1
+mario sabatelli	1
+marino domenico	1
+marina paolucci	1
+marin francesco	1
+mariano parente	1
+marcia newcomer	1
+marchetti piero	1
+marcati alberto	1
+marannino paolo	1
+marangon matteo	1
+manetti daniela	1
+mancuso claudio	1
+mancini adriano	1
+mancia giuseppe	1
+manao giampaolo	1
+mami' antonella	1
+malesci alberto	1
+malatesta paolo	1
+majello barbara	1
+mainini edoardo	1
+magnani lorenzo	1
+maghnie mohamad	1
+macchioni alceo	1
+luigi formisano	1
+lugli gianpiero	1
+luciano adriana	1
+luciani valeria	1
+luciani massimo	1
+lubello claudio	1
+lorenzi alfredo	1
+lombardi pietro	1
+lombardi grazia	1
+lipari vincenzo	1
+liotta giuseppe	1
+liotta domenico	1
+liguori barbara	1
+licata giuseppe	1
+libetta carmelo	1
+leonzio claudio	1
+lentini orlando	1
+lembo francesca	1
+lecchini sergio	1
+leccardi carmen	1
+lazzarin renato	1
+lavorgna marino	1
+lanzone antonio	1
+lanotte luciano	1
+langone antonio	1
+lane david avra	1
+lanconelli nico	1
+lanciotti eudes	1
+lami alessandro	1
+lamedica regina	1
+lamberti renato	1
+lamarra antonio	1
+lamanna claudio	1
+la franca fabio	1
+joseph mankelow	1
+john joseph orr	1
+jedlowski paolo	1
+javier aizpurua	1
+jalayer fatemeh	1
+jacques durieux	1
+jacek dziarmaga	1
+iunio iervolino	1
+isernia tommaso	1
+isabella moroni	1
+inverardi paola	1
+impedovo donato	1
+iannello giulio	1
+iafrate massimo	1
+iacopini enrico	1
+herman stuppner	1
+harini nagendra	1
+guzzetti fausto	1
+guttilla mariny	1
+guido iaccarino	1
+guerriero carla	1
+guerra fabrizio	1
+guazzo giovanni	1
+guarino carmine	1
+guarino alfredo	1
+guaraldo olivia	1
+gualtieri carlo	1
+grieco domenico	1
+gregory korshin	1
+gregorio enrico	1
+greco antonella	1
+graziosi andrea	1
+graziani andrea	1
+grasso domenico	1
+grassi vittorio	1
+graniti antonio	1
+graham williams	1
+gornati rosalba	1
+gonnelli renato	1
+gobo giampietro	1
+gobetti armando	1
+gnasso agostino	1
+giusti carlotta	1
+giuseppe ruello	1
+giuliani felice	1
+giulia viggiani	1
+giugni maurizio	1
+giuffre' orazio	1
+giua alessandro	1
+gisonni corrado	1
+giovane alfonso	1
+giorgio immirzi	1
+giordano fausto	1
+giglioli romano	1
+giardina andrea	1
+giannone ettore	1
+giannini renato	1
+gianluca frijia	1
+giacomo tripodi	1
+giaccari andrea	1
+gherardi silvia	1
+gesualdo loreto	1
+gerhard wörner	1
+gentile gennaro	1
+gennaro illiano	1
+gastaldi silvia	1
+garzelli andrea	1
+garroni adriana	1
+garrone edoardo	1
+garavello oscar	1
+ganau antonello	1
+gambino roberto	1
+gambino alberto	1
+gambari roberto	1
+gallo gabriella	1
+gallo francesca	1
+galli giancarlo	1
+galati antonino	1
+galantino luisa	1
+gajo alessandro	1
+gabriele flavio	1
+gabriel landini	1
+fulceri rosella	1
+frunzio giorgio	1
+frezza fabrizio	1
+fregona dolores	1
+fratino umberto	1
+franciosi luigi	1
+franchini carlo	1
+fontana gustavo	1
+fontana giorgio	1
+folco giancarlo	1
+florio pasquale	1
+fibbi gabriella	1
+fiacchini mauro	1
+ferri gian luca	1
+ferrero daniela	1
+ferrari ruggero	1
+ferrari roberto	1
+ferrari alberto	1
+ferrara rosario	1
+fergonzi flavio	1
+fazio ferruccio	1
+favata antonino	1
+fanzini daniele	1
+fantozzi pietro	1
+fantacci simona	1
+fanfani tommaso	1
+failla giuseppe	1
+failla antonino	1
+faglia giovanni	1
+faggiani sergio	1
+facecchia laura	1
+faccoli massimo	1
+fabrizio enrico	1
+fabio sciarrino	1
+fabbri leonardo	1
+erba elisabetta	1
+enrico pugliese	1
+eloise scotford	1
+dusonchet luigi	1
+duranti roberto	1
+duce alessandro	1
+dragoni michele	1
+dragoni giorgio	1
+dotta francesco	1
+dotoli giovanni	1
+donini annibale	1
+domenico grieco	1
+domenico cecere	1
+dolfini rinaldo	1
+diverio silvana	1
+dieli francesco	1
+di stasi angela	1
+di prisco marco	1
+di pillo gianni	1
+di nardo elvira	1
+di maio massimo	1
+di felice renzo	1
+di fabio clario	1
+di comite luigi	1
+di blasio paola	1
+dell'amico luca	1
+delfini roberto	1
+del vasto ennio	1
+del tacca mario	1
+del re giovanni	1
+del prete carlo	1
+del corso lucio	1
+deiana pietrino	1
+de vita roberto	1
+de vico gionata	1
+de simone ennio	1
+de santis elena	1
+de sanctis luca	1
+de rosa rosario	1
+de maio antonio	1
+de luca stefano	1
+de luca michele	1
+de falco sandro	1
+de bellis luigi	1
+dante francesco	1
+damiano alfonso	1
+damiani ernesto	1
+damiani daniela	1
+d'urso giuseppe	1
+d'avenia pietro	1
+d'argenio bruno	1
+d'aniello carlo	1
+d'angelo angela	1
+d'agostino luca	1
+d'addato sergio	1
+cuttone giacomo	1
+crovella sergio	1
+crovace antonio	1
+cristino luigia	1
+criscuolo lucia	1
+cresti emanuela	1
+cottone antonio	1
+cossu raffaello	1
+corradi antonio	1
+coppola tommaso	1
+coppola antonio	1
+conte maria pia	1
+comolli roberto	1
+comazzi stefano	1
+colombo giorgio	1
+collareta marco	1
+colasanti marco	1
+claudio pignata	1
+ciscato doriano	1
+ciorra giuseppe	1
+cioffi federica	1
+cigoli vittorio	1
+cicuta giovanni	1
+ciceri marcella	1
+ciarcia gaetano	1
+ciancio adriana	1
+ciambelli paolo	1
+chimenti isotta	1
+chianese angelo	1
+cherubini paolo	1
+checchi daniele	1
+cesare bernardo	1
+cervani roberta	1
+certini giacomo	1
+cerreti claudio	1
+ceraolo massimo	1
+centore roberto	1
+cencini massimo	1
+cellamare carlo	1
+ceda gian paolo	1
+ceccoli claudio	1
+cavella silvana	1
+cavazzini laura	1
+cavani fabrizio	1
+cavallari luigi	1
+cavagnaro marta	1
+catuogno simona	1
+catone giuseppe	1
+catino maurizio	1
+casoni maurizio	1
+casiello stella	1
+cascone ernesto	1
+cascinu stefano	1
+casalboni mauro	1
+caruso calogero	1
+carrino antonio	1
+carratu' romano	1
+carpiceci marco	1
+carpene' emilio	1
+carnevale paolo	1
+carnevale diego	1
+caretti daniele	1
+cardone massimo	1
+cardone gennaro	1
+cardarelli gino	1
+carbone rosario	1
+carapezza marco	1
+caputo romualdo	1
+caputo giuseppe	1
+cappello simone	1
+cappelli chiara	1
+capitelli mario	1
+canepa aristide	1
+camurri antonio	1
+campioli andrea	1
+campello silvia	1
+camino giovanni	1
+cambiaghi mario	1
+camagni roberto	1
+callegher bruno	1
+caleca virgilio	1
+calderan andrea	1
+calabrese mario	1
+cagnacci angelo	1
+bussani rossana	1
+businelli mario	1
+burderi luciano	1
+buonanno emilia	1
+bullitta pietro	1
+brunetti enrico	1
+brucato alberto	1
+britti domenico	1
+brigati stefano	1
+briani giustina	1
+breccia alfredo	1
+bossa francesco	1
+bosco nicoletta	1
+borruso giacomo	1
+borgogno franco	1
+bonora giovanna	1
+bonoli fabrizio	1
+bonardi claudia	1
+bombaci ignazio	1
+bologna roberto	1
+boccaccio carla	1
+biondi giuseppe	1
+bigazzi massimo	1
+biasutti franco	1
+bianco vincenzo	1
+bianchi ornella	1
+bertolini paolo	1
+bertolacci amos	1
+bertani roberta	1
+bertagnin mauro	1
+berruto gaetano	1
+berizzi alberto	1
+beretta edoardo	1
+benvenuti marco	1
+beninati simone	1
+benedetti fabio	1
+bencini alberto	1
+belvedere oscar	1
+bellomo saverio	1
+bellelli andrea	1
+beccari alberto	1
+battiti roberto	1
+battisti andrea	1
+bartolini carlo	1
+bartalena luigi	1
+barra francesco	1
+barila' daniela	1
+barcaro umberto	1
+barboni barbara	1
+barbera roberto	1
+barbato ersilia	1
+barbara majello	1
+balletti emilio	1
+baldi benedetta	1
+baldelli franco	1
+balconi giorgio	1
+badalucco luigi	1
+badala' antonio	1
+baccoli roberto	1
+azzara' antonio	1
+aversa vincenzo	1
+asolati michele	1
+ashley f. emery	1
+artifoni enrico	1
+artibani walter	1
+arthur m. jaffe	1
+arnaldi giorgio	1
+antonio carella	1
+antonelli gilda	1
+antonelli dario	1
+antoine burnier	1
+angelini andrea	1
+angela connelly	1
+andria gregorio	1
+andrew karvonen	1
+andreis massimo	1
+amoruso onofrio	1
+amorena michele	1
+ambrosino fabio	1
+amati francesca	1
+alonzo giuseppe	1
+aloisio alberto	1
+allen d. cooper	1
+alimonti andrea	1
+alhaique franco	1
+alfredo macías	1
+alaimo giuseppe	1
+ajello raffaele	1
+agostoni emilio	1
+agnoletti mauro	1
+agnelli arduino	1
+addeo francesco	1
+aceto francesco	1
+accornero paolo	1
+abbondanza ciro	1
+abatangelo vito	1
+zuccato chiara	1
+zito gianluigi	1
+zerbini sergio	1
+zappala' lucia	1
+zanero stefano	1
+zalin giovanni	1
+william s. sly	1
+volpe annibale	1
+volker perlick	1
+vittorio russo	1
+vitale stefano	1
+vitale gaetano	1
+vincenzo nigro	1
+vignoli andrea	1
+viggiano luigi	1
+vicino antonio	1
+vicere' andrea	1
+vicario grazia	1
+vetrano flavio	1
+versari andrea	1
+verga marcello	1
+verde vincenza	1
+verde pasquale	1
+venditti paola	1
+venditti lucia	1
+venditti carlo	1
+varotto serena	1
+valoti ermanno	1
+valente renata	1
+valanzano rosa	1
+vacca rosaanna	1
+ugolini pietro	1
+tunde akinyeke	1
+tufano rosalba	1
+tucci pasquale	1
+tubaro stefano	1
+trigilia carlo	1
+tretiach mauro	1
+traldi giorgio	1
+tognoni franco	1
+todaro matilde	1
+tocci giuliano	1
+tobin j. marks	1
+tiengo antonio	1
+testa giuseppe	1
+testa flaviano	1
+tenconi romano	1
+tartaro sergio	1
+tamanini italo	1
+taliani gloria	1
+suzana grubnic	1
+sturlese loris	1
+stefoni sergio	1
+stancati paolo	1
+staiano sandro	1
+spoto giuseppe	1
+spiriti andrea	1
+spinedi marina	1
+spigno giorgia	1
+sorace stefano	1
+sonnino sandro	1
+sommella paolo	1
+solidoro laura	1
+soledad osores	1
+soldani giulio	1
+sodano antonio	1
+sluga giuliana	1
+sistri augusto	1
+sirigu augusto	1
+simeone marino	1
+silvagna lucia	1
+sibilio sergio	1
+sgubbi filippo	1
+sergio de rosa	1
+selvi federico	1
+sedmak giorgio	1
+secondo agnese	1
+scotta roberto	1
+sclocco tonino	1
+sciuto gaetano	1
+sciarra nicola	1
+schippa serena	1
+schiavone aldo	1
+scavia claudio	1
+scarfato paola	1
+scaloni andrea	1
+sbrana roberto	1
+sbaizero orfeo	1
+sasso maurizio	1
+sassetti maura	1
+sarno domenico	1
+sarli giuseppe	1
+sargeni fausto	1
+sarah di somma	1
+santochi marco	1
+santi leonardo	1
+sannolo nicola	1
+sandri giorgio	1
+salvati armida	1
+salluzzo marco	1
+salerno giulio	1
+sala benedetto	1
+sacchi luciano	1
+sabbioni paolo	1
+sabatino dante	1
+russo giovanni	1
+ruggieri guido	1
+rubino tiziana	1
+rovero giorgio	1
+rossi riccardo	1
+rossi gianluca	1
+rossi filomena	1
+rossi federico	1
+rossetti carlo	1
+rondelli valda	1
+roncaglia gino	1
+romano barbara	1
+romano antonio	1
+rocco vittorio	1
+roberto bianco	1
+richard g gray	1
+ricco' theonis	1
+renna maurizio	1
+renata piccoli	1
+recchia sandro	1
+ravelli davide	1
+rastrelli luca	1
+rasero roberto	1
+ranzo patrizia	1
+ramoni roberto	1
+raiteri monica	1
+rainieri carlo	1
+raimondi laura	1
+ragone gerardo	1
+pucci patrizia	1
+proietti primo	1
+preziosi luigi	1
+preti federico	1
+prati edzeario	1
+prandoni paolo	1
+pozza carlotta	1
+porta raffaele	1
+porru giovanni	1
+porro pasquale	1
+poretti sergio	1
+porcheddu alba	1
+polonara fabio	1
+pollo riccardo	1
+polidori carlo	1
+poggio barbara	1
+poggi isabella	1
+poccetti paolo	1
+placella paola	1
+piuri vincenzo	1
+pittino daniel	1
+pitacco andrea	1
+pistelli luisa	1
+pispisa enrico	1
+pisano gustavo	1
+pisani antonio	1
+pirro fabrizio	1
+pirozzi enrica	1
+piro salvatore	1
+piro francesco	1
+piraino andrea	1
+piombino paola	1
+pinton roberto	1
+pincelli carlo	1
+pignato sarina	1
+pierucci sauro	1
+pierotti piero	1
+piccioni marco	1
+piazzi aurelio	1
+pezzotti mario	1
+petretta mario	1
+perugini diego	1
+perris roberto	1
+perini claudia	1
+peri francesco	1
+pegoraro luigi	1
+pegoraro lucio	1
+pedrazzi marco	1
+pedone alfonso	1
+pavese alberto	1
+pasqua corrado	1
+pascucci paolo	1
+pascal peduzzi	1
+paroni roberto	1
+pariotti elena	1
+parigi giacomo	1
+parenti astrid	1
+paradiso maria	1
+papia maurizio	1
+paolo girlanda	1
+panzella lucia	1
+pantuso gianni	1
+panichi nicola	1
+palumbo biagio	1
+palmieri marta	1
+pagnozzi marco	1
+pagano michele	1
+pagano antonio	1
+paduano sergio	1
+paba giancarlo	1
+orzi francesco	1
+orru' stefania	1
+ornella iuorio	1
+olivieri dario	1
+novelli enrico	1
+noonan douglas	1
+nocera carmela	1
+nizza antonino	1
+niola vincenzo	1
+nicolosi daria	1
+nicholas finer	1
+neri giancarlo	1
+naso francesco	1
+nardini andrea	1
+nappi severino	1
+napoli roberto	1
+napoli claudio	1
+nanut vladimir	1
+muzzio adriano	1
+muzzalupo rita	1
+muzi francesco	1
+mustilli mario	1
+musso antonino	1
+murray goodman	1
+murano aniello	1
+mundo domenico	1
+mucignat carla	1
+motisi antonio	1
+morton m. denn	1
+moro beniamino	1
+morisi massimo	1
+moretti sandro	1
+morari michele	1
+morano susanna	1
+morandi uliano	1
+moramarco vito	1
+montorzi mario	1
+montani matteo	1
+monda pasquale	1
+molly herinckx	1
+moleas teodoro	1
+mohamed osmani	1
+moghetti paolo	1
+modesti andrea	1
+modenesi paolo	1
+moccia antonio	1
+mitidieri emma	1
+misasi roberta	1
+minuti rolando	1
+mineo antonino	1
+milanese mario	1
+menta cristina	1
+menotti pietro	1
+menini claudia	1
+mele francesco	1
+mazzi giuliana	1
+mazzei roberto	1
+mauro letterio	1
+maturo antonio	1
+mattivi fulvio	1
+mattioli mauro	1
+mataloni paolo	1
+massacci fabio	1
+masotti giulio	1
+masera massimo	1
+masecchia anna	1
+marucci alvaro	1
+martini andrea	1
+martegani enzo	1
+marre' daniele	1
+marmolino ciro	1
+marina grandis	1
+maria iannario	1
+maresca arturo	1
+marenco franco	1
+marcucci marta	1
+marchese maria	1
+manzi stefania	1
+manna marcello	1
+manna caterina	1
+manfra michele	1
+manes vittorio	1
+maltese enrico	1
+malerba franco	1
+maiolino paola	1
+magelli franco	1
+maccario mauro	1
+luraghi silvia	1
+luigi racioppi	1
+lubello sergio	1
+loriga carmela	1
+lorenzini sara	1
+longo giuseppe	1
+loddo vittorio	1
+lo bello lucia	1
+liz emma varga	1
+livrea roberto	1
+liso francesco	1
+lirer stefania	1
+lionetti paolo	1
+lima annamaria	1
+lik-kwan shark	1
+lepore daniela	1
+leoni graziano	1
+leone giuseppe	1
+leone giovanni	1
+lentini andrea	1
+lauritano aldo	1
+laskaris paola	1
+lanzo giuseppe	1
+lanza giovanni	1
+lanni cristina	1
+lange' santino	1
+lando marcello	1
+lanari daniela	1
+laino giovanni	1
+lai alessandro	1
+laccetti paolo	1
+labanca nicola	1
+la notte ennio	1
+kirill fedorov	1
+kenneth siddle	1
+katrien remaut	1
+jérôme feige	1
+joseph sciorra	1
+joseph b. lang	1
+jon danielsson	1
+james caporaso	1
+italiani paola	1
+isidoro nunzio	1
+ippolito lucio	1
+iovino massimo	1
+iovane massimo	1
+ilenia arienzo	1
+iacobazzi vito	1
+iacconi pietro	1
+hisham mehanna	1
+gullo antonino	1
+gulino alberto	1
+guidoni enrico	1
+guida maurizio	1
+grossoni paolo	1
+grohovaz fabio	1
+grignani carlo	1
+greco pantaleo	1
+greco giovanna	1
+greco fabrizio	1
+greco adelaide	1
+grando alberto	1
+grandi augusto	1
+gottardi guido	1
+gorbi stefania	1
+godano cataldo	1
+giuseppe scala	1
+giura raffaele	1
+giuntini carlo	1
+giunta claudio	1
+giulio zuccaro	1
+giuliano mario	1
+giuliani marco	1
+girardi marisa	1
+giovanni romeo	1
+giovanni nigro	1
+giovanni miano	1
+giordano mario	1
+giordano laura	1
+gigli stefania	1
+gigli giuseppe	1
+giardini luigi	1
+giardina paola	1
+giardina bruno	1
+giannini maria	1
+giacco rosalba	1
+giaccio biagio	1
+gheri giovanni	1
+gessi stefania	1
+gerotto sergio	1
+genon giuseppe	1
+gebbia nicolo'	1
+gavioli andrea	1
+gavasci renato	1
+gary e. harman	1
+gardonio paolo	1
+gardini fausto	1
+galvanetto ugo	1
+gallina sabina	1
+galdi vincenzo	1
+gaetano luglio	1
+gadioli ettore	1
+gabrieli fabio	1
+gabriele mario	1
+furesi roberto	1
+fruggeri laura	1
+frisa angelica	1
+frigeri franco	1
+fresta massimo	1
+freccero mauro	1
+frasconi paolo	1
+frasca michele	1
+franzini marco	1
+francini mauro	1
+fossa giovanna	1
+fontana angelo	1
+focardi matteo	1
+fiorillo vanda	1
+filosa silvana	1
+filice luigino	1
+fico gelsomina	1
+ferruzzi guido	1
+ferri giovanni	1
+ferretti marco	1
+ferrero sergio	1
+ferraro pietro	1
+ferrante marco	1
+fernando raffo	1
+ferlin alberto	1
+ferlazzo guido	1
+favaro silvana	1
+fatta giovanni	1
+fatone gerardo	1
+fasano ernesto	1
+farroni flavio	1
+fantozzi paolo	1
+fahad aljamali	1
+facchini carla	1
+fabrizio ricci	1
+fabris claudio	1
+faber wolfgang	1
+eugeni ruggero	1
+esposito paolo	1
+esposito luigi	1
+esposito carla	1
+eramo vincenzo	1
+emiliani carla	1
+elio lo cascio	1
+duranti emilia	1
+durante sergio	1
+donsi' giorgio	1
+donati filippo	1
+donadel giulia	1
+dolcetti paola	1
+dolara alberto	1
+dmitry filatov	1
+diana patrizia	1
+di marco paolo	1
+di luigi luigi	1
+di luccia aldo	1
+di leo adriana	1
+di lauro carlo	1
+di giulio mara	1
+di gioia sante	1
+di biagi paola	1
+dentice monica	1
+denis porignon	1
+delpini danilo	1
+del col davide	1
+deho' giovanni	1
+dediu valentin	1
+debra bernardi	1
+de zorzi guido	1
+de sivo benito	1
+de paola maria	1
+de falco maria	1
+davi' fabrizio	1
+dassori enrico	1
+darek ceglarek	1
+danni oliviero	1
+daniotti bruno	1
+danielis romeo	1
+dancelli livia	1
+da pozzo carlo	1
+da deppo luigi	1
+d'orazio marco	1
+d'apuzzo mauro	1
+d'apuzzo livia	1
+d'andrea luigi	1
+cutolo gustavo	1
+curini massimo	1
+cunico gerardo	1
+cucchiara rita	1
+cruccu giorgio	1
+crosa giuseppe	1
+crippa valeria	1
+cozzolino luca	1
+costa giovanni	1
+corbo pasquale	1
+contin alfredo	1
+coluccia mauro	1
+colonnello pio	1
+colonna bianca	1
+colombo chiara	1
+collavin licio	1
+colla giuseppe	1
+coiro domenico	1
+cocco giovanni	1
+clivio alberto	1
+clemente guido	1
+civita massimo	1
+cirillo sossio	1
+cirillo matteo	1
+cirillo ettore	1
+ciriaco emilia	1
+cioffi antonio	1
+cinquini mauro	1
+cinieri enrico	1
+cimatti andrea	1
+cillo clemente	1
+cigada alfredo	1
+cianci antonio	1
+chiara zurzolo	1
+chiappe cinzia	1
+chessa luciana	1
+charles connor	1
+cerri riccardo	1
+cerri giovanni	1
+cerri emanuela	1
+cerri domenico	1
+cerletti paolo	1
+cerioli andrea	1
+ceriani andrea	1
+centonze diego	1
+centi gabriele	1
+cennamo felice	1
+cellucci carlo	1
+cella giuseppe	1
+celata filippo	1
+cecchi rodolfo	1
+cavalli andrea	1
+cattari serena	1
+castaldo paolo	1
+cassese sabino	1
+caserta sergio	1
+cascetta ennio	1
+casali luciano	1
+caruso arnaldo	1
+carton alberto	1
+carta annarosa	1
+carrera erasmo	1
+carosi rodolfo	1
+carnuccio rosa	1
+caracciolo ida	1
+capsoni franco	1
+caprilli renzo	1
+cappa fabrizio	1
+capitani renzo	1
+cantarella eva	1
+canone eugenio	1
+cannas barbara	1
+camurri renato	1
+caminati mauro	1
+camanni franco	1
+califano luigi	1
+caldon roberto	1
+calamari luigi	1
+caiani manuela	1
+cacciari mauro	1
+buratti nicola	1
+brusco alfredo	1
+bronzo valerio	1
+bressan franco	1
+bresciano elio	1
+braschi ilaria	1
+brandi alberto	1
+bouche' marina	1
+boschi valerio	1
+bosari silvano	1
+borin maurizio	1
+borgiani paola	1
+borghi massimo	1
+bononi luciano	1
+bonomini mario	1
+bonati antonio	1
+bonardi silvia	1
+boggio luciano	1
+boffetta guido	1
+boccotti paolo	1
+boccia antonio	1
+boccardo lucio	1
+boari cristina	1
+bismuto ettore	1
+biondo carmelo	1
+biondini fabio	1
+biondi daniela	1
+bignardi luigi	1
+biglioli paolo	1
+besoli stefano	1
+bertotti bruno	1
+bertogna marko	1
+bertelli bruno	1
+bert l. vallee	1
+berchio elvise	1
+berbenni paolo	1
+berardi luigia	1
+benvenuti anna	1
+benech arnaldo	1
+benassai guido	1
+bellino enrico	1
+bellini amedeo	1
+belli giuseppe	1
+bellen alfredo	1
+beguinot laura	1
+beduschi carlo	1
+bearzi claudia	1
+bassoli angela	1
+basso cristina	1
+bassan massimo	1
+barucci emilio	1
+bartoli gianni	1
+barone lorenzo	1
+barbieri mario	1
+barberis dario	1
+barberi franco	1
+barbera marzia	1
+barbanti maria	1
+balucani nadia	1
+balestra luigi	1
+balbi giovanna	1
+bagnai alberto	1
+baglivi nicola	1
+baglioni piero	1
+avogaro angelo	1
+aversa antonio	1
+avellini paolo	1
+avellini guido	1
+avallone luigi	1
+aurélia chenu	1
+asaro fioretta	1
+arnesano marco	1
+arena giuseppe	1
+ansani michele	1
+annarita nappi	1
+anna di porzio	1
+amorosi angelo	1
+ambrosi angelo	1
+amato vittorio	1
+alloni rossana	1
+allocca nunzio	1
+alfano daniela	1
+alesse edoardo	1
+alema' stefano	1
+alcaro stefano	1
+aiuti fernando	1
+aimoni claudia	1
+aiduan borrion	1
+agrimi gennaro	1
+agozzino lucio	1
+agnesi valerio	1
+adriana zagari	1
+accomando rita	1
+accarino bruno	1
+abete pasquale	1
+zunino pietro	1
+zimeo eugenio	1
+zasso alberto	1
+zanon nicolo'	1
+zannetti luca	1
+zamboni paolo	1
+zagari franco	1
+xeniya kofler	1
+volpi claudia	1
+vitolo sandra	1
+vitale emilio	1
+vismara elena	1
+vinit mukhija	1
+villani luigi	1
+vigo giovanni	1
+vigneri paolo	1
+vigna carmelo	1
+vera domenico	1
+vegetti mario	1
+vano cristina	1
+vannini vanio	1
+vannini lucia	1
+valloni renzo	1
+valenti piera	1
+turco eugenio	1
+tunis giorgio	1
+tullini nerio	1
+trudu antonio	1
+tramelli anna	1
+tosoni simone	1
+tommaso russo	1
+tissi luciana	1
+tete' stefano	1
+testa alfredo	1
+tei francesco	1
+tassoni carla	1
+tani giovanni	1
+tanfani fabio	1
+tamma michele	1
+tallini marco	1
+tadei roberto	1
+stella renato	1
+stella angelo	1
+staiano norma	1
+spada giorgio	1
+soria claudia	1
+solcia enrico	1
+sodano giulio	1
+sissi claudia	1
+sinopoli anna	1
+simona keller	1
+simona frasca	1
+silvia priori	1
+signore mario	1
+sicolo nicola	1
+sica filomena	1
+sestito laura	1
+sepe vincenzo	1
+senin umberto	1
+semi giovanni	1
+scotti nicola	1
+scorrano luca	1
+scherini elda	1
+scarpa marina	1
+scaroni carla	1
+scala aniello	1
+sasso antonio	1
+saracco guido	1
+sara la manna	1
+santoro lucio	1
+santini carlo	1
+sanna tommaso	1
+sanna manuela	1
+salucci paolo	1
+saetta marina	1
+sadile adolfo	1
+sadaf farooqi	1
+sacco rosario	1
+russo roberto	1
+russo michele	1
+russo giorgio	1
+russo gaetano	1
+russo barbara	1
+russo antonio	1
+russo aniello	1
+rusnati marco	1
+ruggeri lucia	1
+rubano andrea	1
+roy m. mersky	1
+roselli carlo	1
+rosati sergio	1
+ronchin lucio	1
+roncali luisa	1
+romano' laura	1
+rodolico vito	1
+rocco liguori	1
+robotti nadia	1
+roberto mango	1
+roberta russo	1
+rizzi alfredo	1
+riggio andrea	1
+riccio daniel	1
+ricci alfredo	1
+resta giorgio	1
+rando daniela	1
+ramon luciano	1
+raimo gennaro	1
+raguso grazia	1
+pucci claudio	1
+provero paolo	1
+provero luigi	1
+prodam flavia	1
+prinster anna	1
+pricl sabrina	1
+potetti maria	1
+porcu mariano	1
+pompa giorgio	1
+pollice paolo	1
+pollice fabio	1
+poggi giacomo	1
+plevani paolo	1
+pizzo michele	1
+pizzi claudio	1
+piro patrizia	1
+piredda lucia	1
+pire' luciana	1
+pirali tracey	1
+piozzi franco	1
+pigozzi fabio	1
+pigna massimo	1
+pierre walker	1
+picone giusto	1
+pibiri monica	1
+piana michele	1
+pezzino paolo	1
+pezza valeria	1
+petroni katia	1
+petri alberto	1
+peter kawalek	1
+petarca luigi	1
+perulli paolo	1
+pensa claudio	1
+penna daniele	1
+pelloni piero	1
+patrone mauro	1
+patella marco	1
+pasquale vito	1
+parrini paolo	1
+parisi silvia	1
+parisi fulvio	1
+pariota luigi	1
+papiri sergio	1
+paolino laura	1
+pantaleo tito	1
+palma gaetano	1
+palma antonio	1
+palermo rocco	1
+pagiotti rita	1
+orsini fulvia	1
+orsi giovanni	1
+oriani renato	1
+onida barbara	1
+noviello ciro	1
+noto giuseppe	1
+nicolas bonod	1
+niccolai neri	1
+nespoli luigi	1
+nappi michele	1
+napoli nicola	1
+nanni antonio	1
+naclerio gino	1
+musella marco	1
+munari andrea	1
+muccilli vera	1
+motta filippo	1
+mossa michele	1
+mosconi bruno	1
+mosca roberto	1
+moretti mauro	1
+morelli elena	1
+mordenti raul	1
+monzani fabio	1
+mondin marina	1
+mollo ernesto	1
+mollo antonio	1
+moleti arturo	1
+mingozzi enzo	1
+minca claudio	1
+minazzi fabio	1
+minarini anna	1
+milano andrea	1
+mignosa paolo	1
+miccoli paolo	1
+merola biagio	1
+meriggi marco	1
+mercati livia	1
+meloni franca	1
+meghini carlo	1
+medici nicola	1
+mazzone marco	1
+maura striano	1
+matteo lorito	1
+marzano marco	1
+marrone paola	1
+maron gaetano	1
+mario parente	1
+mario capasso	1
+marino pompeo	1
+marino franca	1
+marino davide	1
+marino angela	1
+marini andrea	1
+marinari sara	1
+mariano fabio	1
+maria pampaka	1
+marcozzi luca	1
+marco meriggi	1
+marco marengo	1
+marchese rosa	1
+manzoni marta	1
+manti lorenzo	1
+mammi stefano	1
+mammano fabio	1
+maltese paolo	1
+magnani mauro	1
+maggio albino	1
+maga giovanni	1
+maffei cesare	1
+maceri franco	1
+macchia luigi	1
+lunardi santo	1
+luganini anna	1
+luciano elisa	1
+lucia civetta	1
+luchini paolo	1
+lovato andrea	1
+loretoni anna	1
+lisa bjorkman	1
+leone alfonso	1
+lener giorgio	1
+laura ruberto	1
+larizza lidia	1
+lanza michele	1
+landi loretta	1
+laino alberto	1
+kurelac ivana	1
+k.a. cunefare	1
+julien pasche	1
+joseph ravetz	1
+joseph pawlik	1
+jonathan arac	1
+jay l. zweier	1
+jae jae spoon	1
+isernia carla	1
+iovino renato	1
+iossa susanna	1
+iorizzi maria	1
+imbimbo maura	1
+hyerace luigi	1
+h.a. scheraga	1
+guarini elena	1
+grosso enrico	1
+grilli sandro	1
+greco michele	1
+greco massimo	1
+grandi nicola	1
+graffi sandro	1
+gotti stefano	1
+giuriani ezio	1
+giovati laura	1
+giorgi franco	1
+giatti silvia	1
+giardini anna	1
+gatti corrado	1
+garetti marco	1
+garbi corrado	1
+gambino luigi	1
+galluzzo aldo	1
+galgani mario	1
+galeota dante	1
+gaeta lorenzo	1
+fredrik karpe	1
+fratta walter	1
+fratini livan	1
+frati giacomo	1
+fratesi romeo	1
+frasca mattia	1
+foce federico	1
+flores enrico	1
+flamini guido	1
+fiori roberto	1
+fiore roberto	1
+filippo causa	1
+figura natale	1
+ferrucci luca	1
+ferro alfredo	1
+ferretti luca	1
+fenelli maria	1
+fellini ivana	1
+fellin renato	1
+fedrigo mario	1
+fava patrizia	1
+farina angelo	1
+farella mauro	1
+fanali chiara	1
+famoso nunzio	1
+fabbro sandro	1
+fabbri pompeo	1
+fabbri andrea	1
+esposito ciro	1
+erto pasquale	1
+ercole enrico	1
+emilie rathey	1
+elisei fausto	1
+elia leonardo	1
+elia annibale	1
+duilio angela	1
+drago lorenzo	1
+dordi claudio	1
+donno antonio	1
+dongili paola	1
+donato franco	1
+distasi carla	1
+dini gianluca	1
+diamanti ilvo	1
+di vona piero	1
+di meo sergio	1
+di luca paolo	1
+di carlo emma	1
+di carlo aldo	1
+dequal sergio	1
+decaro nicola	1
+de zorzi rita	1
+de marco anna	1
+de marco aldo	1
+de luca paolo	1
+de luca luigi	1
+de gioia luca	1
+dazzi carmelo	1
+davini cesare	1
+davide mattia	1
+dario tedesco	1
+danieli guido	1
+daniele luigi	1
+danesi romano	1
+da re antonio	1
+d'anna andrea	1
+d'amore luisa	1
+d'amico mario	1
+curci antonio	1
+cuda giovanni	1
+crotti renata	1
+crotti adelmo	1
+crincoli vito	1
+cottone mario	1
+cortese katia	1
+corsetti aldo	1
+corrias bruno	1
+corrao pietro	1
+corinna rossi	1
+corda daniela	1
+coppola adele	1
+conti nicolo'	1
+conte gennaro	1
+comini gianni	1
+comba rinaldo	1
+colucci mario	1
+colombo paolo	1
+colombo carla	1
+colli susanna	1
+clara gallini	1
+cipriani anna	1
+ciciani bruno	1
+ciampi marina	1
+chiummo carla	1
+chieffi paolo	1
+cherchi paolo	1
+cesini gianni	1
+cescon franco	1
+cendron laura	1
+cembalo luigi	1
+celico fulvio	1
+cecilia bucci	1
+causa filippo	1
+casoli carmen	1
+cascone piero	1
+casale davide	1
+casa raffaele	1
+carru ciriaco	1
+cardone lucia	1
+cardona ennio	1
+cardo antonio	1
+cardano mario	1
+carbone paolo	1
+capuano paolo	1
+capello elisa	1
+capelli gioia	1
+cantoni carlo	1
+canella guido	1
+candoni bruno	1
+candela elena	1
+camus roberto	1
+calvani paolo	1
+calucci lucia	1
+callari carlo	1
+calamia mario	1
+caggia cinzia	1
+caccia silvia	1
+cacchi sandro	1
+buttino marco	1
+butera ilaria	1
+busacca mauro	1
+burroni luigi	1
+buffa roberto	1
+bubacco luigi	1
+brunori luisa	1
+bruna gigante	1
+broglio fabio	1
+bressan mario	1
+bracco angela	1
+bove giuseppe	1
+boscaro marco	1
+borzaga carlo	1
+bonini sergio	1
+bonetti ennio	1
+bonari enrico	1
+boitani carla	1
+boffo stefano	1
+boccia teresa	1
+bisogni fabio	1
+biggeri luigi	1
+bidini gianni	1
+bianco nicola	1
+bianco andrea	1
+bianchi mauro	1
+bianchi elisa	1
+bettini paolo	1
+bettina klaus	1
+bertola paolo	1
+bergese paolo	1
+bence györgy	1
+beltram fabio	1
+belloni luigi	1
+belli attilio	1
+bazan viviana	1
+barile sergio	1
+banelli paolo	1
+bandi claudio	1
+baldi alfonso	1
+baldaro bruno	1
+austin hammer	1
+aureli enrica	1
+atzeni andrea	1
+ascheri mario	1
+ascenzi paolo	1
+arturi franco	1
+artina sandro	1
+arru angelina	1
+arrigo moglia	1
+antonio rispo	1
+anti marcello	1
+annesi grazia	1
+anile carmelo	1
+andrew vivian	1
+andrea d'anna	1
+ando' valeria	1
+amato massimo	1
+amantea diana	1
+alvino angelo	1
+alviggi carlo	1
+altucci paolo	1
+altucci lucia	1
+aloj bernardo	1
+allievi luigi	1
+allegra luigi	1
+alex j. dragt	1
+agodi attilio	1
+adriani oscar	1
+zullo silvia	1
+zullini aldo	1
+zorzi andrea	1
+zoltan ovary	1
+zollo franco	1
+ziche marina	1
+zhenzhu xiao	1
+zerbe stefan	1
+zappia mario	1
+yunzhi zhang	1
+vona roberto	1
+vita lorenzo	1
+viotti paolo	1
+vigano' luca	1
+vicino mario	1
+via giovanni	1
+valigi mario	1
+valeria raia	1
+vacca sergio	1
+vacca andrea	1
+urbano carlo	1
+unich andrea	1
+ugel stefano	1
+turano paola	1
+truppi carlo	1
+tosi luciano	1
+toma ernesto	1
+toderi marco	1
+tesi alberto	1
+terreno enzo	1
+tellini gino	1
+teggi sergio	1
+tarone guido	1
+tallini luca	1
+talamo clara	1
+susan ozanne	1
+steardo luca	1
+sorbi sandro	1
+solito laura	1
+solano luigi	1
+sola luciana	1
+sivero luigi	1
+siri antonio	1
+silva angela	1
+sica antonio	1
+selva jacopo	1
+sechi marina	1
+scira menoni	1
+schoen fabio	1
+schiavo aldo	1
+savio enrico	1
+savino rocco	1
+savini luisa	1
+santini ezio	1
+sanesi guido	1
+sanavio ezio	1
+samori carlo	1
+salsa sandro	1
+sacconi anna	1
+sabato luisa	1
+ruvo menotti	1
+russo giulia	1
+russo emilio	1
+russo elvira	1
+rudolf gross	1
+roveri marco	1
+roth giorgio	1
+rossi silvia	1
+rossi pietro	1
+rossi davide	1
+rosada guido	1
+romeo sergio	1
+romeo giulio	1
+romano paola	1
+romano adele	1
+rolle enrico	1
+roberto tosi	1
+rizzo nicola	1
+ritti tullia	1
+richard peto	1
+ricca davide	1
+renda andrea	1
+reggiani ugo	1
+refice mario	1
+rama daniele	1
+rainer sachs	1
+putti marina	1
+pupi alberto	1
+pugno nicola	1
+pucci enrico	1
+prota andrea	1
+presta marco	1
+porro danilo	1
+polo michele	1
+polini wilma	1
+poli roberto	1
+poiana marco	1
+pizzi marina	1
+pistis marco	1
+pinton paolo	1
+pini daniele	1
+piga antonio	1
+pierri rocco	1
+picardi ciro	1
+pianca paolo	1
+pezze' mauro	1
+peter thomas	1
+peter bishop	1
+persani luca	1
+perini laura	1
+pelaia paolo	1
+peduto paolo	1
+peano clelia	1
+paris matteo	1
+papi alberto	1
+papa alfredo	1
+pani roberto	1
+palidda rita	1
+pagani lelio	1
+pagani laura	1
+paci massimo	1
+paci gisella	1
+orselli alba	1
+oleari luigi	1
+nota giorgio	1
+nitsch carlo	1
+nicola fusco	1
+nesci olivia	1
+natali mirco	1
+natali david	1
+natale luigi	1
+nardi enrico	1
+nante nicola	1
+mussio piero	1
+murray grant	1
+murena fabio	1
+mura umberto	1
+mugnai laura	1
+moro stefano	1
+moro giorgio	1
+mori giorgio	1
+moretti eros	1
+moretti aldo	1
+moreno paolo	1
+moreno maria	1
+monaco lucia	1
+molino bruno	1
+minuto luigi	1
+migani paolo	1
+mietto paolo	1
+micelli ezio	1
+menoni scira	1
+menchini ugo	1
+meloni luigi	1
+mele alfonso	1
+meda alberto	1
+masina piero	1
+martin brand	1
+mark blamire	1
+mario romano	1
+marino nadia	1
+marino mario	1
+marino maria	1
+marino luigi	1
+marini mario	1
+marin oriano	1
+maria muglia	1
+marco pagano	1
+marchi mario	1
+maran flavio	1
+manzini ezio	1
+manini paola	1
+manera carlo	1
+maiuri luigi	1
+magrini anna	1
+magni franco	1
+maggi franco	1
+maggi emilio	1
+maddau lucia	1
+maci stefano	1
+léa frachon	1
+lupano mario	1
+luongo dario	1
+lunelli aldo	1
+lucini luigi	1
+lucie buechi	1
+luca iandoli	1
+lioy antonio	1
+lesley cohen	1
+leosco dario	1
+leone nicola	1
+leone arturo	1
+lazzaro enzo	1
+laus michele	1
+laura connor	1
+laroni alice	1
+lala alberto	1
+lagana' aldo	1
+la rosa rosa	1
+kristi bonti	1
+knut stieger	1
+kindl ulrike	1
+karl d. utti	1
+kanduc darja	1
+judith dawes	1
+john quinton	1
+jens gutzmer	1
+ivaldi paola	1
+iuliano luca	1
+itaco nunzio	1
+ines barroso	1
+imbimbo ciro	1
+idda lorenzo	1
+hongchao pan	1
+herb dordick	1
+heather reid	1
+grosso mario	1
+grazia luigi	1
+grasso lucia	1
+grassi mario	1
+gori stefano	1
+godart louis	1
+gnessi lucio	1
+giardino ida	1
+gerry melino	1
+gerace dario	1
+genco pietro	1
+gatti matteo	1
+gatt lucilla	1
+garzia italo	1
+gargano rudy	1
+fusco angelo	1
+fusaro carlo	1
+forni flavio	1
+foiani marco	1
+florio livio	1
+festa felice	1
+favia pietro	1
+fanin renato	1
+facco enrico	1
+eva micheler	1
+erle giorgio	1
+edward huang	1
+dupont sirio	1
+duga stefano	1
+diani andrea	1
+diaa youssef	1
+deli roberto	1
+davi' angelo	1
+daniela coco	1
+daniel jaffe	1
+da lio mauro	1
+d'amore enzo	1
+curro' diego	1
+cristian dan	1
+cozzi renata	1
+cova alberto	1
+costas velis	1
+cosco donato	1
+corso fulvio	1
+corona paolo	1
+cori berardo	1
+coppi renato	1
+como giacomo	1
+colombo enzo	1
+coco antonio	1
+cimino guido	1
+cillo biagio	1
+cifani carlo	1
+cicala carla	1
+cianci dario	1
+ciajolo anna	1
+cecati carlo	1
+casati dario	1
+caruso carla	1
+capri ettore	1
+capozza dora	1
+canzi enrica	1
+camici guido	1
+calza' laura	1
+calamai luca	1
+cadinu marco	1
+caccin bruno	1
+butera luigi	1
+bruno pagano	1
+brini andrea	1
+braga franco	1
+bracci luisa	1
+bovone laura	1
+borghi loris	1
+bonica laura	1
+bona basilio	1
+boesch sofia	1
+bobbio luigi	1
+boato giulia	1
+bini matilde	1
+bicchi carlo	1
+berti enrico	1
+berti debora	1
+berisio rita	1
+belloli sara	1
+bellia laura	1
+barzon luisa	1
+barone paolo	1
+barni tullio	1
+barmada sami	1
+bardoni rita	1
+barchi marco	1
+banfi sandro	1
+balsamo aldo	1
+baldi franco	1
+balbi amedeo	1
+axel körner	1
+arturo leone	1
+arnoldi anna	1
+ariola marco	1
+antoine kies	1
+anna ohlrich	1
+andres ramos	1
+andreaus ugo	1
+andreas best	1
+amati nicola	1
+aline pasche	1
+ajmar franco	1
+acutis marco	1
+accati elena	1
+zani sergio	1
+vox onofrio	1
+volpin dino	1
+volpe mario	1
+villa paola	1
+villa luigi	1
+verde paola	1
+vento renza	1
+vento mario	1
+vayra mario	1
+vatta furio	1
+vanni marco	1
+vaira giusi	1
+trevor dale	1
+tosti mario	1
+torre mario	1
+torino enza	1
+tomaso aste	1
+tiezzi enzo	1
+telo' mario	1
+tanda mario	1
+stefan huck	1
+sosa silvio	1
+sorba lucia	1
+sisto irene	1
+silipo alba	1
+sicca lucio	1
+selan laura	1
+saul purton	1
+sattin sara	1
+sarno lucio	1
+sarah darby	1
+sara' guido	1
+sapino anna	1
+salce luigi	1
+russo marco	1
+rossi mose'	1
+rossi mauro	1
+rosato elio	1
+rosa nicola	1
+riva monica	1
+ricci luana	1
+ricci carlo	1
+riani marco	1
+rendina ivo	1
+regalia ida	1
+reddi elena	1
+raugi marco	1
+pusino alba	1
+punta carlo	1
+proto mario	1
+priola aldo	1
+poso regina	1
+pone sergio	1
+poerio elia	1
+pisco marco	1
+pio berardo	1
+piero pucci	1
+petti luigi	1
+petri fabio	1
+peter guida	1
+peris ketty	1
+penco maria	1
+peliti luca	1
+paver nello	1
+paolo lugli	1
+paolo greco	1
+paoli piero	1
+pani danilo	1
+pagano luca	1
+pagallo ugo	1
+pace sergio	1
+pace sandro	1
+olmo ettore	1
+oliver werz	1
+nuti franco	1
+niero mauro	1
+nieri laura	1
+neri matteo	1
+nenci italo	1
+natale ciro	1
+nasta paolo	1
+nardi marco	1
+nardi guido	1
+naldi nerio	1
+mosti luisa	1
+mosca marta	1
+morra luigi	1
+moro davide	1
+monti maria	1
+mondin luca	1
+meo santolo	1
+massa paola	1
+mary mcleod	1
+marina mora	1
+marc tornow	1
+macry paolo	1
+luigi greco	1
+luigi aloia	1
+losi arturo	1
+longo mario	1
+lisi eligio	1
+lirer lucio	1
+linda livia	1
+lieto laura	1
+levi sandro	1
+levi marisa	1
+leaci paola	1
+lania luigi	1
+laconi ezio	1
+keith frayn	1
+kajon irene	1
+juan traine	1
+joana meyer	1
+jacob raber	1
+gwen hryciw	1
+guidi lucia	1
+greco mario	1
+greco guido	1
+greco carlo	1
+goteri gaia	1
+gobbi marco	1
+giuzzi luca	1
+giulio rosa	1
+gioia magda	1
+ghezzi luca	1
+geuna marco	1
+galli carlo	1
+gaeta livio	1
+furia maria	1
+frau franco	1
+frank deppe	1
+forte ennio	1
+forni lucio	1
+finco adele	1
+filla marco	1
+ferri mario	1
+ferri diego	1
+feo luciano	1
+duse marzia	1
+diani mario	1
+diani marco	1
+cursi marco	1
+croce paolo	1
+cozzi mauro	1
+cozzi guido	1
+cozzi bruno	1
+corso lucia	1
+coppa paolo	1
+claudia meo	1
+cirone mara	1
+cinque aldo	1
+chris gregg	1
+chiodo elio	1
+ceppa paola	1
+cella guido	1
+cavone vito	1
+cauvin elsa	1
+cau giorgio	1
+caroli ezio	1
+carlo duilo	1
+caria maria	1
+capra marco	1
+cappa paolo	1
+caponi remo	1
+cantone ugo	1
+cacelli ivo	1
+bucci luigi	1
+bruno mauro	1
+bruno fabio	1
+bruno elena	1
+brudo annie	1
+bova sergio	1
+botta mauro	1
+borga marco	1
+blasi carlo	1
+bin roberto	1
+belli paolo	1
+basso bruno	1
+barra diana	1
+barone ines	1
+barni mauro	1
+banci lucia	1
+baldi mario	1
+ayala fabio	1
+apa rosanna	1
+anzani anna	1
+amici carla	1
+amato bruno	1
+alpi amedeo	1
+albino luca	1
+ajit k. mal	1
+adamo paola	1
+zilli anna	1
+zanni luca	1
+vio marina	1
+villa anna	1
+vacca ciro	1
+toth paolo	1
+toro luigi	1
+toma lucio	1
+susan jebb	1
+stok fabio	1
+sala marco	1
+sala carlo	1
+sacco elio	1
+russo nino	1
+rosset edi	1
+rosa sessa	1
+rob collin	1
+riva paolo	1
+reale lara	1
+re luciano	1
+ragno rino	1
+piva renzo	1
+perna cira	1
+nuti marco	1
+nele luigi	1
+nardi enio	1
+moro laura	1
+mori mauro	1
+mora diego	1
+moles anna	1
+massa rita	1
+marra ezio	1
+maria boni	1
+maione ugo	1
+luc gigord	1
+lops marco	1
+leon black	1
+klein mark	1
+kathy yuan	1
+juan saenz	1
+joanne lee	1
+gori fabio	1
+gili guido	1
+gamba aldo	1
+fresu rita	1
+foti maria	1
+fadda rita	1
+esti marco	1
+dini mario	1
+david bish	1
+daping chu	1
+cupo carlo	1
+cali' tito	1
+bruzzo ugo	1
+bory paolo	1
+boni maria	1
+boido vito	1
+biasi rita	1
+basso luca	1
+bassi ezio	1
+ascoli ugo	1
+anna motta	1
+alan nadel	1
+ago renata	1
+achim marx	1
+abeni luca	1
+vanzi ivo	1
+ragno pia	1
+pii youry	1
+mor marco	1
+lay luigi	1
+i deug su	1
+gay paolo	1
+fava luca	1
+carlo pia	1
+ana pombo	1
+tom bide	1
+said sif	1
+re lucia	1
+jize yan	1
+bo luisa	1
+di feng	1
+arturo	1
+	0

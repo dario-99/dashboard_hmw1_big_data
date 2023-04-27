@@ -1,0 +1,41 @@
+code	units_of_assestment	sum_funds
+b12 engineering	1.095363837E9
+b11 computer science and informatics	4.86143107E8
+c14 geography and environmental studies	2.68949137E8
+a06 agriculture, veterinary and food science	1.90442745E8
+a01 clinical medicine	1.7729241E8
+c17 business and management studies	1.12459728E8
+c13 architecture, built environment and planning	1.08750117E8
+a02 public health, health services and primary care	9.7712713E7
+a04 psychology, psychiatry and neuroscience	9.5849989E7
+a03 allied health professions, dentistry, nursing and pharmacy	8.7311094E7
+a05 biological sciences	7.1340155E7
+b07 earth systems and environmental sciences	4.5312703E7
+c23 education	2.8925825E7
+b09 physics	2.2564225E7
+b08 chemistry	2.122301E7
+c18 law	1.1620402E7
+c19 politics and international studies	8483044.0
+c21 sociology	5994925.0
+c15 archaeology	5765890.0
+c20 social work and social policy	4220536.0
+b12 engineering; c13 architecture, built environment and planning	3763109.0
+b10 mathematical sciences	3502182.0
+d28 history	3319313.0
+d34 communication, cultural and media studies, library and information management	3113000.0
+c22 anthropology and development studies	3087000.0
+d32 art and design: history, practice and theory	2720091.0
+b11 computer science and informatics; b12 engineering	2616000.0
+d29 classics	1649712.0
+d26 modern languages and linguistics	1484812.0
+c16 economics and econometrics	1064965.0
+d30 philosophy	780120.0
+d33 music, drama, dance, performing arts, film and screen studies	492204.0
+c13 architecture, built environment and planning; c14 geography and environmental studies	367720.0
+d27 english language and literature	198000.0
+b10 mathematical sciences; b11 computer science and informatics	120000.0
+a01 clinical medicine; a04 psychology, psychiatry and neuroscience	50000.0
+a01 clinical medicine; a03 allied health professions, dentistry, nursing and pharmacy	
+c24 sport and exercise sciences, leisure and tourism	
+b07 earth systems and environmental sciences; b12 engineering	
+a03 allied health professions, dentistry, nursing and pharmacy; b12 engineering	

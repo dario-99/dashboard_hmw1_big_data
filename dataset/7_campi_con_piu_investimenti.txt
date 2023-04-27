@@ -1,0 +1,191 @@
+code	campo	funds
+40	Engineering	1.278322446E9
+46	Information and Computing Sciences	6.54215909E8
+4001	Aerospace Engineering	6.37744439E8
+32	Biomedical and Clinical Sciences	4.38764614E8
+31	Biological Sciences	4.14934151E8
+35	Commerce, Management, Tourism and Services	3.11740252E8
+30	Agricultural, Veterinary and Food Sciences	2.3506849E8
+3505	Human Resources and Industrial Relations	2.03378135E8
+41	Environmental Sciences	1.96804433E8
+4608	Human-Centred Computing	1.90370338E8
+3101	Biochemistry and Cell Biology	1.46432394E8
+34	Chemical Sciences	1.42652652E8
+33	Built Environment and Design	1.27413609E8
+37	Earth Sciences	1.2496624E8
+3105	Genetics	1.23547479E8
+42	Health Sciences	1.22275634E8
+52	Psychology	1.06947831E8
+4010	Engineering Practice and Education	1.03466064E8
+5202	Biological Psychology	1.02547016E8
+4606	Distributed Computing and Systems Software	1.01484544E8
+44	Human Society	1.00454168E8
+4601	Applied Computing	8.9847708E7
+4008	Electrical Engineering	8.8425407E7
+4005	Civil Engineering	8.7915118E7
+4206	Public Health	8.4254754E7
+4014	Manufacturing Engineering	7.7672355E7
+3006	Food Sciences	6.7393799E7
+3211	Oncology and Carcinogenesis	6.6474133E7
+3302	Building	6.6435033E7
+3202	Clinical Sciences	6.4066213E7
+3102	Bioinformatics and Computational Biology	6.2918355E7
+4012	Fluid Mechanics and Thermal Engineering	6.1991739E7
+48	Law and Legal Studies	6.1964702E7
+3403	Macromolecular and Materials Chemistry	5.7305275E7
+3106	Industrial Biotechnology	5.641769E7
+51	Physical Sciences	5.4939945E7
+4602	Artificial Intelligence	5.4503651E7
+3207	Medical Microbiology	5.4447172E7
+3507	Strategy, Management and Organisational Behaviour	5.1100873E7
+3004	Crop and Pasture Production	4.8979276E7
+3008	Horticultural Production	4.783493E7
+4017	Mechanical Engineering	4.6052602E7
+4104	Environmental Management	4.4266774E7
+3705	Geology	4.3709383E7
+4016	Materials Engineering	4.3071631E7
+43	History, Heritage and Archaeology	4.2449319E7
+3205	Medical Biochemistry and Metabolomics	4.2183757E7
+4002	Automotive Engineering	4.0619693E7
+3210	Nutrition and Dietetics	3.7187023E7
+3204	Immunology	3.6861929E7
+4009	Electronics, Sensors and Digital Hardware	3.3018383E7
+3206	Medical Biotechnology	3.2835279E7
+50	Philosophy and Religious Studies	3.0235014E7
+3107	Microbiology	3.0064458E7
+4203	Health Services and Systems	2.9846194E7
+4003	Biomedical Engineering	2.9754917E7
+39	Education	2.7212055E7
+49	Mathematical Sciences	2.6845801E7
+4605	Data Management and Data Science	2.5732548E7
+4101	Climate Change Impacts and Adaptation	2.5565932E7
+4406	Human Geography	2.4898229E7
+3406	Physical Chemistry	2.4440586E7
+47	Language, Communication and Culture	2.4227554E7
+3704	Geoinformatics	2.4002668E7
+5002	History and Philosophy Of Specific Fields	2.3069216E7
+3404	Medicinal and Biomolecular Chemistry	2.0473509E7
+4802	Environmental and Resources Law	1.9912081E7
+4302	Heritage, Archive and Museum Studies	1.9811469E7
+3301	Architecture	1.9359844E7
+3214	Pharmacology and Pharmaceutical Sciences	1.9329145E7
+3903	Education Systems	1.9261799E7
+4303	Historical Studies	1.9191411E7
+3002	Agriculture, Land and Farm Management	1.9119233E7
+3103	Ecology	1.9002422E7
+38	Economics	1.791199E7
+4007	Control Engineering, Mechatronics and Robotics	1.7623427E7
+4106	Soil Sciences	1.716E7
+4410	Sociology	1.6933071E7
+3706	Geophysics	1.6371527E7
+4612	Software Engineering	1.6367633E7
+3801	Applied Economics	1.5817059E7
+3509	Transportation, Logistics and Supply Chains	1.537171E7
+4407	Policy and Administration	1.4914872E7
+36	Creative Arts and Writing	1.472634E7
+4609	Information Systems	1.4699132E7
+4901	Applied Mathematics	1.4667265E7
+3701	Atmospheric Sciences	1.4213928E7
+5104	Condensed Matter Physics	1.414419E7
+3009	Veterinary Sciences	1.3978648E7
+5106	Nuclear and Plasma Physics	1.3907003E7
+4102	Ecological Applications	1.3371434E7
+4806	Private Law and Civil Obligations	1.3087686E7
+3007	Forestry Sciences	1.2832424E7
+3502	Banking, Finance and Investment	1.0626705E7
+3304	Urban and Regional Planning	1.0023896E7
+4803	International and Comparative Law	9713686.0
+4604	Cybersecurity and Privacy	9568979.0
+4705	Literary Studies	9316897.0
+4610	Library and Information Studies	9201467.0
+4105	Pollution and Contamination	8265715.0
+5107	Particle and High Energy Physics	8263996.0
+4004	Chemical Engineering	8226451.0
+4904	Pure Mathematics	7534200.0
+3405	Organic Chemistry	7409003.0
+3402	Inorganic Chemistry	7370284.0
+3901	Curriculum and Pedagogy	6934006.0
+5102	Atomic, Molecular and Optical Physics	6578426.0
+4408	Political Science	6390925.0
+3208	Medical Physiology	6345321.0
+3707	Hydrology	6305421.0
+3605	Screen and Digital Media	6086875.0
+5108	Quantum Physics	6081725.0
+3209	Neurosciences	6078337.0
+3303	Design	6003321.0
+3508	Tourism	5995909.0
+3506	Marketing	5975483.0
+4015	Maritime Engineering	5816587.0
+5110	Synchrotrons and Accelerators	5667319.0
+4702	Cultural Studies	5602653.0
+3401	Analytical Chemistry	5572705.0
+4006	Communications Engineering	5519551.0
+4301	Archaeology	5445390.0
+5101	Astronomical Sciences	5432842.0
+4704	Linguistics	5378830.0
+3215	Reproductive Medicine	5361390.0
+3201	Cardiovascular Medicine and Haematology	4784972.0
+4011	Environmental Engineering	4782718.0
+3203	Dentistry	4132335.0
+4613	Theory Of Computation	3963316.0
+3904	Specialist Studies In Education	3725864.0
+3212	Ophthalmology and Optometry	3721764.0
+3407	Theoretical and Computational Chemistry	3525248.0
+4607	Graphics, Augmented Reality and Games	3325225.0
+3001	Agricultural Biotechnology	3302349.0
+3108	Plant Biology	3123360.0
+3504	Commercial Services	2844938.0
+5203	Clinical and Health Psychology	2781635.0
+4405	Gender Studies	2737332.0
+4103	Environmental Biotechnology	2520088.0
+3602	Creative and Professional Writing	2345509.0
+4701	Communication and Media Studies	2177391.0
+4404	Development Studies	2075460.0
+4807	Public Law	2067566.0
+4018	Nanotechnology	2033033.0
+3709	Physical Geography and Environmental Geoscience	2015607.0
+4403	Demography	1981139.0
+3902	Education Policy, Sociology and Philosophy	1794622.0
+4805	Legal Systems	1768807.0
+4703	Language Studies	1720088.0
+3604	Performing Arts	1715791.0
+3703	Geochemistry	1636371.0
+4402	Criminology	1622738.0
+3104	Evolutionary Biology	1525353.0
+4905	Statistics	1516233.0
+5109	Space Sciences	1497588.0
+4804	Law In Context	1452201.0
+3601	Art History, Theory and Criticism	1417626.0
+5003	Philosophy	1404533.0
+3005	Fisheries Sciences	1320884.0
+3109	Zoology	1317818.0
+4202	Epidemiology	1235517.0
+3003	Animal Production	1125805.0
+5001	Applied Ethics	1037076.0
+5103	Classical Physics	1035664.0
+3708	Oceanography	1013550.0
+4019	Resources Engineering and Extractive Metallurgy	1008225.0
+3213	Paediatrics	1000476.0
+4603	Computer Vision and Multimedia Computation	962076.0
+3803	Economic Theory	926965.0
+5105	Medical and Biological Physics	837039.0
+4401	Anthropology	757500.0
+4801	Commercial Law	747183.0
+4207	Sports Science and Exercise	733739.0
+4611	Machine Learning	730429.0
+5005	Theology	694719.0
+3603	Music	687204.0
+4201	Allied Health and Rehabilitation Science	678800.0
+4013	Geomatic Engineering	578634.0
+5004	Religious Studies	398677.0
+4903	Numerical and Computational Mathematics	358182.0
+4409	Social Work	335000.0
+5204	Cognitive and Computational Psychology	311000.0
+4204	Midwifery	302451.0
+3501	Accounting, Auditing and Accountability	295913.0
+5201	Applied and Developmental Psychology	232785.0
+3802	Econometrics	181975.0
+4205	Nursing	173000.0
+3702	Climate Change Science	144607.0
+4902	Mathematical Physics	121587.0
+	9.6220099E7	

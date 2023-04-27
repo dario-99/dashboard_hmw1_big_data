@@ -1,0 +1,2798 @@
+partner	count
+university of naples federico ii	2964
+sapienza university of rome	476
+university of milan	350
+university of florence	346
+university of padua	322
+university of bologna	317
+university of turin	290
+university of pisa	290
+university of campania luigi vanvitelli	280
+national research council	255
+university of catania	243
+university of palermo	242
+university of genoa	234
+university of bari aldo moro	228
+university of salerno	228
+politecnico di milano	211
+polytechnic university of turin	184
+university of rome tor vergata	184
+university of perugia	180
+university of pavia	167
+university of messina	149
+university of siena	147
+university of trieste	140
+university of calabria	140
+university of cagliari	122
+catholic university of the sacred heart	117
+university of parma	115
+university of milano-bicocca	112
+university of udine	110
+university of salento	109
+university of modena and reggio emilia	101
+university of trento	101
+university of ferrara	100
+magna graecia university	99
+roma tre university	97
+university of l'aquila	86
+marche polytechnic university	86
+university of verona	86
+university of brescia	82
+university of chieti-pescara	77
+university of eastern piedmont amadeo avogadro	73
+ca' foscari university of venice	73
+university of sassari	71
+french national centre for scientific research	68
+imperial college london	65
+university of basilicata	65
+university of sannio	64
+university of cassino and southern lazio	63
+university of molise	62
+spanish national research council	56
+university of cambridge	55
+university of reggio calabria	52
+polytechnic university of bari	50
+fraunhofer society	48
+university of camerino	48
+tuscia university	45
+university of oxford	43
+wageningen university & research	43
+ku leuven	42
+university of foggia	42
+technical university of denmark	40
+eth zurich	39
+national research institute for agriculture, food and environment	38
+university of lisbon	37
+german aerospace center	36
+vita-salute san raffaele university	36
+university of urbino	36
+parthenope university of naples	33
+università iuav di venezia	33
+university of insubria	33
+university of edinburgh	32
+royal institute of technology	31
+university of sheffield	30
+technical university of munich	30
+delft university of technology	29
+university of bergamo	29
+airbus (france)	29
+university of patras	29
+university of copenhagen	28
+university college london	28
+airbus (germany)	27
+karlsruhe institute of technology	27
+university of manchester	27
+aristotle university of thessaloniki	27
+ghent university	26
+technical university of madrid	25
+university of bristol	25
+atomic energy and alternative energies commission	25
+italian aerospace research centre	24
+scuola normale superiore di pisa	24
+max planck society	24
+university of leeds	23
+national and kapodistrian university of athens	23
+école polytechnique fédérale de lausanne	23
+king's college london	23
+international school for advanced studies	23
+lund university	23
+office national d'études et de recherches aérospatiales	23
+national institute of geophysics and volcanology	22
+rwth aachen university	22
+university of teramo	22
+university of nottingham	21
+national technical university of athens	20
+karolinska institute	20
+university of helsinki	19
+university of liège	19
+university of southampton	19
+sant'anna school of advanced studies	19
+universitat politècnica de catalunya	19
+national agency for new technologies, energy and sustainable economic development	19
+newcastle university	18
+university of east anglia	18
+université catholique de louvain	18
+uppsala university	18
+university of glasgow	18
+university of liverpool	17
+netherlands organisation for applied scientific research	17
+national institute for nuclear physics	17
+aarhus university	17
+autonomous university of barcelona	17
+chalmers university of technology	17
+university of oslo	17
+university of twente	17
+safran (france)	16
+airbus (spain)	16
+bocconi university	16
+university of barcelona	16
+universidade nova de lisboa	16
+university of zurich	16
+délégation paris 11	15
+universitat politècnica de valència	15
+university of birmingham	15
+tecnalia	15
+université libre de bruxelles	15
+technion – israel institute of technology	15
+eindhoven university of technology	15
+university college cork	15
+vtt technical research centre of finland	15
+durham university	15
+jožef stefan institute	15
+trinity college dublin	14
+university of göttingen	14
+radboud university nijmegen	14
+cranfield university	14
+european molecular biology laboratory	14
+university of amsterdam	14
+university of minho	14
+university of geneva	14
+general electric (italy)	14
+barcelona supercomputing center	14
+university of naples - l'orientale	14
+leiden university medical center	14
+university of ljubljana	14
+rise research institutes of sweden	14
+siemens (belgium)	14
+university of stuttgart	14
+heidelberg university	14
+utrecht university	13
+tu wien	13
+universität innsbruck	13
+university of zaragoza	13
+tu darmstadt	13
+hebrew university of jerusalem	13
+aix-marseille university	13
+austrian institute of technology	13
+centro ricerche fiat	13
+vrije universiteit amsterdam	13
+university of gothenburg	13
+french institute for research in computer science and automation	13
+tel aviv university	13
+university of strasbourg	13
+european organization for nuclear research	12
+dassault aviation (france)	12
+national laboratory of frascati	12
+russian academy of sciences	12
+universität hamburg	12
+forschungszentrum jülich	12
+sorbonne university	12
+university of freiburg	12
+university of erlangen-nuremberg	12
+institut de physique du globe de paris	12
+leibniz university hannover	12
+goethe university frankfurt	12
+national aerospace laboratory	12
+erasmus mc	12
+budapest university of technology and economics	12
+istituto superiore di sanità	12
+leiden university	12
+umeå university	11
+siemens (germany)	11
+helmholtz zentrum münchen	11
+university of strathclyde	11
+luiss university	11
+university of montpellier	11
+university medical center utrecht	11
+university of bonn	11
+university of macerata	11
+university of basel	11
+university of bordeaux	11
+university of aberdeen	11
+ludwig-maximilians-universität münchen	11
+medical research council	11
+technical university of berlin	11
+norwegian geotechnical institute	11
+institut pasteur	11
+university of warwick	10
+public health england	10
+claude bernard university lyon 1	10
+university of coimbra	10
+vrije universiteit brussel	10
+norwegian university of science and technology	10
+university of california, berkeley	10
+national institute for public health and the environment	10
+technische universität braunschweig	10
+university of granada	10
+luleå university of technology	10
+airbus (united kingdom)	10
+university of bergen	10
+science and technology facilities council	10
+queen mary university of london	10
+université côte d'azur	10
+dutch research council	10
+university of vienna	10
+ministry of health	10
+university of seville	10
+university of ulster	10
+telethon foundation	10
+charité - university medicine berlin	9
+queen's university belfast	9
+heinrich heine university düsseldorf	9
+lancaster university	9
+university of bath	9
+weizmann institute of science	9
+ruhr university bochum	9
+harvard university	9
+john innes centre	9
+university of york	9
+complutense university of madrid	9
+foro italico university of rome	9
+university of st andrews	9
+university of surrey	9
+university of dundee	9
+university of clermont auvergne	9
+university of pretoria	9
+stockholm university	9
+national institute for astrophysics	9
+department for environment, food and rural affairs	8
+bielefeld university	8
+stork (netherlands)	8
+saab (sweden)	8
+charles university	8
+israel aerospace industries (israel)	8
+university for foreigners of siena	8
+hellenic aerospace industry (greece)	8
+institut de recherche pour le développement	8
+uit the arctic university of norway	8
+rothamsted research	8
+quadram institute	8
+teagasc - the irish agriculture and food development authority	8
+national institute for aerospace research elie carafoli	8
+rolls-royce (united kingdom)	8
+freie universität berlin	8
+james hutton institute	8
+university of groningen	8
+general electric (united kingdom)	8
+university of porto	8
+university of cyprus	8
+royal holloway university of london	8
+directorate-general joint research centre	8
+cineca	8
+bae systems (united kingdom)	8
+italian institute of technology	8
+university of paris-sud	8
+lomonosov moscow state university	8
+bp (united kingdom)	8
+ministry of infrastructure and the environment	8
+university of ioannina	8
+institut néel	8
+humboldt-universität zu berlin	8
+école centrale de lyon	8
+swedish university of agricultural sciences	8
+johannes kepler university of linz	8
+universidade de vigo	8
+bureau de recherches géologiques et minières	8
+university of kent	7
+istanbul technical university	7
+von karman institute for fluid dynamics	7
+agh university of science and technology	7
+armines	7
+university of castilla-la mancha	7
+boğaziçi university	7
+brunel university london	7
+électricité de france (france)	7
+university of regensburg	7
+university of iceland	7
+hamburg university of technology	7
+french research institute for exploitation of the sea	7
+stanford university	7
+academic medical center	7
+university of tübingen	7
+university of antwerp	7
+graz university of technology	7
+irccs ospedale san raffaele	7
+the open university	7
+kyoto university	7
+university of leicester	7
+university of crete	7
+thales (france)	7
+tallinn university of technology	7
+university college dublin	7
+mtu aero engines (germany)	7
+university of southern denmark	7
+university of trier	7
+université gustave eiffel	7
+university of turku	7
+kiel university	7
+tu dresden	7
+university of natural resources and life sciences	7
+swansea university	7
+università degli studi suor orsola benincasa	7
+tampere university	7
+university of eastern finland	7
+cornell university	7
+warsaw university of technology	7
+university of the aegean	7
+università campus bio-medico	7
+institute curie	7
+cardiff university	7
+university of duisburg-essen	7
+grenoble institute of technology	7
+institut national des sciences appliquées de lyon	7
+university of california, los angeles	7
+network rail	6
+bambino gesù children's hospital	6
+university hospital of lausanne	6
+institute of geophysics	6
+hannover medical school	6
+university of aveiro	6
+german institute of human nutrition	6
+national institute for aerospace technology	6
+piaggio aerospace (italy)	6
+university of bremen	6
+kuka (germany)	6
+innsbruck medical university	6
+scientific and technological research council of turkey	6
+lawrence berkeley national laboratory	6
+centro de investigaciones energéticas, medioambientales y tecnológicas	6
+athens university of economics and business	6
+german cancer research center	6
+helmholtz centre potsdam - gfz german research centre for geosciences	6
+building research establishment	6
+friedrich schiller university jena	6
+aberystwyth university	6
+middle east technical university	6
+aalborg university	6
+centre tecnologic de telecomunicacions de catalunya	6
+saarland university	6
+foundation for research and technology hellas	6
+volvo (sweden)	6
+university of córdoba	6
+medical university of vienna	6
+paul scherrer institute	6
+the university of sydney	6
+atos (spain)	6
+vlaams instituut voor biotechnologie	6
+hacettepe university	6
+humanitas university	6
+royal netherlands academy of arts and sciences	6
+university of oulu	6
+university of chemistry and technology	6
+free university of bozen-bolzano	6
+university of bern	6
+osaka university	6
+european centre for training and research in earthquake engineering	6
+aalto university	6
+university of plymouth	6
+university carlo cattaneo	5
+central aerohydrodynamic institute	5
+aston university	5
+university of iowa	5
+autonomous university of madrid	5
+instituto de soldadura e qualidade	5
+joseph fourier university	5
+antoni van leeuwenhoek hospital	5
+environment agency	5
+atkins (united kingdom)	5
+british geological survey	5
+czech technical university in prague	5
+university of the basque country	5
+cancer research uk	5
+new york university	5
+university of ulm	5
+university of debrecen	5
+august pi i sunyer biomedical research institute	5
+nofima	5
+saints cyril and methodius university of skopje	5
+schneider electric (france)	5
+czech education and scientific network	5
+construction industry research and information association	5
+university of technology of compiègne	5
+carlos iii university of madrid	5
+institut national des sciences appliquées de toulouse	5
+finmeccanica (united kingdom)	5
+ericsson (sweden)	5
+university of santiago de compostela	5
+skanska (united kingdom)	5
+qinetiq (united kingdom)	5
+pompeu fabra university	5
+middlesex university	5
+andalusian school of public health	5
+sanofi (france)	5
+wrocław university of science and technology	5
+oslo university hospital	5
+national university of ireland, galway	5
+deutsches elektronen-synchrotron desy	5
+university of latvia	5
+fondazione santa lucia	5
+university of the balearic islands	5
+high energy accelerator research organization	5
+university of malaga	5
+johns hopkins university	5
+dublin city university	5
+national museum of natural history	5
+university of warsaw	5
+university of zagreb	5
+tekniker	5
+department for transport	5
+german center for neurodegenerative diseases	5
+flemish institute for technological research	5
+costain (united kingdom)	5
+instituto de salud carlos iii	5
+aecom (united kingdom)	5
+arup group (united kingdom)	5
+anstalt für verbrennungskraftmaschinen list	5
+linköping university	5
+renault (france)	5
+maastricht university	5
+massachusetts institute of technology	5
+international agency for research on cancer	5
+hospital clínic de barcelona	5
+university of würzburg	5
+university of wuppertal	5
+yale university	5
+university of belgrade	5
+university of toronto	5
+national institute of oceanography and experimental geophysics	5
+bayer (germany)	5
+institute of experimental medicine	5
+research center for information technology	5
+délégation provence et corse	5
+imec	5
+national polytechnic institute of toulouse	5
+inserm	5
+king juan carlos university	5
+university of valencia	5
+cesi (italy)	5
+university of thessaly	5
+national institute for research & development in informatics	5
+paul sabatier university	5
+swiss institute of bioinformatics	4
+cambridgeshire county council	4
+french institute of petroleum	4
+institute for parallel processing	4
+hospital universitario la paz	4
+instituto nacional de investigación y tecnología agraria y alimentaria	4
+central alliance (united kingdom)	4
+agricultural university of athens	4
+cea saclay	4
+phi theta kappa honor society	4
+severn trent (united kingdom)	4
+thames water (united kingdom)	4
+regione campania	4
+łukasiewicz research network	4
+a e solutions (united kingdom)	4
+brookhaven national laboratory	4
+sofia university	4
+mclaren honda (united kingdom)	4
+national university of ireland	4
+philipps university of marburg	4
+rutherford appleton laboratory	4
+stazione zoologica anton dohrn	4
+government of the united kingdom	4
+general electric (united states)	4
+university hospital heidelberg	4
+balfour beatty (united kingdom)	4
+georgia institute of technology	4
+southbank centre	4
+swedish defence research agency	4
+laing o'rourke (united kingdom)	4
+mott macdonald (united kingdom)	4
+national institute of chemistry	4
+daimler (germany)	4
+liebherr (france)	4
+french agency for food, environmental and occupational health & safety	4
+university medical center of the johannes gutenberg university mainz	4
+innovate uk	4
+leipzig university	4
+masaryk university	4
+tilburg university	4
+beijing information science & technology university	4
+sociétés anonyme belge de constructions aéronautiques (belgium)	4
+leibniz centre for agricultural landscape research	4
+national centre of scientific research demokritos	4
+comenius university	4
+european commission	4
+humber bridge board	4
+ibm (united states)	4
+kurchatov institute	4
+satellite applications catapult (united kingdom)	4
+sintef	4
+sabancı university	4
+acoem (france)	4
+university of essex	4
+university of lille	4
+university of tokyo	4
+transport research laboratory (united kingdom)	4
+chung-ang university	4
+daresbury laboratory	4
+fondazione irccs istituto nazionale dei tumori	4
+transport for london	4
+university of exeter	4
+national aeronautics and space administration	4
+university of london	4
+analysis and monitoring of environmental risk	4
+university of sussex	4
+délégation nord, pas-de-calais et picardie	4
+centre hospitalier universitaire de grenoble	4
+university of north carolina at chapel hill	4
+ibm research - zurich	4
+joint research centre	4
+mediterranean agronomic institute of chania	4
+max delbrück center for molecular medicine	4
+rolls-royce (germany)	4
+helmholtz centre for environmental research	4
+university of alberta	4
+university of chicago	4
+royal netherlands meteorological institute	4
+consortium garr	4
+french national institute for industrial environment and risks	4
+gwynedd council	4
+centre hospitalier universitaire de liège	4
+center for advanced aerospace technologies	4
+university of reading	4
+university of rostock	4
+university of salford	4
+national laboratory for civil engineering	4
+national agricultural research foundation	4
+institute for bioengineering of catalonia	4
+hospital universitari i politècnic la fe	4
+école centrale paris	4
+de montfort university	4
+inasco (greece)	4
+university of las palmas de gran canaria	4
+novo nordisk (denmark)	4
+peter brett associates	4
+shell (united kingdom)	4
+surfsara (netherlands)	4
+telecom italia (italy)	4
+unilever (netherlands)	4
+university of bayreuth	4
+university of brighton	4
+czech university of life sciences prague	4
+amsterdam university of applied sciences	4
+institute of bioorganic chemistry, polish academy of sciences	4
+university of khartoum	4
+institute for research and technology in food and agriculture	4
+university of konstanz	4
+portuguese sea and atmosphere institute	4
+university of lausanne	4
+university of lorraine	4
+university of münster	4
+future cities catapult (united kingdom)	4
+bechtel (united states)	4
+planetek italia	4
+anglian water services (united kingdom)	4
+jacobs (united kingdom)	4
+united kingdom atomic energy authority	4
+jagiellonian university	4
+thales (united kingdom)	4
+institute of mechanical engineering and industrial mangement	4
+topcon (united kingdom)	4
+johannes gutenberg university of mainz	4
+commonwealth scientific and industrial research organisation	4
+lifearc	4
+university of bucharest	4
+university of cantabria	4
+norwegian university of life sciences	4
+national instruments (united kingdom)	4
+national hellenic research foundation	4
+université paris-cité	4
+institute of informatics	4
+mouchel (united kingdom)	4
+aernnova (spain)	4
+redbite (united kingdom)	4
+swedish research council	4
+toshiba (united kingdom)	4
+rolatube technology (united kingdom)	4
+aerospace valley	4
+petersburg nuclear physics institute	4
+joint institute for nuclear research	4
+institute for healthcare improvement	4
+university of washington	4
+university of wollongong	4
+asco industries (belgium)	4
+department of health and social care	4
+paris dauphine university	4
+demo consultants	4
+senceive (united kingdom)	4
+sengenia (united kingdom)	4
+technical university of cluj-napoca	4
+royal haskoningdhv (united kingdom)	4
+the alan turing institute	4
+polytechnic university of bucharest	4
+natural resources institute finland	4
+national institute of public health	4
+mckinsey & company (united kingdom)	4
+bauhaus university, weimar	4
+city, university of london	4
+general electric (germany)	4
+bloomfield science museum jerusalem	4
+omnisense (united kingdom)	4
+university of paris-saclay	4
+international center for numerical methods in engineering	4
+university medical center freiburg	4
+historic england	4
+nottingham trent university	4
+university of dar es salaam	4
+university of hertfordshire	4
+wsp civils (united kingdom)	4
+astrazeneca (united kingdom)	4
+gran sasso science institute	4
+hertfordshire county council	4
+keele university	4
+institut català de la salut	4
+national physical laboratory	4
+parliament of united kingdom	4
+volkswagen group (united kingdom)	4
+university of the west of england	4
+university of southern california	4
+academia sinica	3
+gsi helmholtz centre for heavy ion research	3
+uni research (norway)	3
+surrey county council	3
+sonaca (belgium)	3
+institute of science and technology austria	3
+university of wisconsin system	3
+university of western brittany	3
+sheffield hallam university	3
+messerschmitt-bölkow-blohm (germany)	3
+nestlé (switzerland)	3
+åbo akademi university	3
+muons (united states)	3
+julius kühn-institut	3
+university medical center hamburg-eppendorf	3
+danish cancer society	3
+continental (germany)	3
+heidelberg institute for theoretical studies	3
+deutsches forschungsnetz	3
+fondazione bruno kessler	3
+gaiker technology centre	3
+university of siegen	3
+helmholtz-zentrum hereon	3
+university of trás-os-montes and alto douro	3
+ibk-innovation (germany)	3
+harbin institute of technology	3
+american transmission company (united states)	3
+university of nantes	3
+university of murcia	3
+university of lleida	3
+institute of mathematical problems of biology	3
+greifswald university hospital	3
+university of kassel	3
+csc - it center for science (finland)	3
+norbain (united kingdom)	3
+potsdam institute for climate impact research	3
+science museum group	3
+parsons brinckerhoff	3
+european institute of oncology	3
+institute of physics	3
+délégation ile-de-france sud	3
+scotland's rural college	3
+ibm (united kingdom)	3
+socotec (united kingdom)	3
+istituto nazionale per la fisica della materia	3
+fondazione istituto neurologico nazionale casimiro mondino	3
+dupont (netherlands)	3
+department of medical sciences	3
+luxembourg institute of science and technology	3
+university hospital of basel	3
+university hospital bonn	3
+danone (netherlands)	3
+national institute of health dr. ricardo jorge	3
+switch	3
+united utilities (united kingdom)	3
+arm (united kingdom)	3
+national university of singapore	3
+flyingbinary (united kingdom)	3
+hr wallingford	3
+basf (germany)	3
+university of namur	3
+observatoire de la côte d’azur	3
+laboratory of instrumentation and experimental particles physics	3
+virginia tech	3
+university of luxembourg	3
+sciensano (belgium)	3
+west university of timişoara	3
+hospital universitario 12 de octubre	3
+sener (spain)	3
+leibniz research centre for working environment and human factors	3
+ptv group (germany)	3
+linnaeus university	3
+institut du cerveau	3
+innovations for high performance microelectronics	3
+engineering (italy)	3
+european research and project office	3
+pennsylvania state university	3
+bundeswehr university munich	3
+cockcroft institute	3
+don carlo gnocchi foundation	3
+fondazione irccs ca' granda ospedale maggiore policlinico	3
+centre val de loire	3
+bar-ilan university	3
+vilnius university	3
+institute for theoretical and experimental physics	3
+israel ministry of health	3
+fermilab	3
+institute of accelerating systems and applications	3
+istituto per lo studio e la prevenzione oncologica	3
+délégation midi pyrénées	3
+university of mons	3
+istituto universitario di studi superiori di pavia	3
+rudjer boskovic institute	3
+agricultural biotechnology institute	3
+university of leon	3
+university of graz	3
+fera science (united kingdom)	3
+university of california, riverside	3
+evonik (germany)	3
+bulgarian academy of sciences	3
+matís (iceland)	3
+école nationale supérieure d'ingénieurs de caen	3
+telefonica research and development	3
+invent (germany)	3
+south east technological university	3
+transport scotland	3
+marine institute	3
+universitätsklinikum aachen	3
+ggg (france)	3
+medical university of gdańsk	3
+korea institute of science & technology information	3
+enel (italy)	3
+china agricultural university	3
+cross-linked enzyme aggregates technologies (netherlands)	3
+enco (italy)	3
+hochtief (germany)	3
+délégation languedoc roussillon	3
+hasselt university	3
+university of mississippi	3
+eurospital (italy)	3
+inter university computation centre	3
+délégation alpes	3
+norsar	3
+wellcome sanger institute	3
+école centrale de nantes	3
+babcock & wilcox (denmark)	3
+institute of genetics and molecular and cellular biology	3
+hellenic centre for marine research	3
+medical university of warsaw	3
+highways england	3
+trust it services	3
+thales (portugal)	3
+association de coordination technique pour l'industrie agroalimentaire	3
+environment agency austria	3
+ferrovial (united kingdom)	3
+ben-gurion university of the negev	3
+hellenic health foundation	3
+eni (italy)	3
+soltech (belgium)	3
+canary wharf group (united kingdom)	3
+budker institute of nuclear physics	3
+cfs engineering (switzerland)	3
+noesis solutions (belgium)	3
+northern illinois university	3
+robosoft (france)	3
+riga stradiņš university	3
+agri food and biosciences institute	3
+university of buenos aires	3
+centre hospitalier régional et universitaire de lille	3
+fiat chrysler automobiles (italy)	3
+nxp (netherlands)	3
+victoria and albert museum	3
+volkswagen group (germany)	3
+st george's, university of london	3
+university system of new hampshire	3
+t6 (italy)	3
+baranov central institute of aviation motor development	3
+école des ponts paristech	3
+biomedical research foundation of the academy of athens	3
+university of michigan–ann arbor	3
+cenaero (belgium)	3
+institute for high energy physics	3
+argonne national laboratory	3
+nova scientific (united states)	3
+boston university	3
+bombardier (united kingdom)	3
+elettra sincrotrone trieste	3
+csem	3
+pirelli (italy)	3
+eötvös loránd university	3
+scottish water (united kingdom)	3
+capita (united kingdom)	3
+foundation for the research development and application of composite materials	3
+champalimaud foundation	3
+doosan (united kingdom)	3
+assistance publique - hôpitaux de paris	3
+easn technology innovation services bvba	3
+university of burgundy	3
+arts et metiers institute of technology	3
+infineon technologies (germany)	3
+finnish institute for health and welfare	3
+institut gustave roussy	3
+finnish institute of occupational health	3
+tu dortmund university	3
+keldysh institute of applied mathematics	3
+lithuanian university of health sciences	3
+icelandic meteorological office	3
+hospital corporation of america	3
+istituto superiore per la protezione e la ricerca ambientale	3
+ministry of industry, energy and tourism	3
+university of california system	3
+national institute for subatomic physics	3
+nofer institute of occupational medicine	3
+fortiss	3
+public health scotland	3
+papworth hospital nhs foundation trust	3
+otto-von-guericke university magdeburg	3
+spiekermann and wegener	3
+percuros (netherlands)	3
+norwegian institute for water research	3
+royal institution of chartered surveyors	3
+university of applied sciences stralsund	3
+agricultural research organization	3
+oregon health & science university	3
+hospital del mar	3
+iris technology solutions (spain)	3
+german climate computing centre	3
+cambridge city council	3
+arcelormittal (france)	3
+instituto de salud pública de navarra	3
+centre for research and technology hellas	3
+belgian nuclear research centre	3
+energy research centre of the netherlands	3
+rovira i virgili university	3
+istituto nazionale di ricerca metrologica	3
+anglo american (united kingdom)	3
+martin luther university halle-wittenberg	3
+austrian agency for health and food safety	3
+carl von ossietzky university of oldenburg	3
+university of navarra	3
+geotechnical observations (united kingdom)	3
+heathrow airport holdings (united kingdom)	3
+university of macedonia	3
+university of melbourne	3
+university of giessen	3
+cambridge consultants (united kingdom)	3
+teknologirådet	3
+vienna consulting engineers (austria)	3
+university of salamanca	3
+institute for computer science and control	3
+institute for particle and nuclear physics	3
+university of gdańsk	3
+maritsa vegetable crops research institute	3
+university of cologne	3
+istituto nazionale di ricerca per gli alimenti e la nutrizione	3
+fundación para el fomento de la investigación sanitaria y biomédica de la comunitat valenciana	2
+institute of scientific and technological research in aeronautics and mechanical engineering	2
+azienda ospedaliera universitaria università degli studi della campania luigi vanvitelli	2
+development of research and technologies for sustainable and seismically safe building	2
+hessisches ministerium für umwelt, klimaschutz, landwirtschaft und verbraucherschutz	2
+consorzio multi-ente per la promozione e l'adozione di tecnologie di calcolo avanzato	2
+fundación para la formación e investigación sanitarias de la región de murcia	2
+centre d'enseignement et de recherches des industries alimentaires et chimiques	2
+zentrum für sonnenenergie- und wasserstoff-forschung baden-württemberg	2
+maria skłodowska-curie memorial cancer center and institute of oncology	2
+institutul national de cercetare si dezvoltare pentru fizica pamantului	2
+federal department of environment, transport, energy and communications	2
+asociación de investigación y cooperación industrial de andalucía	2
+delivery of advanced network technology to europe (united kingdom)	2
+swiss federal institute for forest, snow and landscape research	2
+délégation régionale provence-alpes-côte d’azur et corse	2
+federal department of economic affairs education and research	2
+asociación de investigación de la industria agroalimentaria	2
+instituto nacional de investigação agrária e veterinária	2
+international association for cereal science and technology	2
+v.p. komisarenko institute of endocrinology and metabolism	2
+aircraft development and systems engineering (netherlands)	2
+national higher french institute of aeronautics and space	2
+institute of biological, environmental and rural sciences	2
+central environmental and food science research institute	2
+association of european renewable energy research centres	2
+leibniz institute for solid state and materials research	2
+centro de estudios y experimentación de obras públicas	2
+centre for research on ecology and forestry applications	2
+national institute of geophysics, geodesy and geography	2
+institute for systems and computer engineering of porto	2
+bruel & kjaer sound and vibration measurement (denmark)	2
+university of veterinary medicine hannover, foundation	2
+institute for medical research and occupational health	2
+governmental information technology development agency	2
+alfred wegener institute for polar and marine research	2
+international institute of molecular and cell biology	2
+international centre of insect physiology and ecology	2
+institut de radioprotection et de sûreté nucléaire	2
+helmholtz-zentrum berlin für materialien und energie	2
+research institute for telecommunication cooperation	2
+international institute for applied systems analysis	2
+institut national des sciences appliquées de rennes	2
+fraunhofer institute for applied solid state physics	2
+basque foundation for health innovation and research	2
+national laboratory of health, environment and food	2
+mrc university of glasgow centre for virus research	2
+institute of plant genetics and crop plant research	2
+siberian branch of the russian academy of sciences	2
+max planck institute of molecular plant physiology	2
+mario negri institute for pharmacological research	2
+european federation of food science and technology	2
+max planck institute for plant breeding research	2
+manufacturing technology centre (united kingdom)	2
+london school of economics and political science	2
+instituto valenciano de investigaciones agrarias	2
+institut d'investigació sanitària pere virgili	2
+empirica - communication and technology research	2
+centre hospitalier universitaire de saint-pierre	2
+allgemeine elektricitäts-gesellschaft (germany)	2
+royal brompton & harefield nhs foundation trust	2
+laboratoire national de métrologie et d'essais	2
+instituto de biologia experimental tecnológica	2
+institute of environmental science and research	2
+national public health surveillance laboratory	2
+gheorghe asachi technical university of iași	2
+forschungsinstitut für biologischen landbau	2
+telethon institute of genetics and medicine	2
+royal belgian institute of natural sciences	2
+centro de tecnologías aeronauticas (spain)	2
+centre technique des industries mécaniques	2
+brazilian agricultural research corporation	2
+bavarian academy of sciences and humanities	2
+swiss tropical and public health institute	2
+radboud university nijmegen medical centre	2
+national statistical institute of portugal	2
+national agricultural technology institute	2
+centre île-de-france - versailles-grignon	2
+aerospace research and test establishment	2
+école nationale d'ingénieurs de tarbes	2
+leibniz institute of photonic technology	2
+university hospitals plymouth nhs trust	2
+swedish environmental protection agency	2
+norwegian institute for nature research	2
+national academy of sciences of ukraine	2
+national academy of sciences of belarus	2
+helmholtz centre for infection research	2
+european synchrotron radiation facility	2
+deutsche gesetzliche unfallversicherung	2
+the university of texas at san antonio	2
+technology transfer center bremerhaven	2
+ricerca sul sistema energetico (italy)	2
+norwegian institute of marine research	2
+memorial sloan kettering cancer center	2
+istituto nazionale di economia agraria	2
+institute of field and vegetable crops	2
+zurich university of applied sciences	2
+university of pau and pays de l'adour	2
+university children's hospital zurich	2
+poznan university of medical sciences	2
+federal institute for risk assessment	2
+centro studi sui sistemi di trasporto	2
+università degli studi di enna kore	2
+polytechnic university of timişoara	2
+norwegian institute of public health	2
+federal university of rio de janeiro	2
+children's health ireland at crumlin	2
+università della svizzera italiana	2
+university of california, san diego	2
+university medical center groningen	2
+oxford instruments (united kingdom)	2
+gmv innovating solutions (portugal)	2
+fondazione humanitas per la ricerca	2
+école normale supérieure de lyon	2
+volgograd state medical university	2
+polskie zakłady lotnicze (poland)	2
+open university in the netherlands	2
+institute of occupational medicine	2
+institut polytechnique de bordeaux	2
+federal department of home affairs	2
+clausthal university of technology	2
+centre for european policy studies	2
+california institute of technology	2
+biomedical primate research centre	2
+university of wisconsin–madison	2
+policlinico san matteo fondazione	2
+institute of fluid flow-machinery	2
+hrvatski zavod za javno zdravstvo	2
+german federal environment agency	2
+european food information council	2
+centro sviluppo materiali (italy)	2
+école normale supérieure - psl	2
+xinjiang agricultural university	2
+university of central lancashire	2
+tttech computertechnik (austria)	2
+royal hospital for sick children	2
+provincial institute for hygiene	2
+munster technological university	2
+johnson matthey (united kingdom)	2
+ilmenau university of technology	2
+ecopath international initiative	2
+donostia unibertsitate ospitalea	2
+blekinge institute of technology	2
+university of western macedonia	2
+university of western australia	2
+university of food technologies	2
+technical university of košice	2
+red electrica de espana (spain)	2
+nanjing agricultural university	2
+institute of molecular genetics	2
+european union satellite centre	2
+dornier flugzeugwerke (germany)	2
+cyprus university of technology	2
+catholic university of portugal	2
+universidad publica de navarra	2
+office for national statistics	2
+luxembourg institute of health	2
+laboratoire national de santé	2
+karolinska university hospital	2
+istituto affari internazionali	2
+institute of photonic sciences	2
+food research institute prague	2
+danish technological institute	2
+casa sollievo della sofferenza	2
+birkbeck, university of london	2
+université savoie mont blanc	2
+psa peugeot citroën (france)	2
+paris-est créteil university	2
+national institutes of health	2
+national institute of biology	2
+hungarian academy of sciences	2
+finnish environment institute	2
+centre for genomic regulation	2
+brno university of technology	2
+blc leather technology centre	2
+agricultural research council	2
+zf friedrichshafen (germany)	2
+university of franche-comté	2
+university of beira interior	2
+tata motors (united kingdom)	2
+slovenian forestry institute	2
+royal observatory of belgium	2
+palacký university, olomouc	2
+national university of salta	2
+national food administration	2
+istituto auxologico italiano	2
+institute of cancer research	2
+institute for advanced study	2
+hospital clínico san carlos	2
+geological survey of finland	2
+friedrich miescher institute	2
+fondazione salvatore maugeri	2
+cedrat technologies (france)	2
+campden bri (united kingdom)	2
+burohappold (united kingdom)	2
+biomax informatics (germany)	2
+university of south florida	2
+the francis crick institute	2
+r.u.robots (united kingdom)	2
+miguel hernandez university	2
+medical university of varna	2
+kelada pharmachem (ireland)	2
+european environment agency	2
+chinese academy of sciences	2
+aerotex uk (united kingdom)	2
+aalborg university hospital	2
+university of huddersfield	2
+universidade de são paulo	2
+softbank robotics (france)	2
+procter & gamble (belgium)	2
+pasteur institute of lille	2
+national taiwan university	2
+moredun research institute	2
+fidia farmaceutici (italy)	2
+dow chemical (netherlands)	2
+copenhagen business school	2
+children's hospital zagreb	2
+cd-adapco (united kingdom)	2
+baylor college of medicine	2
+university of westminster	2
+swedish space corporation	2
+slovak medical university	2
+flanders marine institute	2
+délégation côte d'azur	2
+cy cergy paris university	2
+centrica (united kingdom)	2
+capital region of denmark	2
+bt group (united kingdom)	2
+university of valladolid	2
+university of sunderland	2
+university of pittsburgh	2
+university of neuchâtel	2
+university of cape coast	2
+university of banja luka	2
+terviseamet health board	2
+ricardo (united kingdom)	2
+national research centre	2
+meggitt (united kingdom)	2
+kantonsspital winterthur	2
+arizona state university	2
+anglia ruskin university	2
+valtronic (switzerland)	2
+university of paderborn	2
+university of la laguna	2
+university of hong kong	2
+university of hohenheim	2
+university of a coruña	2
+txt e-solutions (italy)	2
+smithsonian institution	2
+northwestern university	2
+loughborough university	2
+kansas state university	2
+hospices civils de lyon	2
+harper adams university	2
+alstom (united kingdom)	2
+world vegetable center	2
+university of salzburg	2
+university of rennes 1	2
+university of poitiers	2
+university of novi sad	2
+university of fribourg	2
+university of bradford	2
+university of auckland	2
+university of alicante	2
+university of adelaide	2
+santé publique france	2
+robert bosch (germany)	2
+northumbria university	2
+ministero della salute	2
+ke-works (netherlands)	2
+jean monnet university	2
+institute of mechanics	2
+heriot-watt university	2
+fondazione edmund mach	2
+cereal research centre	2
+university of potsdam	2
+university of piraeus	2
+university of lübeck	2
+university of limoges	2
+university of florida	2
+university of algarve	2
+the welding institute	2
+saint-gobain (france)	2
+ospedale santa chiara	2
+madrid health service	2
+king's college school	2
+keygene (netherlands)	2
+cadi ayyad university	2
+assuta medical center	2
+école polytechnique	2
+wsp sverige (sweden)	2
+videometer (denmark)	2
+university of girona	2
+stab vida (portugal)	2
+mines saint-étienne	2
+hospital de sant pau	2
+hiroshima university	2
+astrazeneca (sweden)	2
+algosystems (greece)	2
+air liquide (france)	2
+ain shams university	2
+zhejiang university	2
+university of wales	2
+university of tartu	2
+university of split	2
+university of rouen	2
+university of malta	2
+university of haifa	2
+university of chile	2
+profactor (austria)	2
+pa consulting group	2
+novozymes (denmark)	2
+mrc toxicology unit	2
+ministry of defence	2
+max rubner institut	2
+leibniz association	2
+kingston university	2
+istanbul university	2
+honeywell (czechia)	2
+diagenode (belgium)	2
+cukurova university	2
+columbia university	2
+bombardier (canada)	2
+biochemical society	2
+örebro university	2
+university of hull	2
+tekever (portugal)	2
+sichuan university	2
+shantou university	2
+sakarya university	2
+oncovision (spain)	2
+liebherr (germany)	2
+lavision (germany)	2
+jaume i university	2
+eurosolare (italy)	2
+tongji university	2
+spacetec partners	2
+skf (netherlands)	2
+polymun (austria)	2
+ospedale di parma	2
+monash university	2
+meggitt (denmark)	2
+mcgill university	2
+massey university	2
+kyushu university	2
+jacobs university	2
+genxpro (germany)	2
+genethon (france)	2
+eunited (belgium)	2
+cab international	2
+bangor university	2
+ankara university	2
+uninett (norway)	2
+siemens (france)	2
+robotnik (spain)	2
+nexans (germany)	2
+links foundation	2
+hunan university	2
+evotec (germany)	2
+cairo university	2
+biopolis (spain)	2
+alenia aermacchi	2
+synyo (austria)	2
+solvay (france)	2
+rmit university	2
+orange (france)	2
+nokia (germany)	2
+mines paristech	2
+duke university	2
+datamat (italy)	2
+alstom (france)	2
+acciona (spain)	2
+vitas (norway)	2
+keilir academy	2
+ege university	2
+hospital base	2
+fidia (italy)	2
+tribal group	2
+euroquality	2
+cic biogune	2
+abb (italy)	2
+ik4-lortek	2
+vicomtech	2
+genosafe	2
+panteia	2
+biogem	2
+ospedale niguarda ca' granda	1
+open university of catalonia	1
+nutrition sciences (belgium)	1
+baltic innovation agency (estonia)	1
+north estonia medical centre	1
+noray bioinformatics (spain)	1
+nemocnice jablonec nad nisou	1
+hôpital purpan	1
+barcelona biomedical research park	1
+national oceanography centre	1
+honda (germany)	1
+model animal research center	1
+mineral products association	1
+benaki phytopathological institute	1
+c-tech innovation (united kingdom)	1
+masquelier’s (netherlands)	1
+manros therapeutics (france)	1
+london south bank university	1
+kwr water research institute	1
+kaohsiung medical university	1
+itasca consultants (germany)	1
+istituto nazionale di ottica	1
+consorzio nazionale interuniversitario per le scienze del mare	1
+instytut badawczy leśnictwa	1
+institute of thermomechanics	1
+institute of marine research	1
+fooddrinkeurope	1
+institute of animal sciences	1
+fisk university	1
+centraal bureau voor de statistiek	1
+institut català d'oncologia	1
+centro ricerche produzioni animali	1
+hospital universitari de vic	1
+hospital san borja arriarán	1
+hospital naval almirante nef	1
+hospital militar de santiago	1
+explora (italy)	1
+hospital barros luco-trudeau	1
+estación experimental de aula dei	1
+hermanos ameijeiras hospital	1
+hafencity university hamburg	1
+great ormond street hospital	1
+european gravitational observatory	1
+engie (belgium)	1
+geological survey of austria	1
+institute of genetics and animal biotechnology of the polish academy of sciences	1
+dilas (germany)	1
+fondazione eni enrico mattei	1
+european university viadrina	1
+erasmus university rotterdam	1
+faraday technology (united states)	1
+dynamic biosensors (germany)	1
+feonic technology (united kingdom)	1
+dana-farber cancer institute	1
+circa group europe (ireland)	1
+centro tecnológico del agua	1
+denso (germany)	1
+leibniz institute dsmz – german collection of microorganisms and cell cultures	1
+danone (france)	1
+fiat chrysler automobiles (france)	1
+boston architectural college	1
+hospital das clínicas da universidade federal de minas gerais	1
+bioengineering (switzerland)	1
+bioclear earth (netherlands)	1
+bam nuttall (united kingdom)	1
+heidelberg university of education	1
+atomic weapons establishment	1
+hospital universitario de canarias	1
+würth elektronik (germany)	1
+hospital universitario puerto real	1
+wrocław medical university	1
+hospital universitario son espases	1
+comsis (france)	1
+university of new brunswick	1
+university of kwazulu-natal	1
+hôpital intercommunal de créteil	1
+india diabetes research foundation	1
+university hospital olomouc	1
+university hospital of bern	1
+university hospital cologne	1
+instituto tecnológico de canarias	1
+tutech innovation (germany)	1
+tokyo university of science	1
+chemtex (italy)	1
+texas a&m university system	1
+tata steel (united kingdom)	1
+tampere university hospital	1
+são paulo state university	1
+stmicroelectronics (france)	1
+st anna children's hospital	1
+southern federal university	1
+simpleware (united kingdom)	1
+international atomic energy agency	1
+jiangxi provincial cancer hospital	1
+manchester metropolitan university	1
+maria curie-skłodowska university	1
+national institute of oceanography	1
+rgb medical devices (spain)	1
+reykjavík energy (iceland)	1
+national university of río cuarto	1
+brain (germany)	1
+prisma electronics (greece)	1
+prairie view a&m university	1
+portugal telecom (portugal)	1
+pablo de olavide university	1
+osaka city general hospital	1
+norwegian meteorological institute	1
+bio base europe	1
+international centre for genetic engineering and biotechnology	1
+medical university of sofia	1
+main school of fire service	1
+leitat technological center	1
+raffinerie tirlemontoise (belgium)	1
+state education development agency	1
+barco (belgium)	1
+johnson & johnson (ireland)	1
+jawaharlal nehru university	1
+iti energy (united kingdom)	1
+istanbul medipol university	1
+isotest engineering (italy)	1
+swedish institute of space physics	1
+institute of plant genetics	1
+ihs markit (united kingdom)	1
+hospital virgen de la salud	1
+hospital napoleão laureano	1
+hospital de dona estefânia	1
+helios hospital berlin-buch	1
+tashkent state agrarian university	1
+geological survey of canada	1
+geological survey ljubljana	1
+fontanellas y marti (spain)	1
+flexenable (united kingdom)	1
+fisheries and oceans canada	1
+financial conduct authority	1
+fiberlogix (united kingdom)	1
+the university of texas at el paso	1
+expedition (united kingdom)	1
+excellence cluster universe	1
+thermo fisher scientific (germany)	1
+bank of england	1
+european broadcasting union	1
+tübi̇tak marmara research center	1
+eduardo mondlane university	1
+edif group (united kingdom)	1
+edf energy (united kingdom)	1
+dassault systèmes (france)	1
+città di castello hospital	1
+chonnam national university	1
+arttic (france)	1
+changhua christian hospital	1
+ultra electronics (united kingdom)	1
+belarusian state university	1
+austral university of chile	1
+university clinical centre maribor	1
+university hospital of montpellier	1
+amsterdam umc location vumc	1
+arkema (france)	1
+acteon environment (france)	1
+praxis	1
+university of picardie jules verne	1
+yaroslavl state university	1
+world wide fund for nature	1
+witten/herdecke university	1
+university of the west of scotland	1
+västra götaland regional council	1
+warsaw university of life sciences	1
+washington university in st. louis	1
+university of upper alsace	1
+university of pennsylvania	1
+wigner research centre for physics	1
+istituto di analisi dei sistemi ed informatica antonio ruberti	1
+łukasiewicz institute of aviation	1
+university of bedfordshire	1
+university of aosta valley	1
+agilis (greece)	1
+uk research and innovation	1
+uk quality ash association	1
+transport systems catapult	1
+stuttgart media university	1
+stmicroelectronics (italy)	1
+oniris	1
+slovenska narodna kniznica	1
+schneider electric (spain)	1
+saskatchewan cancer agency	1
+rockfield (united kingdom)	1
+amica science eeig (united kingdom)	1
+basilea pharmaceutica (switzerland)	1
+kompetenzzentrum für elektrochemische oberflächentechnologie	1
+plymouth marine laboratory	1
+abengoa (spain)	1
+pasteur hellenic institute	1
+pall corporation (germany)	1
+ospedale floraspe renzetti	1
+belarusian state medical university	1
+bern university of applied sciences	1
+zenon (greece)	1
+centre for economic policy research	1
+morrisons (united kingdom)	1
+wellcome trust	1
+montclair state university	1
+ministério da agricultura	1
+ministère de l'intérieur	1
+ministry of social affairs	1
+medical university of graz	1
+mario negri sud foundation	1
+louisiana state university	1
+lallemand (united kingdom)	1
+ionicon analytik (austria)	1
+instytut zywnosci zywienia	1
+institute for bee research	1
+hospital virgen del camino	1
+hospital regional rancagua	1
+hospital regional de talca	1
+hospital italiano la plata	1
+hospital general san jorge	1
+centre national d'études spatiales	1
+centro agricoltura ambiente (italy)	1
+government medical college	1
+glasgow victoria infirmary	1
+children's hospital of philadelphia	1
+fujian provincial hospital	1
+école nationale supérieure de mécanique et d'aérotechnique	1
+chinese academy of fishery sciences	1
+faure equipements (france)	1
+fakultní nemocnice plzeň	1
+dunarea de jos university of galati	1
+enginsoft (united kingdom)	1
+emergency services college	1
+elumotion (united kingdom)	1
+dr george mukhari hospital	1
+leibniz-institute for food systems biology at the technical university of munich	1
+deutsche telekom (germany)	1
+finnish safety and chemicals agency	1
+valeo (france)	1
+gujarat cancer & research institute	1
+trias (greece)	1
+centre for social sciences	1
+transportforsk	1
+birmingham city university	1
+total (france)	1
+hospital universitario doctor peset	1
+hospital universitario severo ochoa	1
+institute of electrical engineering	1
+xinxiang central hospital	1
+instituto cardiovascular de rosario	1
+wavec offshore renewables	1
+virtual vehicle (austria)	1
+velcourt (united kingdom)	1
+université de sherbrooke	1
+thales (spain)	1
+instituto nacional de cancerología	1
+institutul de bioresurse alimentare	1
+university of northampton	1
+leibniz-institute for new materials	1
+ljubljana university medical centre	1
+university of la rochelle	1
+university of east london	1
+madras diabetes research foundation	1
+university of antofagasta	1
+mrc laboratory of molecular biology	1
+oxford nanoimaging (united kingdom)	1
+polytechnic university of cartagena	1
+universiti putra malaysia	1
+unilever (united kingdom)	1
+uk green building council	1
+the graduate center, cuny	1
+rabindranath tagore medical college	1
+thales (italy)	1
+st bartholomew's hospital	1
+spectris (united kingdom)	1
+southern cross university	1
+ted university	1
+universidad autónoma metropolitana	1
+university hospital of north norway	1
+argus umweltbiotechnologie (germany)	1
+roquette frères (france)	1
+rlp agroscience (germany)	1
+regenxbio (united states)	1
+portland state university	1
+atard defense and aerospace industry	1
+paris school of economics	1
+beth israel deaconess medical center	1
+oxford brookes university	1
+ostschweizer kinderspital	1
+open university of israel	1
+oita prefectural hospital	1
+brandenburg university of technology	1
+monition (united kingdom)	1
+ministère de la défense	1
+miltenyi biotec (germany)	1
+mendel university in brno	1
+kumamoto central hospital	1
+king abdulaziz university	1
+centre hospitalier etterbeek-ixelles	1
+children's memorial health institute	1
+institute of parasitology	1
+institute of microbiology	1
+institut pasteur de dakar	1
+hôpital armand-trousseau	1
+hospital moinhos de vento	1
+hospital materno-infantil	1
+hendrix genetics (france)	1
+grenoble alpes university	1
+government of extremadura	1
+glaxosmithkline (germany)	1
+glaxosmithkline (belgium)	1
+ghent university hospital	1
+ganzhou people's hospital	1
+city of hope national medical center	1
+cyprus research and academic network	1
+sigma clermont	1
+european forest institute	1
+eicas automazione (italy)	1
+ealing hospital nhs trust	1
+setas (turkey)	1
+dantec dynamics (germany)	1
+danish meat trade college	1
+czech academy of sciences	1
+ramapo college	1
+consorzio milano ricerche	1
+coherent (united kingdom)	1
+cereal research (hungary)	1
+pomona college	1
+centre bretagne-normandie	1
+centre antoine lacassagne	1
+namsa (france)	1
+cadcamation (switzerland)	1
+mermec (italy)	1
+czech centre for science and society	1
+department of science and technology	1
+anhui provincial hospital	1
+andalusian health service	1
+afyon kocatepe university	1
+xention (united kingdom)	1
+westfälische hochschule	1
+vacuumschmelze (germany)	1
+dipartimento della protezione civile	1
+dynex semiconductor (united kingdom)	1
+european plate observing system eric	1
+marlo (norway)	1
+university of the azores	1
+fondazione idis città della scienza	1
+lego (denmark)	1
+gf machining solutions (switzerland)	1
+university of st. gallen	1
+giunti intenational division (italy)	1
+helmholtz-zentrum dresden-rossendorf	1
+university of queensland	1
+university of portsmouth	1
+all russian scientific research institute of aviation materials	1
+hospital sant joan de déu barcelona	1
+organisation de coordination pour la lutte contre les endémies en afrique centrale	1
+university of montenegro	1
+institute for scientific interchange	1
+intrasoft international (luxembourg)	1
+university of louisville	1
+johann heinrich von thünen-institut	1
+university of greifswald	1
+libera università maria ss. assunta	1
+natural environment research council	1
+jotne (norway)	1
+research centre for natural sciences	1
+slac national accelerator laboratory	1
+ipb university	1
+university hospital brno	1
+unione nazionale industria conciaria	1
+universidad de los andes	1
+tu bergakademie freiberg	1
+universidade federal de minas gerais	1
+university of california, santa cruz	1
+intecs (italy)	1
+university of maryland, college park	1
+swedish chemicals agency	1
+staffordshire university	1
+st petersburg university	1
+world conservation monitoring centre	1
+zabala innovation consulting (spain)	1
+siemens (united kingdom)	1
+semelab (united kingdom)	1
+adam mickiewicz university in poznań	1
+royal veterinary college	1
+rinicom (united kingdom)	1
+rijk zwaan (netherlands)	1
+instytut technik telekomunikacyjnych i informatycznych (poland)	1
+anhalt university of applied sciences	1
+rechts der isar hospital	1
+ramboll (united kingdom)	1
+barcelona institute for global health	1
+procter & gamble (italy)	1
+children's medical research institute	1
+complejo asistencial sótero del río	1
+ortelio (united kingdom)	1
+nuclera (united kingdom)	1
+cs communication & systèmes (france)	1
+nicosia general hospital	1
+nestlé (united kingdom)	1
+inerco (spain)	1
+donawa lifescience consulting (italy)	1
+ministry of the interior	1
+meritor (united kingdom)	1
+inbios (italy)	1
+element materials technology (sweden)	1
+general university hospital in prague	1
+ldi innovation (estonia)	1
+i.co.p (italy)	1
+german institute of food technologies	1
+jichi medical university	1
+institute of mathematics	1
+greater manchester combined authority	1
+institut mines-télécom	1
+institut claudius regaud	1
+idiap research institute	1
+greek research and technology network	1
+hexagon (united kingdom)	1
+hospital universitario puerta del mar	1
+health service executive	1
+grønlands naturinstitut	1
+institut de biologie physico-chimique	1
+institute of advanced studies kőszeg	1
+institute of environmental protection	1
+enza zaden (netherlands)	1
+duran i reynals hospital	1
+institute of philosophy and sociology	1
+institute of psychiatry and neurology	1
+covance (united kingdom)	1
+instituto de astrofísica de canarias	1
+colorado school of mines	1
+colegio de postgraduados	1
+chulalongkorn university	1
+central mining institute	1
+kongsberg satellite services (norway)	1
+british heart foundation	1
+bradford royal infirmary	1
+bluebotics (switzerland)	1
+swiss federal laboratories for materials science and technology	1
+guy's hospital	1
+lappeenranta university of technology	1
+liaoning provincial people's hospital	1
+liverpool school of tropical medicine	1
+vilmorin & cie (france)	1
+frere hospital	1
+ural federal university	1
+meyer burger technology (switzerland)	1
+nizam's institute of medical sciences	1
+oxford university hospitals nhs trust	1
+security technology competence centre	1
+stamatopoulos and associates (greece)	1
+university of stavanger	1
+turkish aerospace industries (turkey)	1
+university of reims champagne-ardenne	1
+university of primorska	1
+university of perpignan	1
+centro de supercomputación de galicia	1
+facc (austria)	1
+chinese academy of geological sciences	1
+christie hospital nhs foundation trust	1
+university of los lagos	1
+cooperativa sociale cooss marche onlus	1
+fondazione toscana gabriele monasterio	1
+geicam – spanish breast cancer group	1
+european union	1
+euro-argo eric	1
+esaote (italy)	1
+german institute for economic research	1
+university of greenwich	1
+hamburg university of applied sciences	1
+hospital das clínicas samuel libânio	1
+hospital universitario virgen macarena	1
+infineon technologies (united kingdom)	1
+university of brawijaya	1
+university of brasília	1
+institute of tropical medicine antwerp	1
+instituto tecnológico de informática	1
+engie (france)	1
+irccs materno infantile burlo garofolo	1
+universidad ort uruguay	1
+udmurt state university	1
+elia (belgium)	1
+karpov institute of physical chemistry	1
+the royal free hospital	1
+the pirbright institute	1
+mineral industry research organisation	1
+oceanic platform of the canary islands	1
+solvay (united kingdom)	1
+egi foundation	1
+servicexs (netherlands)	1
+selex sistemi integrati	1
+rio tinto (switzerland)	1
+princess máxima center	1
+raytheon technologies (united kingdom)	1
+royal free london nhs foundation trust	1
+oxitec (united kingdom)	1
+osaka national hospital	1
+oregon state university	1
+oclaro (united kingdom)	1
+northwick park hospital	1
+martel	1
+northeastern university	1
+natural resources wales	1
+ministère de la santé	1
+manchester city council	1
+e geos (italy)	1
+kawasaki medical school	1
+dubbo hospital	1
+south african medical research council	1
+john radcliffe hospital	1
+st mary's university twickenham london	1
+university hospital mútua de terrassa	1
+vilnius gediminas technical university	1
+agriculture and agriculture-food canada	1
+all india institute of medical sciences	1
+hôpital rené huguenin	1
+hospital de santa maria	1
+hospital de carabineros	1
+hospital clínico fusat	1
+dompé (italy)	1
+deutsche welle	1
+california state university, long beach	1
+hainan general hospital	1
+hadassah medical center	1
+government of catalonia	1
+center for social and economic research	1
+fox chase cancer center	1
+food research institute	1
+fermi research alliance	1
+federalimentare (italy)	1
+exergy (united kingdom)	1
+dupont (united kingdom)	1
+center of applied aeronautical research	1
+dokuz eylül university	1
+cherry biotech (france)	1
+centro brasileiro de pesquisas físicas	1
+centre franois baclesse	1
+cathay general hospital	1
+dienstleistungszentrum ländlicher raum	1
+bureau veritas (france)	1
+bioindustry association	1
+european transonic windtunnel (germany)	1
+european university at saint petersburg	1
+university of applied sciences and arts of southern switzerland	1
+federal university of rio grande do sul	1
+fundação para a ciência e tecnologia	1
+atit (belgium)	1
+wolfson medical center	1
+wacker group (germany)	1
+ihe delft institute for water education	1
+inner mongolia medical college hospital	1
+university of wrocław	1
+instituto de infectologia emílio ribas	1
+international flame research foundation	1
+university of stirling	1
+ansys (canada)	1
+center for advanced studies research and development in sardinia	1
+john lewis partnership (united kingdom)	1
+acorde (spain)	1
+maritime research institute netherlands	1
+university of pannonia	1
+university of orléans	1
+istituto nazionale per le malattie infettive lazzaro spallanzani	1
+national academy of sciences of armenia	1
+university of missouri	1
+national institute for medical research	1
+national institutes of natural sciences	1
+university of limerick	1
+university of le havre	1
+polytechnic institute of castelo branco	1
+redes energéticas nacionais (portugal)	1
+smithsonian tropical research institute	1
+the medical oncology centre of rosebank	1
+university of kentucky	1
+triad national security (united states)	1
+university of california, santa barbara	1
+école normale supérieure paris-saclay	1
+abbott (spain)	1
+alliance for clinical trials in oncology	1
+autonomous university of baja california	1
+centre hospitalier universitaire de nice	1
+centre tecnològic forestal de catalunya	1
+university of carthage	1
+centro tessile cotoniero e abbigliamento	1
+darmstadt university of applied sciences	1
+european science communication institute	1
+european thermodynamics (united kingdom)	1
+forschungsinstitut für kinderernährung	1
+centro de investigación y extensión forestal andino patagónico	1
+hospital universitario virgen del rocío	1
+industriell design og teknologi (norway)	1
+institut national agronomique de tunisie	1
+terna (italy)	1
+tecnoalimenti	1
+forschungsinstitut für anwendungsorientierte wissensverarbeitung	1
+institute of fluid mechanics of toulouse	1
+institute of mathematics and informatics	1
+instituto tecnico agronómico provincial	1
+lahore university of management sciences	1
+tesco (united kingdom)	1
+marine information service (netherlands)	1
+södertörn university	1
+syngenta (netherlands)	1
+national aeronautical research institute	1
+stockholm municipality	1
+statens serum institut	1
+national autonomous university of mexico	1
+serco (united kingdom)	1
+saft (france)	1
+salem state university	1
+saint louis university	1
+norwegian defence research establishment	1
+oslomet – oslo metropolitan university	1
+rtd services (austria)	1
+royal military academy	1
+royal marsden hospital	1
+rockefeller university	1
+ministerio de agricultura y pesca, alimentación y medio ambiente	1
+queen's medical centre	1
+ospedale ferdinando veneziale di isernia	1
+proton motor (germany)	1
+pfizer (united states)	1
+pamela youde nethersole eastern hospital	1
+research institute for knowledge systems	1
+ny carlsberg glyptotek	1
+swiss group for clinical cancer research	1
+rwe (germany)	1
+nokia (united kingdom)	1
+nexor (united kingdom)	1
+new hope liuhe (china)	1
+nederlandse spoorwegen	1
+natural history museum	1
+national cancer centre	1
+nanotecmarin (germany)	1
+nanobiomatters (spain)	1
+nagoya city university	1
+pca engineers	1
+lusas (united kingdom)	1
+lublin oncology center	1
+kraussmaffei (germany)	1
+kodak (united kingdom)	1
+museo galileo	1
+jönköping university	1
+johns hopkins medicine	1
+man (germany)	1
+united institute of informatics problems	1
+frédéric joliot-curie national research institute for radiobiology and radiohygiene	1
+infn sezione di roma i	1
+infn sezione di genova	1
+imdea energy institute	1
+hospital araújo jorge	1
+hit09 (italy)	1
+groote schuur hospital	1
+giotto biotech (italy)	1
+geographical institute	1
+gembloux agro-bio tech	1
+university of veterinary medicine vienna	1
+national institute for research and development of isotopic and molecular technologies	1
+europa media (hungary)	1
+elbit systems (israel)	1
+academic and research network of slovenia	1
+aerospace & advanced composites (austria)	1
+double delta (hungary)	1
+all-russian institute of plant protection	1
+dauphin island sea lab	1
+charing cross hospital	1
+fev (germany)	1
+associated british foods (united kingdom)	1
+bioactor (netherlands)	1
+basque culinary center	1
+ayuntamiento de madrid	1
+azienda ospedaliero-universitaria careggi	1
+air products (germany)	1
+agricultural institute	1
+collecte localisation satellites (france)	1
+addenbrooke's hospital	1
+actelion (switzerland)	1
+fakultní nemocnice královské vinohrady	1
+guy's and st thomas' nhs foundation trust	1
+ziekenhuis amstelland	1
+university of łódź	1
+university of wyoming	1
+national institute of infectious diseases	1
+national institute of occupational health	1
+national laboratory of energy and geology	1
+university of skövde	1
+nottingham university hospitals nhs trust	1
+personal space technologies (netherlands)	1
+plant bioscience limited (united kingdom)	1
+pontificia universidad católica de chile	1
+research institute of the finnish economy	1
+royal meteorological institute of belgium	1
+university of chinese academy of sciences	1
+esi (germany)	1
+duchy college	1
+école nationale d'agriculture de meknès	1
+cf consulting finanziamenti unione europea	1
+university of ostrava	1
+university of nigeria	1
+university of nicosia	1
+draxis environmental technologies (greece)	1
+empresa pública de emergencias sanitarias	1
+university of maribor	1
+conciaricerca	1
+ciência viva	1
+geological survey of denmark and greenland	1
+hanoi university of science and technology	1
+hospital doctor hernán henríquez aravena	1
+hospital regional universitario de málaga	1
+university of georgia	1
+institute of chemical process fundamentals	1
+cic biomagune	1
+magyar agrár- és élettudományi egyetem	1
+new york university langone medical center	1
+norwegian institute of bioeconomy research	1
+united nations human settlements programme	1
+école nationale forestière d'ingénieurs	1
+bavarian center for applied energy research	1
+chaohu hospital of anhui medical university	1
+conservatoire national des arts et métiers	1
+dr. b.r.a. institute rotary cancer hospital	1
+euro-mediterranean water information system	1
+british glass	1
+university of alcalá	1
+hainan modern women and children's hospital	1
+universidad de sonora	1
+uninettuno university	1
+hospital universitario virgen de las nieves	1
+titan cement (greece)	1
+bmw (germany)	1
+telscom (switzerland)	1
+technobiochip (italy)	1
+institute for physics and power engineering	1
+steno diabetes center	1
+shikoku cancer center	1
+semmelweis university	1
+schlumberger (france)	1
+amo (germany)	1
+institute of animal physiology and genetics	1
+roche (united states)	1
+robert koch institute	1
+institute of cancer research of montpellier	1
+instituto brasileiro de controle do câncer	1
+policlinico di modena	1
+philips (netherlands)	1
+perkinelmer (finland)	1
+pepscan (netherlands)	1
+paul ehrlich institut	1
+wirelessinfo	1
+osnabrück university	1
+normandie université	1
+newbiotechnic (spain)	1
+neurosearch (denmark)	1
+italian oncology group of clinical research	1
+nemocnice kutná hora	1
+nagoya medical center	1
+leibniz institute of environmental medicine	1
+mrk systeme (germany)	1
+microvacuum (hungary)	1
+national association of research and educational e-infrastructures	1
+max planck institute for molecular genetics	1
+lismore base hospital	1
+ministry of agriculture and agrarian reform	1
+cartif	1
+national institute of industrial technology	1
+tante louise	1
+kaplan medical center	1
+nederlands instituut voor zuivel oonderzoek	1
+rutgers, the state university of new jersey	1
+joint research center	1
+iowa state university	1
+institut jules bordet	1
+innospexion (denmark)	1
+ilia state university	1
+sustainable energy systems (united kingdom)	1
+hôpital jean-verdier	1
+hôpital de la timone	1
+hubei cancer hospital	1
+hospital san bernardo	1
+hospital las higueras	1
+hospital del salvador	1
+a.v. luikov heat and mass transfer institute	1
+german primate center	1
+freeman health system	1
+evangelismos hospital	1
+ellinogermaniki agogi	1
+ekoinwentyka (poland)	1
+aschaffenburg university of applied sciences	1
+centre national de la recherche scientifique	1
+délégation régionale occitanie pyrénées	1
+coastal cancer center	1
+chr. hansen (denmark)	1
+samo (italy)	1
+bühler (switzerland)	1
+ethiopian institute of agricultural research	1
+biotecmarin (germany)	1
+biotalentum (hungary)	1
+berkeley city college	1
+astri polska (poland)	1
+école nationale supérieure de chimie, de biologie et de physique	1
+asahi glass (belgium)	1
+šiauliai university	1
+lmu klinikum	1
+gkn (sweden)	1
+gkn (norway)	1
+université du maine	1
+fundación josep carreras contra la leucemia	1
+university of évora	1
+hospital clínico universitario lozano blesa	1
+iclei - local governments for sustainability	1
+institut für getreideverarbeitung (germany)	1
+instituut voor landbouw en visserijonderzoek	1
+international life sciences institute europe	1
+king's college hospital nhs foundation trust	1
+n.d. zelinsky institute of organic chemistry	1
+national health and medical research council	1
+university of trnava	1
+national institute of industrial engineering	1
+university of tirana	1
+royal netherlands institute for sea research	1
+university of szeged	1
+scientific and technical center for building	1
+taras shevchenko national university of kyiv	1
+universidad nacional pedro henríquez ureña	1
+university of applied sciences upper austria	1
+école des hautes études en santé publique	1
+agency for science, innovation and technology	1
+centre for innovation excellence in livestock	1
+centro tecnológico de automoción de galicia	1
+consorzio interuniversitario nazionale ensiel	1
+european space research and technology centre	1
+forschungs- und technologietransfer (austria)	1
+hospital general universitario de ciudad real	1
+institut de recerca de l'energia de catalunya	1
+institut national de la recherche agronomique	1
+university of leoben	1
+institute of mathematics and computer science	1
+king edward memorial hospital research centre	1
+university of kansas	1
+university of jordan	1
+hospital of lithuanian university of health sciences kaunas clinics	1
+kopint-tárki institute for economic research	1
+university of gabès	1
+mediterranean agronomic institute of zaragoza	1
+national nuclear corporation (united kingdom)	1
+netherlands comprehensive cancer organisation	1
+university of deusto	1
+university of denver	1
+oxford nanopore technologies (united kingdom)	1
+pushchino state institute of natural sciences	1
+slovak university of technology in bratislava	1
+agriculture and horticulture development board	1
+university of angers	1
+bonn-rhein-sieg university of applied sciences	1
+center for renewable energy sources and saving	1
+the foundling museum	1
+sulzer (switzerland)	1
+complejo hospitalario universitario de granada	1
+steinbeis foundation	1
+esi (france)	1
+sheba medical center	1
+council for scientific and industrial research	1
+sainsbury laboratory	1
+rabin medical center	1
+r-biopharm (germany)	1
+probiodrug (germany)	1
+princeton university	1
+primmbiotech (italy)	1
+cyprus research and innovation center (cyprus)	1
+pamukkale university	1
+otto fuchs (germany)	1
+ospedale san camillo	1
+oceanwaves (germany)	1
+ocean medical center	1
+nxp (united kingdom)	1
+norsk hydro (sweden)	1
+european marine biology resource center - eric	1
+nemetschek (germany)	1
+musik akademie basel	1
+mondragon university	1
+hubrecht institute for developmental biology and stem cell research	1
+federal university of toulouse midi-pyrénées	1
+matej bel university	1
+macquarie university	1
+luigi sacco hospital	1
+leo pharma (denmark)	1
+hospital universitario insular de gran canaria	1
+institut de recherche en sciences de la santé	1
+istituto tumori bari	1
+instytut ogrodnictwa	1
+institut für arbeitsmarkt und berufsforschung	1
+institut supérieur d'agriculture rhône-alpes	1
+institute of theoretical and applied mechanics	1
+national research institute of rural engineering, water and forests	1
+ceramics and refractories technological development company (greece)	1
+harokopio university	1
+israel oceanographic and limnological research	1
+gkn (united kingdom)	1
+genexplain (germany)	1
+frederick university	1
+eurogentec (belgium)	1
+dyadic (netherlands)	1
+ivl - swedish environmental research institute	1
+dnv gl (netherlands)	1
+diamond light source	1
+mediterranean center for environmental studies	1
+national center for geriatrics and gerontology	1
+public health authority of the slovak republic	1
+continental (france)	1
+concordia university	1
+clinica mediterranea	1
+scientific computing & modelling (netherlands)	1
+statistical office of the republic of slovenia	1
+centre léon bérard	1
+biomérieux (france)	1
+technological educational institute of piraeus	1
+beiersdorf (germany)	1
+istituto nazionale di documentazione innovazione e ricerca educativa	1
+università degli studi internazionali di roma	1
+ataf (italy)	1
+abb (sweden)	1
+wye college	1
+agrico (netherlands)	1
+agence france-presse	1
+aeroconseil (france)	1
+adaptronica (poland)	1
+vetagro sup	1
+vattenfall (sweden)	1
+technopolis	1
+ural branch of the russian academy of sciences	1
+austrian breast & colorectal cancer study group	1
+ceramiques techniques et industrielles (france)	1
+institut agronomique et vétérinaire hassan ii	1
+institute of communication and computer systems	1
+smart homes	1
+rand europe	1
+institute of fundamental technological research	1
+onkologikoa	1
+institute of molecular science and technologies	1
+institute of problems of mechanical engineering	1
+institute of soil science and plant cultivation	1
+integrated resources management company (malta)	1
+university of otago	1
+international institute of tropical agriculture	1
+istituto nazionale di riposo e cura per anziani	1
+ministry of economic affairs and climate policy	1
+ohb (italy)	1
+national institute of applied sciences of rouen	1
+p.a. hertzen moscow oncology research institute	1
+university of jaén	1
+mayo clinic	1
+research academic computer technology institute	1
+versailles saint-quentin-en-yvelines university	1
+école pratique des hautes études commerciales	1
+maiz'europ'	1
+ankara onkoloji eğitim ve araştırma hastanesi	1
+university of agder	1
+universidade aberta	1
+transvalor (france)	1
+carol davila university of medicine and pharmacy	1
+cicero center for international climate research	1
+telefónica (spain)	1
+european regions research and innovation network	1
+technikon (austria)	1
+europäisches centrum für mechatronik (germany)	1
+ferrobotics compliant robot technology (austria)	1
+st. luke's hospital	1
+spacetech (germany)	1
+georgi nadjakov institute of solid state physics	1
+sivers ima (sweden)	1
+shell (netherlands)	1
+helmholtz association of german research centres	1
+hospital naval almirante adriazola de talcahuano	1
+saarstahl (germany)	1
+institut d'investigació biomédica de bellvitge	1
+institute of biodiversity and ecosystem research	1
+international maize and wheat improvement center	1
+kerala veterinary and animal sciences university	1
+protobios (estonia)	1
+prokazyme (iceland)	1
+national institute for research and development in microtechnologies	1
+prodigest (belgium)	1
+ima (italy)	1
+ospedale di bolzano	1
+ibm (italy)	1
+national hospital for neurology and neurosurgery	1
+gvs (italy)	1
+morningside college	1
+montpellier supagro	1
+gns science	1
+metralabs (germany)	1
+metalogic (belgium)	1
+european university of rome	1
+makerere university	1
+northeast institute of geography and agroecology	1
+librt (netherlands)	1
+eurocontrol	1
+lagardère (france)	1
+verum - foundation for behaviour and environment	1
+kumamoto university	1
+european multidisciplinary seafloor and water column observatory - eric	1
+it+robotics (italy)	1
+access	1
+intermarine (italy)	1
+advanced technology centre for renewable energies	1
+institut de soudure	1
+azienda del consorzio trasporti veneziano (italy)	1
+fraunhofer institute for applied polymer research	1
+hospital de mataró	1
+hospital de basurto	1
+hospital d'igualada	1
+biodonostia	1
+hokkaido university	1
+gruppo clas (italy)	1
+hospital general universitario gregorio marañón	1
+institut français du textile et de l'habillement	1
+apr (italy)	1
+de agostini (italy)	1
+agence mtda	1
+institute for informatics and automation problems	1
+accare	1
+instituto nacional de investigación agropecuaria	1
+chemetall (germany)	1
+régie autonome des transports parisiens (france)	1
+cancer care ontario	1
+swedish meteorological and hydrological institute	1
+universeum	1
+biotrend (portugal)	1
+unilasalle	1
+bayer (netherlands)	1
+universidad michoacana de san nicolás de hidalgo	1
+alfa laval (sweden)	1
+agrovegetal (spain)	1
+age platform europe	1
+institut d'investigació en ciències de la salut germans trias i pujol	1
+zagazig university	1
+western university	1
+university of shanghai for science and technology	1
+va-q-tec (germany)	1
+centro tecnológico agroalimentario de extremadura	1
+engineering and physical sciences research council	1
+german research centre for artificial intelligence	1
+university of utah	1
+hospital santiago oriente - dr. luis tisne brousse	1
+university of pecs	1
+inria rennes - bretagne atlantique research centre	1
+instituto tecnológico agrario de castilla y león	1
+istituto sperimentale italiano lazzaro spallanzani	1
+nanjing university of aeronautics and astronautics	1
+national institute of economic and social research	1
+national science and technology development agency	1
+institute of quality standards and testing technology for agro products	1
+national scientific and technical research council	1
+national wool growers associations of south africa	1
+university of south bohemia in české budějovice	1
+austrian institute for european and security policy	1
+centre de recherche en nutrition humaine d'auvergne	1
+hospital regional de arica doctor juan noé crevani	1
+imdea food	1
+hospital universitario puerta de hierro majadahonda	1
+tallinn university	1
+systemite (sweden)	1
+international soil reference and information centre	1
+susquehanna health	1
+statistics finland	1
+st george hospital	1
+spaarne ziekenhuis	1
+ikerbasque	1
+riken	1
+gbs leiden	1
+saitama university	1
+ruag (switzerland)	1
+rio tinto (france)	1
+recordati (france)	1
+public and science	1
+proximus (belgium)	1
+plovdiv university	1
+paris 8 university	1
+ospedale sant'anna	1
+national interuniversity consortium of materials science and technology	1
+nzytech (portugal)	1
+nanjing university	1
+marine biological association of the united kingdom	1
+medtronic (france)	1
+national hospital organization kyushu cancer center	1
+mater dei hospital	1
+pontifical catholic university of rio grande do sul	1
+marconi university	1
+liverpool hospital	1
+lincoln university	1
+andalusian institute of agricultural and fisheries research and training	1
+spanish national centre for cardiovascular research	1
+centrum badań molekularnych i makromolekularnych polskiej akademii nauk	1
+bionanonet	1
+jackson laboratory	1
+isovolta (austria)	1
+instituto palacios	1
+institut bergonié	1
+incontec (germany)	1
+in_society (italy)	1
+hôpitaux iris sud	1
+hospital la serena	1
+hoppecke (germany)	1
+hoerbiger (sweden)	1
+asm centre for research and analysis market (poland)	1
+federal institute for materials research and testing	1
+helmholtz institute freiberg for resource technology	1
+grundfos (denmark)	1
+grontmij (denmark)	1
+greenovate! europe	1
+geophysical center	1
+genibet (portugal)	1
+gemeente amsterdam	1
+hospital universitario nuestra señora de candelaria	1
+international council for the exploration of the sea	1
+agresearch	1
+erciyes university	1
+iuliu hațieganu university of medicine and pharmacy	1
+enterprise ireland	1
+leibniz institute on aging - fritz lipmann institute	1
+dalarna university	1
+mnj institute of oncology and regional cancer centre	1
+national research centre for the working environment	1
+national taiwan university of science and technology	1
+capgemini (france)	1
+école nationale supérieure de techniques avancées	1
+a. n. nesmeyanov institute of organoelement compounds	1
+biosense institute	1
+bilkent university	1
+avia-gis (belgium)	1
+austrian red cross	1
+alpex technologies	1
+akdeniz university	1
+abertay university	1
+alexander fleming biomedical sciences research center	1
+wölfel (germany)	1
+westmead hospital	1
+experimental station for the food preserving industry	1
+hahn-schickard-gesellschaft für angewandte forschung	1
+hospital oncológico docente conrado benítez garcía	1
+tritecc (romania)	1
+africarice	1
+hospital universitario de gran canaria doctor negrín	1
+tenneco (belgium)	1
+statistics sweden	1
+statistics norway	1
+surf	1
+national institute of chemical physics and biophysics	1
+sm geodim (spain)	1
+ticbiomed	1
+simplan (germany)	1
+první brněnská strojírna velká bíteš (czechia)	1
+research institute for regional and urban development	1
+sejong university	1
+schmalz (germany)	1
+école nationale supérieure de chimie de montpellier	1
+quretec (estonia)	1
+european centre for social welfare policy and research	1
+the mount	1
+ospedale maggiore	1
+d.i. ivanovsky institute of virology russian academy of medical sciences	1
+fields institute for research in mathematical sciences	1
+necton (portugal)	1
+nanocyl (belgium)	1
+iii v lab	1
+ticsalut	1
+medtronic (spain)	1
+national research development institute for animal biology and nutrition	1
+austrian competence centre for feed and food quality safety and innovation	1
+istituto nazionale di alta matematica francesco severi	1
+norddeutsche pflanzenzucht hans-georg lembke (germany)	1
+supélec	1
+swedish national road and transport research institute	1
+nordunet	1
+irbm science park	1
+insysbio (russia)	1
+imaginary (italy)	1
+iberdrola (spain)	1
+hôpital l'archet	1
+hvidovre hospital	1
+hospital español	1
+hospital de león	1
+hexagon (germany)	1
+hexagon (belgium)	1
+hebron university	1
+gwt-tud (germany)	1
+glanbia (ireland)	1
+georg speyer haus	1
+ixscient	1
+innovent	1
+finnish red cross	1
+evanston hospital	1
+ing bank	1
+technical university of civil engineering of bucharest	1
+enginsoft (italy)	1
+efacec (portugal)	1
+third affiliated hospital of harbin medical university	1
+dsm (netherlands)	1
+dornier (germany)	1
+best - bioenergy and sustainable technologies (austria)	1
+climate analytics	1
+cenim - centro nacional de investigaciones metalurgicas	1
+nugo	1
+box hill hospital	1
+federal institute for geosciences and natural resources	1
+biomotif (sweden)	1
+bekaert (belgium)	1
+centre for applied psychology, environmental and social research (germany)	1
+assystem (france)	1
+artois university	1
+argerich hospital	1
+arctur (slovenia)	1
+deltares	1
+anaxomics (spain)	1
+amphos 21 (spain)	1
+alacris (germany)	1
+agritec (czechia)	1
+aerotek (germany)	1
+aeromechs (italy)	1
+academy of athens	1
+institute of information and communication technologies	1
+össur (iceland)	1
+xunta de galicia	1
+catalyse	1
+institute of molecular and clinical ophthalmology basel	1
+ubitech (greece)	1
+tecnatom (spain)	1
+synovo (germany)	1
+institute of textile technology and process engineering	1
+national research university higher school of economics	1
+soil association	1
+research centre inria sophia antipolis - méditerranée	1
+asl roma	1
+schunk (germany)	1
+sanofi (germany)	1
+safran (belgium)	1
+romanian academy	1
+uninova	1
+st george’s university hospitals nhs foundation trust	1
+state research institute centre for innovative medicine	1
+qiagen (germany)	1
+qiagen (denmark)	1
+qatar university	1
+paragon (greece)	1
+university of sciences and technology houari boumediene	1
+nitte university	1
+institute of geography and spatial organization, polish academy of sciences	1
+nemocnice znojmo	1
+myriad (germany)	1
+maurer (germany)	1
+centro tecnológico de la industria cárnica de la rioja	1
+contaminated land: applications in the real environments	1
+magen david adom	1
+georgian research and educational networking association	1
+loccioni (italy)	1
+sanquin	1
+research foundation for the state university of new york	1
+d. mendeleyev university of chemical technology of russia	1
+department of the environment, climate and communications	1
+fraunhofer institute for ceramic technologies and systems	1
+inotex (czechia)	1
+ingeteam (spain)	1
+ruralis	1
+hospital jihlava	1
+hospital dipreca	1
+instituto de investigaciones biológicas clemente estable	1
+hospital de base	1
+hospital alemán	1
+instytut biologii doświadczalnej im. marcelego nenckiego	1
+research institute of geodesy, topography and cartography	1
+gunma university	1
+société nationale des chemins de fer français (france)	1
+geelong hospital	1
+fudan university	1
+confederation of national associations of tanners and dressers of the european community	1
+swiss federal institute of aquatic science and technology	1
+eurorad (france)	1
+embraer (brazil)	1
+ecoloop (sweden)	1
+dupont (denmark)	1
+deutsches museum	1
+university of architecture, civil engineering and geodesy	1
+danbury hospital	1
+danaher (sweden)	1
+cyprus institute	1
+cismet (germany)	1
+chiba university	1
+centma (germany)	1
+cancer institute	1
+national institute for research and development in environmental protection	1
+ikerlan	1
+agricultural development advisory service (united kingdom)	1
+artelia (france)	1
+arccore (sweden)	1
+all4tec (france)	1
+gabo:mi	1
+centre technique de la conservation des produits agricoles	1
+agrobioinstitute	1
+european organisation for research and treatment of cancer	1
+fraunhofer institute for microengineering and microsystems	1
+actigen (norway)	1
+instituto tecnologico del embalaje, transporte y logistica	1
+york university	1
+organic waste systems (belgium)	1
+national metereological service	1
+oxford metrics (united kingdom)	1
+post and telecom administration	1
+yandex (russia)	1
+princess margaret cancer centre	1
+royal museum for central africa	1
+sahlgrenska university hospital	1
+kaunas university of technology	1
+johnson & johnson (switzerland)	1
+st. anne´s university hospital	1
+istituto superiore mario boella	1
+istanbul university cerrahpaşa	1
+international water association	1
+international union of railways	1
+international olympic committee	1
+instituto de telecomunicações	1
+institute of oncology nn petrov	1
+institute of oncology ljubljana	1
+ministry of agriculture, natural resources and environment	1
+institute of materials research	1
+technical university of moldova	1
+technological university dublin	1
+hôpital necker-enfants malades	1
+tun abdul razak research centre	1
+united states geological survey	1
+german sport university cologne	1
+university of the witwatersrand	1
+università degli studi ecampus	1
+fundación arturo lópez pérez	1
+école centrale d'électronique	1
+xlab (slovenia)	1
+european intermodal association	1
+environmental protection agency	1
+energias de portugal (portugal)	1
+research and educational networking association of moldova	1
+deutsches institut für normung	1
+institute for mobile and satellite communication technology	1
+corvinus university of budapest	1
+chartered institute of building	1
+centre of biotechnology of sfax	1
+fundace	1
+case western reserve university	1
+agencia estatal de meteorología	1
+caesar systems (united kingdom)	1
+amsterdam university of the arts	1
+bill & melinda gates foundation	1
+basque centre for climate change	1
+bentley systems (united kingdom)	1
+bandung institute of technology	1
+carnegie institution for science	1
+catholic university of the north	1
+centro medico nacional siglo xxi	1
+colorado state university system	1
+agricultural university plovdiv	1
+acies consulting group (france)	1
+complejo hospitalario de ourense	1
+european rail research institute	1
+federal university of pernambuco	1
+finnish meteorological institute	1
+fundación ciudad de la energía	1
+fundación universitaria sanitas	1
+universitair ziekenhuis leuven	1
+r.e. kavetsky institute of experimental pathology, oncology and radiobiology	1
+technology partners foundation	1
+technical university of zvolen	1
+gdańsk university of technology	1
+glaxosmithkline (united kingdom)	1
+gmv innovating solutions (spain)	1
+swedish geotechnical institute	1
+health level seven international	1
+state university of santa cruz	1
+sonora institute of technology	1
+hong kong polytechnic university	1
+procter & gamble (switzerland)	1
+hospital regional de antofagasta	1
+hospital regional de concepción	1
+institute of organic chemistry with centre of phytochemistry	1
+norwegian veterinary institute	1
+niigata cancer center hospital	1
+huazhong agricultural university	1
+nagoya institute of technology	1
+icelandic fisheries laboratories	1
+interdisciplinary centre for comparative research foundation	1
+libertine fpe (united kingdom)	1
+lafargeholcim (united kingdom)	1
+roche (germany)	1
+celabor	1
+national institute of engineering, technology and innovation	1
+instituto nacional del cáncer	1
+trans-european research and education networking association	1
+indiana university bloomington	1
+hospital sant jaume de calella	1
+hospital provincial de rosario	1
+hospital general de granollers	1
+hellenic statistical authority	1
+institut für baustoff-forschung	1
+institute of chemical technology	1
+hammersmith medicines research	1
+instituto politécnico de leiria	1
+granta design (united kingdom)	1
+pfizer (sweden)	1
+federal institute of hydrology	1
+fachhochschule wiener neustadt	1
+european society of cardiology	1
+instituto politécnico de lisboa	1
+european heat pump association	1
+european food safety authority	1
+istituto neurologico carlo besta	1
+john wood group (united kingdom)	1
+king george's medical university	1
+leuphana university of lüneburg	1
+canarie	1
+copenhagen university hospital	1
+complejo hospitalario de jaén	1
+centre hospitalier sainte-anne	1
+nord university	1
+national institute of statistics	1
+birmingham children's hospital	1
+włodzimierz trzebiatowski institute of low temperature and structure research	1
+association for cancer surgery	1
+anheuser-busch inbev (belgium)	1
+agilent technologies (belgium)	1
+national institute of technology	1
+norwegian beekeepers association	1
+oncology group of southern italy	1
+ospedale policlinico san martino	1
+nokia (belgium)	1
+polytechnic university of tirana	1
+university of the arts london	1
+poznań university of technology	1
+university of hawaii at manoa	1
+principia ingenieros consultores	1
+university of colorado denver	1
+university hospital of geneva	1
+university hospital innsbruck	1
+tokyo institute of technology	1
+the cancer institute hospital	1
+shandong agricultural university	1
+technical university of varna	1
+technical software consulting	1
+suny downstate medical center	1
+stadtwerke duisburg (germany)	1
+sheffield children's hospital	1
+shanghai jiao tong university	1
+shadow robot (united kingdom)	1
+slovak university of agriculture	1
+schlumberger (united kingdom)	1
+swedish transport administration	1
+riga east university hospital	1
+raytheon technologies (italy)	1
+pál heim children's hospital	1
+nexans (france)	1
+portuguese oncology institute	1
+portuguese environment agency	1
+polyclinic medical university	1
+temasek life sciences laboratory	1
+university of california, irvine	1
+naturgy (spain)	1
+northumberland county council	1
+nhs greater glasgow and clyde	1
+national veterinary institute	1
+national pedagogic university	1
+adelard	1
+metaxa hospital	1
+university of koblenz and landau	1
+athens technology center (greece)	1
+biocrates life sciences (austria)	1
+lodz university of technology	1
+csp innovazione nelle ict (italy)	1
+istituto oncologico romagnolo	1
+european bioinformatics institute	1
+intelligent machines (sweden)	1
+hospital angeles clínica londres	1
+institute of computer science	1
+hôpital arnaud de villeneuve	1
+mersen (france)	1
+hospital de câncer de pernambuco	1
+hospital general de catalunya	1
+institute of experimental physics	1
+hospital civil de guadalajara	1
+holon institute of technology	1
+intrasoft international (belgium)	1
+irccs humanitas research hospital	1
+media archive for central england	1
+françois rabelais university	1
+migal - galilee technology center	1
+merck (germany)	1
+national university of río negro	1
+pall corporation (united kingdom)	1
+federal university of paraná	1
+european university institute	1
+dga techniques aéronautiques	1
+rochester institute of technology	1
+science and research centre koper	1
+centre for process innovation	1
+matia fundazioa	1
+sokoine university of agriculture	1
+state hydrometeorological service	1
+mahle (germany)	1
+british standards institution	1
+brick development association	1
+boehringer ingelheim (sweden)	1
+industrial research institute for automation and measurements	1
+azienda ospedaliera di padova	1
+american university of beirut	1
+aircraft research association	1
+lofarma (italy)	1
+zoological society of london	1
+knauf (germany)	1
+wings ict solutions (greece)	1
+swedish orphan biovitrum (sweden)	1
+the university of texas at austin	1
+uk centre for ecology & hydrology	1
+university of kaiserslautern	1
+japanese foundation for multidisciplinary treatment of cancer	1
+university for foreigners perugia	1
+university hospital centre zagreb	1
+keio university	1
+victoria university of wellington	1
+a n bach institute of biochemistry	1
+university hospital lewisham	1
+university hospital in motol	1
+unitelma sapienza university	1
+tomsk polytechnic university	1
+leibniz institute for agricultural engineering and bioeconomy	1
+swedish nutrition foundation	1
+state university of campinas	1
+informa (italy)	1
+schneider electric (germany)	1
+sainsbury's (united kingdom)	1
+research centre of the slovenian academy of sciences and arts	1
+agricultural institute of slovenia	1
+ricardo aea (united kingdom)	1
+austrian research promotion agency	1
+pantheon-sorbonne university	1
+imdea materials	1
+ospedale papa giovanni xxiii	1

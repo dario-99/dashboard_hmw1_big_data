@@ -1,0 +1,42 @@
+code	units_of_assestment	avg_funds
+c14 geography and environmental studies	1.344745685E7
+a02 public health, health services and primary care	9771271.3
+b11 computer science and informatics	9002650.129629629
+a04 psychology, psychiatry and neuroscience	5990624.3125
+b12 engineering	5369430.573529412
+c17 business and management studies	3748657.6
+a06 agriculture, veterinary and food science	3662360.480769231
+c13 architecture, built environment and planning	3020836.5833333335
+c21 sociology	2997462.5
+c19 politics and international studies	2827681.3333333335
+b11 computer science and informatics; b12 engineering	2616000.0
+a05 biological sciences	1981670.9722222222
+b12 engineering; c13 architecture, built environment and planning	1881554.5
+a03 allied health professions, dentistry, nursing and pharmacy	1857682.8510638298
+c23 education	1807864.0625
+c22 anthropology and development studies	1543500.0
+a01 clinical medicine	1528382.8448275863
+b07 earth systems and environmental sciences	1461700.0967741935
+c18 law	1291155.7777777778
+c15 archaeology	1153178.0
+b08 chemistry	1117000.5263157894
+d34 communication, cultural and media studies, library and information management	1037666.6666666666
+b09 physics	981053.2608695652
+d29 classics	824856.0
+c20 social work and social policy	703422.6666666666
+d32 art and design: history, practice and theory	680022.75
+d28 history	663862.6
+c16 economics and econometrics	532482.5
+d30 philosophy	390060.0
+b10 mathematical sciences	389131.3333333333
+c13 architecture, built environment and planning; c14 geography and environmental studies	367720.0
+	294824.10448548815
+d26 modern languages and linguistics	247468.66666666666
+d33 music, drama, dance, performing arts, film and screen studies	246102.0
+d27 english language and literature	198000.0
+b10 mathematical sciences; b11 computer science and informatics	120000.0
+a01 clinical medicine; a04 psychology, psychiatry and neuroscience	50000.0
+a01 clinical medicine; a03 allied health professions, dentistry, nursing and pharmacy	
+b07 earth systems and environmental sciences; b12 engineering	
+c24 sport and exercise sciences, leisure and tourism	
+a03 allied health professions, dentistry, nursing and pharmacy; b12 engineering	

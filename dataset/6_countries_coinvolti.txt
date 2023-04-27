@@ -1,0 +1,94 @@
+country	count
+united kingdom	1493
+germany	1007
+france	836
+spain	626
+netherlands	423
+belgium	305
+united states	280
+sweden	263
+greece	222
+switzerland	215
+portugal	172
+denmark	149
+austria	146
+norway	114
+poland	102
+finland	97
+israel	92
+russia	90
+ireland	79
+czechia	74
+turkey	63
+hungary	59
+china	57
+slovenia	55
+japan	53
+romania	45
+australia	37
+bulgaria	34
+brazil	31
+chile	30
+canada	27
+slovakia	24
+cyprus	20
+iceland	20
+estonia	20
+argentina	19
+south africa	18
+india	18
+croatia	17
+lithuania	14
+mexico	13
+luxembourg	11
+taiwan	11
+new zealand	11
+serbia	10
+latvia	10
+south korea	9
+egypt	7
+morocco	7
+ukraine	7
+tanzania	6
+belarus	6
+north macedonia	5
+tunisia	5
+singapore	4
+sudan	4
+moldova	4
+malta	3
+kenya	3
+colombia	3
+uruguay	3
+indonesia	3
+bosnia and herzegovina	2
+burkina faso	2
+thailand	2
+nigeria	2
+georgia	2
+armenia	2
+albania	2
+uganda	2
+ghana	2
+cuba	2
+lebanon	1
+jordan	1
+senegal	1
+vietnam	1
+cameroon	1
+ethiopia	1
+malaysia	1
+pakistan	1
+syria	1
+greenland	1
+montenegro	1
+qatar	1
+mozambique	1
+uzbekistan	1
+ivory coast	1
+philippines	1
+palestinian territory	1
+saudi arabia	1
+dominican republic	1
+panama	1
+algeria	1

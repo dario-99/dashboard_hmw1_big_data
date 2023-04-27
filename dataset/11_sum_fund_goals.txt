@@ -1,0 +1,37 @@
+code	goal	sum_funds
+11 sustainable cities and communities	3.01135446E8
+7 affordable and clean energy	2.5493829E8
+9 industry, innovation and infrastructure	2.31822894E8
+12 responsible consumption and production	1.10889367E8
+3 good health and well being	8.9879347E7
+13 climate action	7.8916699E7
+2 zero hunger	7.4202177E7
+12 responsible consumption and production; 9 industry, innovation and infrastructure	6.2713133E7
+13 climate action; 7 affordable and clean energy	4.6309878E7
+4 quality education	1.3010254E7
+12 responsible consumption and production; 2 zero hunger	1.1133058E7
+13 climate action; 3 good health and well being	9038530.0
+15 life on land	7203903.0
+14 life below water	6564462.0
+12 responsible consumption and production; 7 affordable and clean energy	5989743.0
+11 sustainable cities and communities; 12 responsible consumption and production	5976136.0
+16 peace, justice and strong institutions	5843352.0
+8 decent work and economic growth	5009442.0
+2 zero hunger; 6 clean water and sanitation	4993506.0
+11 sustainable cities and communities; 7 affordable and clean energy	4083774.0
+11 sustainable cities and communities; 13 climate action	3552648.0
+12 responsible consumption and production; 8 decent work and economic growth; 9 industry, innovation and infrastructure	2850220.0
+11 sustainable cities and communities; 4 quality education	2476827.0
+10 reduced inequalities; 8 decent work and economic growth	2321800.0
+5 gender equality	2200332.0
+1 no poverty	2067171.0
+13 climate action; 9 industry, innovation and infrastructure	1317750.0
+10 reduced inequalities	1119595.0
+11 sustainable cities and communities; 16 peace, justice and strong institutions	688000.0
+6 clean water and sanitation	635087.0
+10 reduced inequalities; 16 peace, justice and strong institutions	559000.0
+16 peace, justice and strong institutions; 4 quality education	325000.0
+1 no poverty; 10 reduced inequalities	224000.0
+11 sustainable cities and communities; 14 life below water	180000.0
+8 decent work and economic growth; 9 industry, innovation and infrastructure	163716.0
+16 peace, justice and strong institutions; 8 decent work and economic growth	122000.0
