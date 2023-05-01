@@ -14,6 +14,7 @@ import geopandas
 import plotly.figure_factory as ff
 from geopy.geocoders import Nominatim
 import folium
+from streamlit_folium import st_folium, folium_static
 
 # Funzione di loading dei dati
 @st.cache_data()
@@ -36,21 +37,6 @@ def load_dataset():
     #         lon.append(pos.longitude)
     # data['4_partner'].insert(0, 'lat', lat)
     # data['4_partner'].insert(0, 'lon', lon)
-
-    # # Transform country to lat e long
-    # lat = []
-    # lon = []
-    # for idx, elem in data['6_countries_coinvolti'].iterrows():
-    #     pos = geolocator.geocode(elem['partner'])
-    #     if not pos:
-    #         st.error(f"{elem['country']} non trovato")
-    #         lat.append(0)
-    #         lon.append(0)
-    #     else:
-    #         lat.append(pos.latitude)
-    #         lon.append(pos.longitude)
-    # data['6_countries_coinvolti'].insert(0, 'lat', lat)
-    # data['6_countries_coinvolti'].insert(0, 'lon', lon)
     return data
 
 st.set_page_config(layout='wide')
@@ -60,7 +46,7 @@ data = load_dataset()
 
 # Set widemode
 
-st.title("Dashboard Fondi Federico II")
+st.title(":classical_building: Dashboard Fondi Federico II")
 
 col1, col2 = st.columns(2)
 
@@ -93,10 +79,10 @@ with col1:
 
     # 11 sum fund per goal
 
-    st.title("Somma dei fondi ricevuti per goal per il futuro")
-    num_goal = st.slider(min_value=2, max_value=len(data['11_sum_fund_goals']), label='numero di goal', step=1, value=10)
-    sum_chart = px.bar(data['11_sum_fund_goals'][:num_goal], x='code', y='goal', color='goal')
-    st.plotly_chart(sum_chart)
+    # st.title("Somma dei fondi ricevuti per goal per il futuro")
+    # num_goal = st.slider(min_value=2, max_value=len(data['11_sum_fund_goals']), label='numero di goal', step=1, value=10)
+    # sum_chart = px.bar(data['11_sum_fund_goals'][:num_goal], x='code', y='goal', color='goal')
+    # st.plotly_chart(sum_chart)
     
 
 
@@ -113,15 +99,19 @@ with col2:
 
     # 6 paesi convolti
     st.title('Paesi con piu collaborazioni con la Federico II oltre l\'italia')
-    num_paesi = st.slider(min_value=2, max_value=len(data['6_countries_coinvolti']), value=10, label='Numero di paesi')
-    country_chart = px.bar(
-        data['6_countries_coinvolti'],
-        x='country',
-        y='count',
-        color='count',
-        color_continuous_scale='Viridis'
-    )
-    st.plotly_chart(country_chart)
+    data['6_countries_coinvolti_fix']['lon'].astype('float')
+    data['6_countries_coinvolti_fix']['lat'].astype('float')
+    fig = px.scatter_mapbox(
+            data['6_countries_coinvolti_fix'],
+            lat="lat",
+            lon="lon",
+            zoom=0.5,
+            size='count',
+            color='count',
+            color_continuous_scale='Bluered',
+        )
+    fig.update_layout(mapbox_style="open-street-map")
+    st.plotly_chart(fig)
     
     # 8 top finanziatori
     st.title("Top finanziatori")
@@ -129,7 +119,7 @@ with col2:
     campi_chart = px.bar(data['8_top_finanziatori'][:num_funders], x='funder', y='funds', color='funds')
     st.plotly_chart(campi_chart)
 
-    # 12 media
-    st.title("Media dei fondi ricevuti per goal per il futuro")
-    avg_chart = px.bar(data['12_avg_fund_goals'][:num_goal], x='code', y='goal', color='goal')
-    st.plotly_chart(avg_chart)
+    # # 12 media
+    # st.title("Media dei fondi ricevuti per goal per il futuro")
+    # avg_chart = px.bar(data['12_avg_fund_goals'][:num_goal], x='code', y='goal', color='goal')
+    # st.plotly_chart(avg_chart)
